@@ -1,44 +1,33 @@
 {
-  "generated_at": "2025-10-15T17:14:28.003018+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2025-10-15T18:14:00.533050+08:00",
+  "total_titles_processed": 301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "美银调查：亚洲基金经理愈发看好中国资产 半导体和AI是首选",
           "url": "https://www.cls.cn/detail/2169939",
           "source": "财联社热门",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时14分"
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
         },
         {
           "title": "美银调查：做多黄金登顶最拥挤交易 “AI泡沫”成最大尾部风险",
           "url": "https://www.cls.cn/detail/2169746",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时14分"
-        },
-        {
-          "title": "英国AI数据中心开发商NSCALE与微软签订了约20万个英伟达GB300 GPU合同。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2988061",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时14分"
+          "appearance_count": 2,
+          "time_info": "[18时13分 ~ 18时14分]"
         }
       ]
     }
