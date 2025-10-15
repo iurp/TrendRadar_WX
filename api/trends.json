@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T14:00:39.011352+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-10-15T14:27:38.063103+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
@@ -16,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "14时27分"
         },
         {
           "title": "特朗普称考虑终止与中国部分贸易往来",
@@ -27,7 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "14时27分"
         },
         {
           "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
@@ -38,46 +38,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能",
-      "match_count": 3,
-      "titles": [
+          "time_info": "14时27分"
+        },
         {
-          "title": "高盛员工信：AI将成为实现增长新路径 代价是部分人的岗位",
-          "url": "https://www.cls.cn/detail/2169506",
+          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
+          "url": "https://www.cls.cn/detail/2169818",
           "source": "财联社热门",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
-        },
-        {
-          "title": "这波人工智能浪潮怎么越来越像泡沫，AI 到底带来了什么？",
-          "url": "https://www.zhihu.com/question/658385796",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时00分"
-        },
-        {
-          "title": "中兴通讯完成IMT-2020（5G）推进组RAN AI关键技术测试",
-          "url": "https://wallstreetcn.com/livenews/2987934",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "14时27分"
         }
       ]
     },
@@ -94,63 +66,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "14时27分"
         },
         {
           "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
           "url": "https://www.cls.cn/detail/2169515",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
-          "url": "https://www.cls.cn/detail/2169528",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时00分"
-        },
-        {
-          "title": "阿斯麦(ASML.O)美股夜盘拉升，现涨4%。",
-          "url": "https://flash.jin10.com/detail/20251015132225045800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价创新高还能涨吗",
-          "url": "https://www.toutiao.com/trending/7561268723688934921/",
-          "source": "今日头条",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "14时27分"
         }
       ]
     },
@@ -167,7 +94,41 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时00分"
+          "time_info": "14时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
+          "url": "https://www.cls.cn/detail/2169528",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时27分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中兴通讯完成IMT-2020（5G）推进组RAN AI关键技术测试",
+          "url": "https://wallstreetcn.com/livenews/2987934",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时27分"
         }
       ]
     }
