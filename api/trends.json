@@ -1,94 +1,33 @@
 {
-  "generated_at": "2025-10-16T02:18:25.964287+08:00",
+  "generated_at": "2025-10-16T03:12:39.157286+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "高盛总裁沃尔德伦：现在判断人工智能繁荣是否是泡沫还为时过早。",
-          "url": "https://flash.jin10.com/detail/20251016014130780800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
         {
           "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
           "url": "https://wallstreetcn.com/livenews/2988357",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美联储理事沃勒：可能还需要再过几年，我们才能看到人工智能取代传统岗位所带来的新增就业。",
-          "url": "https://flash.jin10.com/detail/20251016013320437800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美联储理事沃勒：人工智能发展如此之快，我们会在看到新的就业机会之前看到失业。",
-          "url": "https://flash.jin10.com/detail/20251016013303542800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "03时12分"
         },
         {
           "title": "美联储理事沃勒：人工智能（AI）将促进美国经济，这一点是毫无疑问的。 如果AI有助于促进生产力的改善，那对这方面的投资将继续。 AI被认为将上升（刺激生产力），造成裁员和招聘活动下降。",
           "url": "https://wallstreetcn.com/livenews/2988349",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "美联储理事米兰：人工智能对经济的影响难以量化。",
-          "url": "https://flash.jin10.com/detail/20251016012505816800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
-          "url": "https://wallstreetcn.com/articles/3757182",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "03时12分"
         }
       ]
     }
