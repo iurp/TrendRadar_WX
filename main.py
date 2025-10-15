@@ -2749,15 +2749,29 @@ def send_to_feishu(
     )
 
     now = get_beijing_time()
-    payload = {
-        "msg_type": "text",
-        "content": {
+
+    # 检测是否为飞书集成自动化(Flow) webhook
+    is_flow_webhook = "flow/api/trigger-webhook" in webhook_url
+
+    if is_flow_webhook:
+        # 飞书Flow格式：直接发送参数，不需要msg_type包装
+        payload = {
             "total_titles": total_titles,
             "timestamp": now.strftime("%Y-%m-%d %H:%M:%S"),
             "report_type": report_type,
             "text": text_content,
-        },
-    }
+        }
+    else:
+        # 标准飞书机器人格式
+        payload = {
+            "msg_type": "text",
+            "content": {
+                "total_titles": total_titles,
+                "timestamp": now.strftime("%Y-%m-%d %H:%M:%S"),
+                "report_type": report_type,
+                "text": text_content,
+            },
+        }
 
     proxies = None
     if proxy_url:
