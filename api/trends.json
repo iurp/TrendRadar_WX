@@ -1,145 +1,39 @@
 {
-  "generated_at": "2025-10-15T14:44:40.905148+08:00",
+  "generated_at": "2025-10-15T15:14:58.500465+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31776933",
-          "source": "澎湃新闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "特朗普称考虑终止与中国部分贸易往来",
-          "url": "https://news.ifeng.com/c/8nSohQvRLm8",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
-          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
-          "url": "https://wallstreetcn.com/articles/3757151",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
-          "url": "https://www.cls.cn/detail/2169818",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
+      "match_count": 1,
       "titles": [
         {
           "title": "OpenAI将在阿根廷投资250亿美元，打造拉美首个“星际之门”项目",
           "url": "https://www.cls.cn/detail/2169533",
           "source": "财联社热门",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时44分"
-        },
-        {
-          "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
-          "url": "https://www.cls.cn/detail/2169515",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
+          "time_info": "15时14分"
         }
       ]
     },
     {
-      "keyword_group": "黄金",
+      "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
       "match_count": 1,
       "titles": [
         {
-          "title": "特朗普的一个推特让比特币波动超 10%，比特币价格频繁大幅波动，是不是说明其已经失去了数字黄金的地位？",
-          "url": "https://www.zhihu.com/question/1961010617587561780",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股收盘：三大股指涨跌不一 鲍威尔暗示缩表接近尾声 市场押注10月再度降息",
-          "url": "https://www.cls.cn/detail/2169528",
+          "title": "美银调查：做多黄金登顶最拥挤交易 “AI泡沫”成最大尾部风险",
+          "url": "https://www.cls.cn/detail/2169746",
           "source": "财联社热门",
           "ranks": [
-            2
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时44分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "高盛员工信：AI将成为实现增长新路径 代价是部分人的岗位",
-          "url": "https://www.cls.cn/detail/2169506",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时44分"
+          "time_info": "15时14分"
         }
       ]
     }
