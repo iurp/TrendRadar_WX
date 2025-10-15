@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-15T21:28:19.957085+08:00",
+  "generated_at": "2025-10-15T22:14:36.588231+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -7,17 +7,6 @@
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
       "match_count": 4,
       "titles": [
-        {
-          "title": "美银CEO莫伊尼汉：人工智能技术持续应用于美国银行的各个领域。",
-          "url": "https://flash.jin10.com/detail/20251015210840321800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
-        },
         {
           "title": "美银调查：亚洲基金经理愈发看好中国资产 半导体和AI是首选",
           "url": "https://www.cls.cn/detail/2169939",
@@ -27,29 +16,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时14分"
+        },
+        {
+          "title": "美银CEO莫伊尼汉：人工智能技术持续应用于美国银行的各个领域。",
+          "url": "https://flash.jin10.com/detail/20251015210840321800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时14分"
         },
         {
           "title": "据华尔街日报：人工智能初创公司Poolside与CoreWeave计划在西得克萨斯州建设大型数据中心。",
           "url": "https://flash.jin10.com/detail/20251015210732704800",
           "source": "金十数据",
           "ranks": [
-            7
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时14分"
         },
         {
           "title": "华为发布以AI-Centric全面升级的AI WAN解决方案",
           "url": "https://wallstreetcn.com/livenews/2988266",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时14分"
         }
       ]
     }
