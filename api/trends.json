@@ -1,33 +1,22 @@
 {
-  "generated_at": "2025-10-16T03:12:39.157286+08:00",
+  "generated_at": "2025-10-16T04:15:17.060244+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 2,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "人工智能（AI）初创公司Poolside在大规模数据中心问题上与CoreWeave组团。",
-          "url": "https://wallstreetcn.com/livenews/2988357",
+          "title": "美国参议院民主党成员Warren和Sanders等成员发函谷歌公司。 他们质疑谷歌就YouTube问题与美国总统特朗普达成0.22亿美元和解一事。",
+          "url": "https://wallstreetcn.com/livenews/2988383",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            14
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时12分"
-        },
-        {
-          "title": "美联储理事沃勒：人工智能（AI）将促进美国经济，这一点是毫无疑问的。 如果AI有助于促进生产力的改善，那对这方面的投资将继续。 AI被认为将上升（刺激生产力），造成裁员和招聘活动下降。",
-          "url": "https://wallstreetcn.com/livenews/2988349",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时12分"
+          "time_info": "04时15分"
         }
       ]
     }
