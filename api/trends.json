@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-15T14:27:38.063103+08:00",
+  "generated_at": "2025-10-15T14:32:39.325073+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特朗普发起“毒品战争”的醉翁之意：美国战略重心正向西半球倾斜",
@@ -16,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "14时32分"
         },
         {
           "title": "特朗普称考虑终止与中国部分贸易往来",
@@ -27,7 +27,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "14时32分"
+        },
+        {
+          "title": "特朗普：我很不高兴，考虑对西班牙征收关税",
+          "url": "https://news.ifeng.com/c/8nTFc7ITZHc",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "否认“特朗普内线”，加大空仓至3.4亿美元！上周精准狙击币圈的“巨鲸”又有新动作",
@@ -38,7 +49,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "14时32分"
         },
         {
           "title": "特朗普关税压力下 全球第四大车企宣布将在美投资130亿美元",
@@ -49,7 +60,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "14时32分"
         }
       ]
     },
@@ -66,7 +77,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "14时32分"
         },
         {
           "title": "AI重塑零售业！沃尔玛携手OpenAI在ChatGPT上推出购物功能",
@@ -77,7 +88,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "14时32分"
         }
       ]
     },
@@ -94,7 +105,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "14时32分"
         }
       ]
     },
@@ -111,7 +122,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "14时32分"
         }
       ]
     },
@@ -124,11 +135,11 @@
           "url": "https://wallstreetcn.com/livenews/2987934",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时27分"
+          "time_info": "14时32分"
         }
       ]
     }
