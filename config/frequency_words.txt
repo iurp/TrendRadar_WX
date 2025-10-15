@@ -5,27 +5,59 @@ DeepSeek
 google
 gemini
 
-chatgpt
-openai
+n8n
 
-金价
-
-黄金
-+价格
-
-美债
-
-美股
-
-美元
-+指数
-
-特朗普
+GPT-5
+Claude 3.5
+Claude Next
+Sora
+Runway
+Video AI
+OpenAI
+GPTs
+Midjourney
+Flux
 
 AI
 人工智能
+AI创业
+AI创业者
+超级个体
+AI个体
+AI主理人
+一人公司
+独立开发者
+indie hacker
+内容变现
+知识付费
+AI副业
+自动化运营
+AI营销
+Agent
 
-n8n
+TikTok Shop
+TikTok电商
+跨境电商
+出海创业
+AliExpress
+Temu
+Shein
+Amazon AI tools
+Shopify AI
+SEO AI
+AI Ads
 
+小红书算法
+小红书趋势
+抖音热点
+抖音AI内容
+YouTube Shorts
+TikTok Trends
+爆款文案
+视频开场
+标题心理学
+AI口播
+虚拟主播
+数字人
 
 !广告
