@@ -1,33 +1,44 @@
 {
-  "generated_at": "2025-10-15T18:14:00.533050+08:00",
-  "total_titles_processed": 301,
+  "generated_at": "2025-10-15T19:10:47.083054+08:00",
+  "total_titles_processed": 303,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美银调查：亚洲基金经理愈发看好中国资产 半导体和AI是首选",
           "url": "https://www.cls.cn/detail/2169939",
           "source": "财联社热门",
           "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时10分"
+        },
+        {
+          "title": "爱立信与加拿大出口发展局签署30亿美元合作协议，爱立信将扩大加拿大研发、供应链及人工智能投资。",
+          "url": "https://flash.jin10.com/detail/20251015181456192800",
+          "source": "金十数据",
+          "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 18时14分]"
+          "appearance_count": 1,
+          "time_info": "19时10分"
         },
         {
-          "title": "美银调查：做多黄金登顶最拥挤交易 “AI泡沫”成最大尾部风险",
-          "url": "https://www.cls.cn/detail/2169746",
-          "source": "财联社热门",
+          "title": "百度蒸汽机再进化：AI长视频可边生成边改 发布互动数字人与开放世界",
+          "url": "https://wallstreetcn.com/livenews/2988168",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时13分 ~ 18时14分]"
+          "appearance_count": 1,
+          "time_info": "19时10分"
         }
       ]
     }
