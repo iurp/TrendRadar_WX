@@ -1,7 +1,25 @@
 {
-  "generated_at": "2025-10-15T23:13:36.531847+08:00",
+  "generated_at": "2025-10-16T00:12:56.705732+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌在印度南部砸下150亿美元建数据中心，打造美国之外最大AI枢纽",
+          "url": "https://wallstreetcn.com/articles/3757182",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时12分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://iurp.github.io/TrendRadar_WX/img/news.jpg"
 }
