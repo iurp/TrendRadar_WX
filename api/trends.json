@@ -1,33 +1,55 @@
 {
-  "generated_at": "2025-10-17T06:11:03.325549+08:00",
+  "generated_at": "2025-10-17T07:11:58.319558+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "台积电法说会：对人工智能大趋势的信心正在“增强”，上调全年销售预期和资本支出下限",
           "url": "https://wallstreetcn.com/articles/3757296",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 06时11分]"
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "聚焦第二届湾区半导体投融资战略发展论坛：产业投资结构持续优化，AI及自主可控成焦点",
+          "url": "https://wallstreetcn.com/livenews/2989226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "UP主用AI教库克说中文",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%95%99%E5%BA%93%E5%85%8B%E8%AF%B4%E4%B8%AD%E6%96%87",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时10分 ~ 06时11分]"
+          "appearance_count": 1,
+          "time_info": "07时11分"
+        },
+        {
+          "title": "Fulton Breakefield Broenniman研究主管Michael Bailey说：现在我更担心的是投资者情绪受到打击，而不是美国地区银行的资产负债表受到重创。",
+          "url": "https://wallstreetcn.com/livenews/2989221",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时11分"
         }
       ]
     }
