@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-17T02:17:34.984020+08:00",
+  "generated_at": "2025-10-17T03:09:47.182574+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -16,29 +16,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "甲骨文设法打消投资者对人工智能（AI）利润的恐惧感，称大型AI基础设施项目的利润率可以达到35%。 该公司在拉斯维加斯年度活动上举例称，一个为期六年、600亿美元总收入的AI基建项目利润率就可以达到35%。 CoreWeave上涨6.6%，甲骨文也涨4.7%。",
-          "url": "https://wallstreetcn.com/livenews/2989137",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "03时09分"
         },
         {
           "title": "UP主用AI教库克说中文",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%95%99%E5%BA%93%E5%85%8B%E8%AF%B4%E4%B8%AD%E6%96%87",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "03时09分"
+        },
+        {
+          "title": "甲骨文设法打消投资者对人工智能（AI）利润的恐惧感，称大型AI基础设施项目的利润率可以达到35%。 该公司在拉斯维加斯年度活动上举例称，一个为期六年、600亿美元总收入的AI基建项目利润率就可以达到35%。 CoreWeave上涨6.6%，甲骨文也涨4.7%。",
+          "url": "https://wallstreetcn.com/livenews/2989137",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         }
       ]
     }
