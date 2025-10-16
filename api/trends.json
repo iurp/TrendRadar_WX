@@ -1,33 +1,55 @@
 {
-  "generated_at": "2025-10-16T12:14:57.246275+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-10-16T13:11:44.221575+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "AI是否会取代人类？凯文·凯利：AI没有责任感，不会替代人类工作",
+          "url": "https://wallstreetcn.com/livenews/2988686",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "凯文·凯利：五年内，中国或做出世界上最好的人工智能芯片",
+          "url": "https://wallstreetcn.com/livenews/2988685",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "汇丰：人工智能对劳动力市场造成巨大影响",
+          "url": "https://flash.jin10.com/detail/20251016122308329800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
         {
           "title": "央视主持人李梓萌遭AI仿冒带货",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%A2%93%E8%90%8C%E9%81%ADAI%E4%BB%BF%E5%86%92%E5%B8%A6%E8%B4%A7",
           "source": "百度热搜",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
-          "url": "https://wallstreetcn.com/articles/3757228",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时11分"
         },
         {
           "title": "特朗普已授权中情局在委内瑞拉开展行动 Anthropic发布Claude Haiku 4.5 | 环球市场",
@@ -38,24 +60,46 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时11分"
+        },
+        {
+          "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
+          "url": "https://wallstreetcn.com/articles/3757228",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时11分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-16）",
+          "url": "https://flash.jin10.com/detail/20251016120739164800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时11分"
         }
       ]
     },
     {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI：所有用户现在可在SORA应用和网页端生成最长15秒的视频，专业用户最长可达25秒。",
-          "url": "https://flash.jin10.com/detail/20251016105501420800",
-          "source": "金十数据",
+          "title": "硬刚sora2谷歌发布Veo3.1",
+          "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
+          "source": "bilibili 热搜",
           "ranks": [
-            26
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时11分"
         }
       ]
     }
