@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-16T14:19:00.904172+08:00",
+  "generated_at": "2025-10-16T15:13:41.827671+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 3,
+      "match_count": 12,
       "titles": [
-        {
-          "title": "台积电CEO：对人工智能大趋势的信心正在“增强”。 人工智能需求将在2025年全年保持强劲。",
-          "url": "https://wallstreetcn.com/livenews/2988742",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时19分"
-        },
         {
           "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
           "url": "https://wallstreetcn.com/articles/3757228",
@@ -26,64 +15,146 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "台积电(TSM.N)：我们正处于人工智能应用的早期阶段。",
+          "url": "https://flash.jin10.com/detail/20251016144125826800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "台积电(TSM.N)：仍对AI增长前景保持乐观。",
+          "url": "https://flash.jin10.com/detail/20251016143535320800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "台积电(TSM.N)：AI产能非常紧张。",
+          "url": "https://flash.jin10.com/detail/20251016143058668800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "台积电(TSM.N)：人工智能需求持续强劲，比我们3个月前预期的还要强劲。",
+          "url": "https://flash.jin10.com/detail/20251016142532888800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "台积电：现在讨论2026年还为时过早。 汇率波动将影响公司的利润率。 我们正处于AI应用的早期阶段。 非常关注终端客户。 对先进制程芯片的需求是真实存在的。",
+          "url": "https://wallstreetcn.com/livenews/2988757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         },
         {
           "title": "央视主持人李梓萌遭AI仿冒带货",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E4%B8%BB%E6%8C%81%E4%BA%BA%E6%9D%8E%E6%A2%93%E8%90%8C%E9%81%ADAI%E4%BB%BF%E5%86%92%E5%B8%A6%E8%B4%A7",
           "source": "百度热搜",
           "ranks": [
-            13
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "台积电：关于CoWoS封装产能，仍努力在2026年提升产能。 AI相关产能非常紧张。",
+          "url": "https://wallstreetcn.com/livenews/2988749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "台积电CEO：2纳米制程预计本季度后期实现量产。 A16芯片预计明年下半年实现量产。 AI需求持续强劲，比我们三个月前预想的还要强劲。 资本支出规模在任何一年都不太可能突然下降。 明年整体展望良好。",
+          "url": "https://wallstreetcn.com/livenews/2988746",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "台积电CEO：对人工智能大趋势的信心正在“增强”。 人工智能需求将在2025年全年保持强劲。 正在加快美国产能扩张步伐。 日本第二座工厂已开始建设。 德国项目进展顺利。",
+          "url": "https://wallstreetcn.com/livenews/2988742",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "台积电(TSM.N)：人工智能市场发展非常积极。",
+          "url": "https://flash.jin10.com/detail/20251016141545683800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
+        {
+          "title": "台积电(TSM.N)：我们对人工智能这一大趋势的信心正在增强。",
+          "url": "https://flash.jin10.com/detail/20251016141525970800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "硬刚sora2谷歌发布Veo3.1",
           "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
-        },
-        {
-          "title": "谷歌Veo 3.1迎来重大更新硬刚Sora 2",
-          "url": "https://www.baidu.com/s?wd=%E8%B0%B7%E6%AD%8CVeo+3.1%E8%BF%8E%E6%9D%A5%E9%87%8D%E5%A4%A7%E6%9B%B4%E6%96%B0%E7%A1%AC%E5%88%9ASora+2",
-          "source": "百度热搜",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "鸿海科技台股大涨8% 董事长刘扬伟已会晤OpenAI并计划对话英伟达",
-          "url": "https://flash.jin10.com/detail/20251016134632394800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "15时13分"
         }
       ]
     }
