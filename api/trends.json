@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-16T23:24:54.752819+08:00",
+  "generated_at": "2025-10-17T00:15:05.459711+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -12,11 +12,11 @@
           "url": "https://wallstreetcn.com/articles/3757299",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时24分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
           "title": "UP主用AI教库克说中文",
@@ -26,8 +26,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时24分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
           "title": "AI芯片需求持续火热，台积电Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元 | 财报见闻",
@@ -37,25 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "纳斯达克100指数上涨1%，刷新日高，成分股美光科技涨6.4%，电商Shopify涨3.4%，Doordash涨3.1%，博通涨2.9%，Arm控股涨2.5%，谷歌A涨1.8%，英伟达涨1.7%，特许通讯则跌2.8%，VRSK跌4.4%。",
-          "url": "https://wallstreetcn.com/livenews/2989087",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时24分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         }
       ]
     }
