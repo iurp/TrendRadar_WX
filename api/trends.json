@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-16T17:13:24.827440+08:00",
-  "total_titles_processed": 299,
+  "generated_at": "2025-10-16T18:14:55.670583+08:00",
+  "total_titles_processed": 298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "UP主用AI教库克说中文",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%95%99%E5%BA%93%E5%85%8B%E8%AF%B4%E4%B8%AD%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
         {
           "title": "“看，皇帝没穿衣服”！对冲基金经理：万亿美元的AI投入，赚得回来吗？",
           "url": "https://wallstreetcn.com/articles/3757228",
@@ -16,40 +27,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
-          "title": "报告：2027年AI软硬件整体市场规模将达到7800亿至9900亿美元",
-          "url": "https://flash.jin10.com/detail/20251016165953170800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "18时14分"
         },
         {
           "title": "报告：2027年AI软硬件整体市场规模将达到7800亿至9900亿美元",
           "url": "https://wallstreetcn.com/livenews/2988871",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时13分"
-        },
-        {
-          "title": "百度搜索上线AI短剧平台，今日开启公测",
-          "url": "https://wallstreetcn.com/livenews/2988859",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "18时14分"
         }
       ]
     },
@@ -62,11 +51,11 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%A1%AC%E5%88%9Asora2%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83Veo3.1",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时13分"
+          "time_info": "18时14分"
         }
       ]
     }
