@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-18T00:19:52.715930+08:00",
+  "generated_at": "2025-10-18T01:12:42.124566+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "国行iPhone Air测评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时12分"
+        },
         {
           "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
           "url": "https://www.zhihu.com/question/1957708491813783087",
@@ -16,18 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "国行iPhone Air测评",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "01时12分"
         },
         {
           "title": "国行iPhone Air上手体验",
@@ -38,79 +38,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "高盛组建全球基础设施融资团队 押注AI与能源转型机遇",
-          "url": "https://flash.jin10.com/detail/20251017223547959800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "据华尔街日报：高盛正在扩大基础设施融资业务，组建全新团队，专注于数据中心及其他人工智能基础设施。",
-          "url": "https://flash.jin10.com/detail/20251017223434821800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "高盛创建一个侧重于人工智能（AI）融资的团队。 该团队将注重AI基础设施的融资。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/2989806",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "01时12分"
         },
         {
           "title": "超薄iPhoneAir续航如何",
           "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时19分"
-        },
-        {
-          "title": "阅文升级三大AI能力覆盖IP全流程",
-          "url": "https://wallstreetcn.com/livenews/2989797",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "小马智行旗下卢森堡部门与斯泰兰蒂斯集团Stellantis宣布，双方将在欧洲共同测试无人驾驶出租车。 未来数月，两家公司将在卢森堡共同测试无人驾驶出租车，并将在2026年拓展至欧洲的其他地区。 本周稍早，谷歌母公司Alphabet旗下无人驾驶业务Waymo宣布，计划在英国伦敦启动自动驾驶出租车业务。",
-          "url": "https://wallstreetcn.com/livenews/2989800",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时19分"
+          "time_info": "01时12分"
         }
       ]
     }
