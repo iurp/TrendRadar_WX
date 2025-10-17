@@ -1,110 +1,33 @@
 {
-  "generated_at": "2025-10-18T03:14:30.977703+08:00",
+  "generated_at": "2025-10-18T04:14:00.672487+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 9,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
-          "url": "https://www.zhihu.com/question/1957708491813783087",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
         {
           "title": "国行iPhone Air测评",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E6%B5%8B%E8%AF%84",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 04时14分]"
         },
         {
           "title": "国行iPhone Air上手体验",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "超薄iPhoneAir续航如何",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "Meta与Blue Owl围绕AI达成300亿美元私人资本协议",
-          "url": "https://wallstreetcn.com/livenews/2989856",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：各国需对人工智能采取系统性方法。",
-          "url": "https://flash.jin10.com/detail/20251018022938290800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：我们看到发展中经济体认识到必须加快步伐，以便利用人工智能实现跨越式发展。",
-          "url": "https://flash.jin10.com/detail/20251018022647390800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：我们不希望人工智能成为又一个加剧分歧的工具。",
-          "url": "https://flash.jin10.com/detail/20251018022512322800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
-        },
-        {
-          "title": "特斯拉代理顾问机构股东服务公司（ISS）建议特斯拉(TSLA.O)投资者不要支持投资XAI的提案。",
-          "url": "https://flash.jin10.com/detail/20251018022010908800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时14分"
+          "appearance_count": 2,
+          "time_info": "[04时13分 ~ 04时14分]"
         }
       ]
     }
