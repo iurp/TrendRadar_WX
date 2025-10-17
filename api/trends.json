@@ -1,22 +1,55 @@
 {
-  "generated_at": "2025-10-17T15:12:09.201973+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2025-10-17T16:17:38.471339+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "为什么 AI 生成的回答会动不动就喜欢分点和总结？",
+          "url": "https://www.zhihu.com/question/1957708491813783087",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "国行iPhone Air测评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
         {
           "title": "大模型单日调用150亿次！“双11”三大新变量：AI、即时零售与出海",
           "url": "https://www.cls.cn/detail/2172161",
           "source": "财联社热门",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "iPhone Air的eSIM办理教程",
+          "url": "https://www.douyin.com/hot/2272840",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "国行iPhone Air上手体验",
@@ -26,41 +59,19 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
-        },
-        {
-          "title": "国行iPhone Air测评",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E6%B5%8B%E8%AF%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
-        },
-        {
-          "title": "iPhone Air的eSIM办理教程",
-          "url": "https://www.douyin.com/hot/2272840",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "超薄iPhoneAir续航如何",
           "url": "https://search.bilibili.com/all?keyword=%E8%B6%85%E8%96%84iPhoneAir%E7%BB%AD%E8%88%AA%E5%A6%82%E4%BD%95",
           "source": "bilibili 热搜",
           "ranks": [
-            21
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     },
@@ -76,8 +87,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     }
