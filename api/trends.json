@@ -1,55 +1,99 @@
 {
-  "generated_at": "2025-10-17T08:48:30.159048+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-10-17T10:21:58.844651+08:00",
+  "total_titles_processed": 299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
-          "title": "华泰证券：关注AI算力链业绩兑现 运营商预计稳健增长",
-          "url": "https://wallstreetcn.com/livenews/2989275",
-          "source": "华尔街见闻-快讯",
+          "title": "国行iPhone Air上手体验",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
+          "source": "bilibili 热搜",
           "ranks": [
-            7
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "10时21分"
+        },
+        {
+          "title": "国行iPhone Air测评",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E6%B5%8B%E8%AF%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "iPhoneAir正式开售",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhoneAir%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%94%AE%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26flag%3D1%26cate%3D5001%26realpos%3D6%26q%3D%2523iPhoneAir%25E6%25AD%25A3%25E5%25BC%258F%25E5%25BC%2580%25E5%2594%25AE%2523%26dgr%3D0%26lcate%3D5001%26stream_entry_id%3D31%26band_rank%3D6%26filter_type%3Drealtimehot%26pos%3D6%26display_time%3D1760667577%26pre_seqid%3D176066757715500672117",
+          "source": "微博",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时21分"
         },
         {
           "title": "台积电法说会：对人工智能大趋势的信心正在“增强”，上调全年销售预期和资本支出下限",
           "url": "https://wallstreetcn.com/articles/3757296",
           "source": "华尔街见闻",
           "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时21分"
+        },
+        {
+          "title": "AI芯片需求持续火热，台积电Q3净利润创历史新高，超预期增长39%，资本支出达97亿美元 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3757293",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "10时21分"
+        },
+        {
+          "title": "大模型单日调用150亿次！“双11”三大新变量：AI、即时零售与出海",
+          "url": "https://www.cls.cn/detail/2172161",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时21分"
         },
         {
           "title": "AI for Science 行业目前进展如何？未来在哪些领域会有发展潜力？",
           "url": "https://www.zhihu.com/question/9749353322",
           "source": "知乎",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "10时21分"
         },
         {
-          "title": "UP主用AI教库克说中文",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E7%94%A8AI%E6%95%99%E5%BA%93%E5%85%8B%E8%AF%B4%E4%B8%AD%E6%96%87",
-          "source": "bilibili 热搜",
+          "title": "开售火爆！iPhoneAir首批售罄",
+          "url": "https://wallstreetcn.com/livenews/2989311",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "10时21分"
         }
       ]
     },
@@ -62,11 +106,11 @@
           "url": "https://www.zhihu.com/question/1961867297695166783",
           "source": "知乎",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "10时21分"
         }
       ]
     }
