@@ -2778,9 +2778,21 @@ def send_to_feishu(
         proxies = {"http": proxy_url, "https": proxy_url}
 
     try:
+        # Debug: 打印payload信息
+        print(f"[DEBUG] 飞书通知payload信息:")
+        print(f"  - total_titles: {payload.get('total_titles', 0)}")
+        print(f"  - report_type: {payload.get('report_type', '')}")
+        print(f"  - timestamp: {payload.get('timestamp', '')}")
+        print(f"  - text长度: {len(str(payload.get('text', '')))} 字符")
+        print(f"  - text前200字符: {str(payload.get('text', ''))[:200]}")
+
         response = requests.post(
             webhook_url, headers=headers, json=payload, proxies=proxies, timeout=30
         )
+
+        print(f"[DEBUG] 飞书响应状态码: {response.status_code}")
+        print(f"[DEBUG] 飞书响应内容: {response.text[:500]}")
+
         if response.status_code == 200:
             print(f"飞书通知发送成功 [{report_type}]")
             return True
