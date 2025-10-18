@@ -1,66 +1,94 @@
 {
-  "generated_at": "2025-10-18T20:18:50.699735+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-10-18T21:18:46.334048+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
-          "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
-          "url": "https://wallstreetcn.com/livenews/2990065",
+          "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
+          "url": "https://wallstreetcn.com/livenews/2990073",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
-          "url": "https://wallstreetcn.com/livenews/2990064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时18分"
-        },
-        {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时18分"
+          "time_info": "21时18分"
         },
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
           "url": "https://www.cls.cn/detail/2172757",
           "source": "财联社热门",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时18分"
+          "time_info": "21时18分"
+        },
+        {
+          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
+          "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
+          "url": "https://wallstreetcn.com/livenews/2990065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时18分"
+        },
+        {
+          "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
+          "url": "https://wallstreetcn.com/livenews/2990064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         },
         {
           "title": "苹果公司CEO库克：企业如果没有部署AI，就会丧失竞争力",
           "url": "https://wallstreetcn.com/livenews/2990046",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时18分"
+          "time_info": "21时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "gemini 毒奶",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dgemini+%E6%AF%92%E5%A5%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D9%26flag%3D1%26c_type%3D31%26pos%3D9%26realpos%3D9%26filter_type%3Drealtimehot%26cate%3D5001%26lcate%3D5001%26q%3Dgemini%2520%25E6%25AF%2592%25E5%25A5%25B6%26dgr%3D0%26display_time%3D1760793006%26pre_seqid%3D176079300598502732473105",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时18分"
         }
       ]
     }
