@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-18T19:08:49.855019+08:00",
+  "generated_at": "2025-10-18T20:18:50.699735+08:00",
   "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
@@ -12,55 +12,55 @@
           "url": "https://wallstreetcn.com/livenews/2990065",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "20时18分"
         },
         {
           "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
           "url": "https://wallstreetcn.com/livenews/2990064",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时08分"
-        },
-        {
-          "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
-          "url": "https://www.cls.cn/detail/2172757",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "20时18分"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
           "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "20时18分"
+        },
+        {
+          "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
+          "url": "https://www.cls.cn/detail/2172757",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时18分"
         },
         {
           "title": "苹果公司CEO库克：企业如果没有部署AI，就会丧失竞争力",
           "url": "https://wallstreetcn.com/livenews/2990046",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时08分"
+          "time_info": "20时18分"
         }
       ]
     }
