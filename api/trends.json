@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-18T10:15:47.333250+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-10-18T11:24:21.185738+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
           "title": "AI的危险信号：ChatGPT的欧洲付费用户增长或已停滞！",
@@ -16,40 +16,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "11时24分"
         },
         {
           "title": "我国生成式人工智能用户规模超5亿",
           "url": "https://wallstreetcn.com/livenews/2989973",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "iPhone Air全颜色开箱",
-          "url": "https://www.douyin.com/hot/2273469",
-          "source": "抖音",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
-        },
-        {
-          "title": "国行iPhone Air上手体验",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时15分"
+          "time_info": "11时24分"
         }
       ]
     }
