@@ -1,55 +1,66 @@
 {
-  "generated_at": "2025-10-18T07:12:21.759345+08:00",
+  "generated_at": "2025-10-18T08:46:08.653626+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI的危险信号：ChatGPT的欧洲付费用户增长或已停滞！",
           "url": "https://wallstreetcn.com/articles/3757376",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
         },
         {
           "title": "国行iPhone Air上手体验",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E4%B8%8A%E6%89%8B%E4%BD%93%E9%AA%8C",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
         },
         {
-          "title": "据AXIOS网站：英伟达(NVDA.O)和台积电(TSM.N)将于周五宣布，他们在美国完成的首枚晶圆，这枚晶圆未来将被制成用于人工智能的Blackwell芯片。",
-          "url": "https://flash.jin10.com/detail/20251018035857235800",
-          "source": "金十数据",
+          "title": "iPhone Air首批售罄",
+          "url": "https://www.douyin.com/hot/2272955",
+          "source": "抖音",
           "ranks": [
-            23
+            21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
         },
         {
           "title": "国行iPhone Air测评",
           "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E8%A1%8CiPhone%20Air%E6%B5%8B%E8%AF%84",
           "source": "bilibili 热搜",
           "ranks": [
-            27
+            28
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时45分 ~ 08时46分]"
+        },
+        {
+          "title": "据AXIOS网站：英伟达(NVDA.O)和台积电(TSM.N)将于周五宣布，他们在美国完成的首枚晶圆，这枚晶圆未来将被制成用于人工智能的Blackwell芯片。",
+          "url": "https://flash.jin10.com/detail/20251018035857235800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时46分"
         }
       ]
     },
@@ -62,11 +73,11 @@
           "url": "https://wallstreetcn.com/livenews/2989928",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            22
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时46分"
         }
       ]
     }
