@@ -1,105 +1,110 @@
 {
-  "generated_at": "2025-10-18T22:09:51.424660+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-10-18T23:10:01.982752+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
-        {
-          "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
-          "url": "https://flash.jin10.com/detail/20251018213151998800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
           "url": "https://www.cls.cn/detail/2172757",
           "source": "财联社热门",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时09分"
-        },
-        {
-          "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
-          "url": "https://wallstreetcn.com/livenews/2990078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时09分"
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
           "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时09分 ~ 23时10分]"
+        },
+        {
+          "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
+          "url": "https://flash.jin10.com/detail/20251018223232047800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "23时10分"
+        },
+        {
+          "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
+          "url": "https://wallstreetcn.com/livenews/2990084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
+          "url": "https://wallstreetcn.com/livenews/2990078",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
+        },
+        {
+          "title": "英国央行行长贝利：我们必须促进对经济体的投资。我们必须在工作中应用AI。",
+          "url": "https://flash.jin10.com/detail/20251018213151998800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时10分"
         },
         {
           "title": "马斯克表示，Grok 5将是通用人工智能（AGI），或者是与AGI难以区分的东西。",
           "url": "https://wallstreetcn.com/livenews/2990073",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            12
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "23时10分"
         },
         {
           "title": "摩根士丹利Stan Delaney：下一轮投资机会将集中于借助AI开拓新兴业务的企业",
           "url": "https://wallstreetcn.com/livenews/2990065",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            19
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "23时10分"
         },
         {
           "title": "国家知识产权局：持续完善人工智能领域知识产权制度规则",
           "url": "https://wallstreetcn.com/livenews/2990064",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时09分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "gemini 毒奶",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dgemini+%E6%AF%92%E5%A5%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26lcate%3D5001%26band_rank%3D9%26stream_entry_id%3D31%26q%3Dgemini%2520%25E6%25AF%2592%25E5%25A5%25B6%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26realpos%3D9%26flag%3D0%26cate%3D5001%26pos%3D10%26display_time%3D1760796571%26pre_seqid%3D176079657159503554414108",
-          "source": "微博",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时09分"
+          "time_info": "23时10分"
         }
       ]
     }
