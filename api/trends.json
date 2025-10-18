@@ -1,66 +1,44 @@
 {
-  "generated_at": "2025-10-18T16:13:45.097084+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2025-10-18T17:12:37.228107+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "苹果公司CEO库克：企业如果没有部署AI，就会丧失竞争力",
+          "url": "https://wallstreetcn.com/livenews/2990046",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时12分"
+        },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
           "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
           "source": "澎湃新闻",
           "ranks": [
-            17
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时13分"
+          "time_info": "17时12分"
         },
         {
           "title": "苹果CEO库克：中国年轻AI开发者的创造力令人惊叹",
           "url": "https://wallstreetcn.com/livenews/2990020",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "英伟达退出 国产AI芯片要崛起了吗",
-          "url": "https://www.toutiao.com/trending/7562416129633701419/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://wallstreetcn.com/livenews/2990011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "肖远企：人工智能作为重大科技进步，推动金融最大生产可能性边界向外移动也是完全可以期待的",
-          "url": "https://wallstreetcn.com/livenews/2990007",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
+          "time_info": "17时12分"
         }
       ]
     }
