@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-20T03:10:35.623030+08:00",
+  "generated_at": "2025-10-20T04:13:17.995626+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 8,
+      "match_count": 7,
       "titles": [
         {
           "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
@@ -16,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时13分"
         },
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -27,7 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时13分"
         },
         {
           "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
@@ -38,7 +38,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时13分"
         },
         {
           "title": "AI资本开支太狂热了？高盛：这才到哪呢",
@@ -49,7 +49,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时13分"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -60,7 +60,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时13分"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -71,29 +71,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时13分"
         },
         {
           "title": "远景科技集团董事长张雷：未来能源企业核心竞争力，将是人工智能资产",
           "url": "https://wallstreetcn.com/livenews/2990192",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "领益智造与绳驱AI机器人公司星尘智能签署战略合作协议",
-          "url": "https://wallstreetcn.com/livenews/2990188",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时13分"
         }
       ]
     }
