@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-19T20:20:27.464929+08:00",
+  "generated_at": "2025-10-19T21:19:09.412020+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
         },
         {
           "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
@@ -26,8 +26,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
         },
         {
           "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
@@ -37,19 +37,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
         },
         {
           "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
           "url": "https://wallstreetcn.com/articles/3757443",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
         },
         {
           "title": "特朗普发布AI视频向抗议者洒粪",
@@ -59,8 +59,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -70,8 +70,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -81,8 +81,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时20分"
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
         }
       ]
     }
