@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T10:42:31.059090+08:00",
+  "generated_at": "2025-10-19T11:41:27.509527+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 8,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -16,29 +16,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "11时41分"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
           "url": "https://wallstreetcn.com/articles/3757427",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "11时41分"
         },
         {
           "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
           "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "11时41分"
         },
         {
           "title": "为AI供电的“终极方案”？详解SMR（小型模块化核反应堆技术）",
@@ -49,51 +49,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "11时41分"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
           "url": "https://www.cls.cn/detail/2173607",
           "source": "财联社热门",
           "ranks": [
-            13
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "11时41分"
         },
         {
           "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
           "url": "https://wallstreetcn.com/livenews/2990084",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "11时41分"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：计划一到两周内做关于人工智能的演讲。特朗普仍然希望政府关门问题得到友好解决。政府关门将导致几乎除了国防之外的任何事情停摆。",
           "url": "https://flash.jin10.com/detail/20251018223232047800",
           "source": "金十数据",
           "ranks": [
-            24
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
-        },
-        {
-          "title": "英国央行行长贝利：我们必须促进对经济体的投资。 我们必须在工作中应用AI。 英国脱欧对经济产生了负面影响。 预计会出现大规模的、更快的供应冲击。",
-          "url": "https://wallstreetcn.com/livenews/2990078",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "11时41分"
         }
       ]
     },
@@ -106,11 +95,28 @@
           "url": "https://www.zhihu.com/question/11521332735",
           "source": "知乎",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时42分"
+          "time_info": "11时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "微软(MSFT.O)领导人担心，要满足OpenAI快速增长的计算需求，可能会导致服务器过度建设，而这可能无法产生经济回报。",
+          "url": "https://flash.jin10.com/detail/20251019102338888800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         }
       ]
     }
