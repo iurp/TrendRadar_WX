@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-19T16:14:50.954427+08:00",
+  "generated_at": "2025-10-19T17:11:09.021174+08:00",
   "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
@@ -15,19 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
         },
         {
           "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
           "url": "https://wallstreetcn.com/articles/3757441",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
         },
         {
           "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
@@ -37,8 +37,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
+        },
+        {
+          "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
+          "url": "https://wallstreetcn.com/articles/3757443",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -48,36 +59,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        },
-        {
-          "title": "特朗普发AI视频挑衅抗议者",
-          "url": "https://flash.jin10.com/detail/20251019112407399800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "GPT-5连破10道百年悬案级难题",
-          "url": "https://www.baidu.com/s?wd=GPT-5%E8%BF%9E%E7%A0%B410%E9%81%93%E7%99%BE%E5%B9%B4%E6%82%AC%E6%A1%88%E7%BA%A7%E9%9A%BE%E9%A2%98",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时14分"
+          "appearance_count": 2,
+          "time_info": "[17时10分 ~ 17时11分]"
         }
       ]
     }
