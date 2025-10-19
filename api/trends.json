@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T14:17:34.125897+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-19T15:10:12.429167+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 15时10分]"
         },
         {
           "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 15时10分]"
         },
         {
           "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
@@ -37,19 +37,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "为AI供电的“终极方案”？详解SMR（小型模块化核反应堆技术）",
-          "url": "https://wallstreetcn.com/articles/3757428",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 15时10分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -59,19 +48,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 15时10分]"
         },
         {
           "title": "特朗普发AI视频挑衅抗议者",
           "url": "https://flash.jin10.com/detail/20251019112407399800",
           "source": "金十数据",
           "ranks": [
-            14
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时17分"
+          "time_info": "15时10分"
         }
       ]
     },
@@ -80,26 +69,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "微软(MSFT.O)领导人担心，要满足OpenAI快速增长的计算需求，可能会导致服务器过度建设，而这可能无法产生经济回报。",
-          "url": "https://flash.jin10.com/detail/20251019102338888800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
           "title": "GPT-5连破10道百年悬案级难题",
           "url": "https://www.baidu.com/s?wd=GPT-5%E8%BF%9E%E7%A0%B410%E9%81%93%E7%99%BE%E5%B9%B4%E6%82%AC%E6%A1%88%E7%BA%A7%E9%9A%BE%E9%A2%98",
           "source": "百度热搜",
           "ranks": [
-            28
+            24
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时09分 ~ 15时10分]"
+        },
+        {
+          "title": "微软(MSFT.O)领导人担心，要满足OpenAI快速增长的计算需求，可能会导致服务器过度建设，而这可能无法产生经济回报。",
+          "url": "https://flash.jin10.com/detail/20251019102338888800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时17分"
+          "time_info": "15时10分"
         }
       ]
     }
