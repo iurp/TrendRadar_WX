@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-20T06:12:01.971307+08:00",
+  "generated_at": "2025-10-20T07:11:50.545661+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时12分]"
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时12分]"
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
@@ -37,8 +37,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时12分]"
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "AI资本开支太狂热了？高盛：这才到哪呢",
@@ -48,30 +48,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时12分]"
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
           "url": "https://www.cls.cn/detail/2173607",
           "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时12分]"
+          "appearance_count": 1,
+          "time_info": "07时11分"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
           "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时12分]"
+          "appearance_count": 1,
+          "time_info": "07时11分"
         }
       ]
     }
