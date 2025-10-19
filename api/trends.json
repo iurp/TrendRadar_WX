@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-19T13:11:40.843783+08:00",
+  "generated_at": "2025-10-19T14:17:34.125897+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 9,
+      "match_count": 6,
       "titles": [
         {
           "title": "AI电力警报拉响！巨头押宝核聚变 AIDC电源架构同步演进",
@@ -16,18 +16,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "14时17分"
         },
         {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://wallstreetcn.com/articles/3757427",
+          "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
+          "url": "https://wallstreetcn.com/articles/3757441",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "14时17分"
         },
         {
           "title": "辣眼睛！特朗普发布AI视频：头戴皇冠，开战斗机向抗议者洒大便",
@@ -38,73 +38,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
-          "url": "https://wallstreetcn.com/articles/3757441",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "14时17分"
         },
         {
           "title": "为AI供电的“终极方案”？详解SMR（小型模块化核反应堆技术）",
           "url": "https://wallstreetcn.com/articles/3757428",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "苹果CEO库克谈AI：不担心计算机像人一样思考，担心人像计算机一样思考",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31802033",
-          "source": "澎湃新闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "特朗普发AI视频挑衅抗议者",
-          "url": "https://flash.jin10.com/detail/20251019112407399800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "14时17分"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
           "url": "https://www.cls.cn/detail/2173607",
           "source": "财联社热门",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "14时17分"
         },
         {
-          "title": "美国白宫经济顾问Hassett：计划一到两周内做一个关于人工智能的演讲。 特朗普仍然希望政府关门问题得到友好解决。 政府关门几乎可能导致除了国防之外的任何事情停摆。",
-          "url": "https://wallstreetcn.com/livenews/2990084",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普发AI视频挑衅抗议者",
+          "url": "https://flash.jin10.com/detail/20251019112407399800",
+          "source": "金十数据",
           "ranks": [
-            28
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "14时17分"
         }
       ]
     },
@@ -117,39 +84,22 @@
           "url": "https://flash.jin10.com/detail/20251019102338888800",
           "source": "金十数据",
           "ranks": [
-            15
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "14时17分"
         },
         {
           "title": "GPT-5连破10道百年悬案级难题",
           "url": "https://www.baidu.com/s?wd=GPT-5%E8%BF%9E%E7%A0%B410%E9%81%93%E7%99%BE%E5%B9%B4%E6%82%AC%E6%A1%88%E7%BA%A7%E9%9A%BE%E9%A2%98",
           "source": "百度热搜",
           "ranks": [
-            24
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "deepseek 本地部署能做到阅读几百万字文本吗？",
-          "url": "https://www.zhihu.com/question/11521332735",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "14时17分"
         }
       ]
     }
