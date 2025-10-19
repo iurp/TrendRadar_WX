@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-19T18:12:43.210139+08:00",
+  "generated_at": "2025-10-19T19:11:07.021417+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
+        },
+        {
+          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威者泼粪",
+          "url": "https://news.ifeng.com/c/8na1AOphcs7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         },
         {
           "title": "“PE巨头”黑石总裁：华尔街低估了AI的颠覆性，现在投项目首先评估“颠覆风险\"",
@@ -26,30 +37,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "特朗普发布AI恶搞视频，驾驶战斗机向示威人群倾倒粪便",
-          "url": "https://news.ifeng.com/c/8na1AOphcs7",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         },
         {
           "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
           "url": "https://wallstreetcn.com/articles/3757443",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         },
         {
           "title": "黑石总裁警告：华尔街低估了AI对许多行业“降维打击”的风险",
@@ -59,19 +59,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         },
         {
           "title": "特朗普发布AI视频向抗议者洒粪",
           "url": "https://www.toutiao.com/trending/7562522819947511850/",
           "source": "今日头条",
           "ranks": [
-            26
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         }
       ]
     }
