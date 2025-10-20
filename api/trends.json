@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-20T12:18:15.490728+08:00",
+  "generated_at": "2025-10-20T13:13:43.615964+08:00",
   "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "据美国科技资讯网站Tom's Hardware：微软(MSFT.O)已向英特尔下达其下一代AI芯片Maia2的晶圆代工订单，计划采用18A或18A-P制程。该芯片将用于微软Azure数据中心等AI基础设施。",
+          "url": "https://flash.jin10.com/detail/20251020124013040800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
         {
           "title": "AI资本开支太狂热了？高盛：这才到哪呢",
           "url": "https://wallstreetcn.com/articles/3757451",
@@ -15,30 +26,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 12时18分]"
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
           "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
           "source": "澎湃新闻",
           "ranks": [
-            11
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时17分 ~ 12时18分]"
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "金十数据整理：每日人工智能动态汇总（2025-10-20）",
           "url": "https://flash.jin10.com/detail/20251020115503116800",
           "source": "金十数据",
           "ranks": [
-            11
+            15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时18分"
+          "time_info": "13时13分"
         }
       ]
     }
