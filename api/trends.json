@@ -1,33 +1,44 @@
 {
-  "generated_at": "2025-10-20T14:19:20.695830+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-10-20T15:14:05.573237+08:00",
+  "total_titles_processed": 316,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI资本开支太狂热了？高盛：这才到哪呢",
           "url": "https://wallstreetcn.com/articles/3757451",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
           "url": "https://m.thepaper.cn/newsDetail_forward_31806849",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
+        },
+        {
+          "title": "美国女子AI生成号码中10万美元彩票",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E5%AD%90AI%E7%94%9F%E6%88%90%E5%8F%B7%E7%A0%81%E4%B8%AD10%E4%B8%87%E7%BE%8E%E5%85%83%E5%BD%A9%E7%A5%A8",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时13分 ~ 15时14分]"
         }
       ]
     }
