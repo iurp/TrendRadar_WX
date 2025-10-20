@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-21T05:12:36.990203+08:00",
+  "generated_at": "2025-10-21T06:13:21.501584+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -16,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时13分"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
@@ -27,18 +27,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时13分"
         },
         {
           "title": "JKAI锐评王力宏单依纯爱错",
           "url": "https://search.bilibili.com/all?keyword=JKAI%E9%94%90%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%88%B1%E9%94%99",
           "source": "bilibili 热搜",
           "ranks": [
-            18
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时13分"
         },
         {
           "title": "BLG无畏契约官宣bail离队",
@@ -49,7 +49,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时13分"
         }
       ]
     },
@@ -62,22 +62,22 @@
           "url": "https://wallstreetcn.com/livenews/2990842",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时13分"
         },
         {
           "title": "美股七巨头收盘播报｜苹果收涨超3.9%，和谷歌A创收盘历史新高",
           "url": "https://wallstreetcn.com/livenews/2990829",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时13分"
         }
       ]
     },
@@ -90,11 +90,11 @@
           "url": "https://www.zhihu.com/question/1963642369963426172",
           "source": "知乎",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时13分"
         }
       ]
     }
