@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-20T11:44:28.911881+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-20T12:18:15.490728+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,11 @@
           "url": "https://wallstreetcn.com/articles/3757451",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
-        },
-        {
-          "title": "“比特币矿商”的“估值逻辑”：“为AI发电”数倍于“挖比特币”",
-          "url": "https://wallstreetcn.com/articles/3757443",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时44分"
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
         },
         {
           "title": "不要国王！全美700万人上街抗议，特朗普用AI视频回击",
@@ -37,8 +26,19 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时17分 ~ 12时18分]"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-20）",
+          "url": "https://flash.jin10.com/detail/20251020115503116800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时44分"
+          "time_info": "12时18分"
         }
       ]
     }
