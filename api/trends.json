@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-21T00:15:39.838429+08:00",
+  "generated_at": "2025-10-21T01:10:50.800474+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -16,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "01时10分"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
@@ -27,46 +27,46 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
-        },
-        {
-          "title": "BLG无畏契约官宣bail离队",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "01时10分"
         },
         {
           "title": "JKAI锐评王力宏单依纯爱错",
           "url": "https://search.bilibili.com/all?keyword=JKAI%E9%94%90%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%88%B1%E9%94%99",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "01时10分"
         },
         {
           "title": "“今年双11 我的AI比我还忙”",
           "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%B9%B4%E5%8F%8C11+%E6%88%91%E7%9A%84AI%E6%AF%94%E6%88%91%E8%BF%98%E5%BF%99%E2%80%9D",
           "source": "百度热搜",
           "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时10分"
+        },
+        {
+          "title": "BLG无畏契约官宣bail离队",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "01时10分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
@@ -77,18 +77,24 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
-        },
+          "time_info": "01时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "DeepSeek开源新模型DeepSeek-OCR",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%BC%80%E6%BA%90%E6%96%B0%E6%A8%A1%E5%9E%8BDeepSeek-OCR",
-          "source": "百度热搜",
+          "title": "英伟达(NVDA.O)：与谷歌云宣布加速推动企业级人工智能和工业数字化进程。搭载NVIDIA RTX Pro 6000 Blackwell GPU的Google Cloud G4虚拟机现已全面上线。",
+          "url": "https://flash.jin10.com/detail/20251021000347745800",
+          "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时15分"
+          "time_info": "01时10分"
         }
       ]
     }
