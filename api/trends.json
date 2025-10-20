@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-21T02:18:29.450406+08:00",
+  "generated_at": "2025-10-21T03:10:29.740286+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -16,18 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "BLG无畏契约官宣bail离队",
-          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "03时10分"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
@@ -38,29 +27,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "03时10分"
         },
         {
-          "title": "“今年双11 我的AI比我还忙”",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%B9%B4%E5%8F%8C11+%E6%88%91%E7%9A%84AI%E6%AF%94%E6%88%91%E8%BF%98%E5%BF%99%E2%80%9D",
-          "source": "百度热搜",
+          "title": "BLG无畏契约官宣bail离队",
+          "url": "https://search.bilibili.com/all?keyword=BLG%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%AE%98%E5%AE%A3bail%E7%A6%BB%E9%98%9F",
+          "source": "bilibili 热搜",
           "ranks": [
-            21
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "03时10分"
         },
         {
           "title": "JKAI锐评王力宏单依纯爱错",
           "url": "https://search.bilibili.com/all?keyword=JKAI%E9%94%90%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%88%B1%E9%94%99",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "03时10分"
+        },
+        {
+          "title": "“今年双11 我的AI比我还忙”",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BB%8A%E5%B9%B4%E5%8F%8C11+%E6%88%91%E7%9A%84AI%E6%AF%94%E6%88%91%E8%BF%98%E5%BF%99%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时10分"
         }
       ]
     },
@@ -73,11 +73,11 @@
           "url": "https://www.zhihu.com/question/1963642369963426172",
           "source": "知乎",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "03时10分"
         }
       ]
     }
