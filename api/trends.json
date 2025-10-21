@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-10-22T06:11:22.815199+08:00",
+  "generated_at": "2025-10-22T07:12:36.942341+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 7,
+      "match_count": 6,
       "titles": [
         {
-          "title": "如何评价「AI 就是美国的城投」的观点？",
-          "url": "https://www.zhihu.com/question/1963543399295579410",
-          "source": "知乎",
+          "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
+          "url": "https://wallstreetcn.com/articles/3757557",
+          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         },
         {
           "title": "AI时代需要什么样的程序员",
@@ -27,62 +27,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         },
         {
-          "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
-          "url": "https://wallstreetcn.com/articles/3757557",
+          "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
+          "url": "https://wallstreetcn.com/articles/3757538",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
+        },
+        {
+          "title": "如何评价「AI 就是美国的城投」的观点？",
+          "url": "https://www.zhihu.com/question/1963543399295579410",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
+        },
+        {
+          "title": "AI军备竞赛继续 Anthropic寻求百亿美元云服务支持",
+          "url": "https://flash.jin10.com/detail/20251022055052334800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
           "url": "https://m.thepaper.cn/newsDetail_forward_31818525",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "Fal.ai按超过40亿美元估值融资2.5亿美元。（TechCrunch）",
-          "url": "https://wallstreetcn.com/livenews/2991416",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "iPhone Air评测",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E8%AF%84%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "美国白宫国家经济委员会主任哈塞特（Hassett）：人工智能（AI）生产力繁荣全部来自数据。（福克斯商业新闻）",
-          "url": "https://wallstreetcn.com/livenews/2991412",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         }
       ]
     },
@@ -99,18 +88,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         },
         {
           "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
           "url": "https://wallstreetcn.com/articles/3757530",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         },
         {
           "title": "DeepSeek暂列AI炒币大赛榜首",
@@ -121,18 +110,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         },
         {
           "title": "DeepSeek新模型深度解读",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         }
       ]
     },
@@ -141,26 +130,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "Anthropic与谷歌公司洽谈价值数十亿美元的云计算协议",
-          "url": "https://wallstreetcn.com/livenews/2991440",
-          "source": "华尔街见闻-快讯",
+          "title": "市场消息：Anthropic正在洽谈一项价值数百亿美元的谷歌云合作协议。",
+          "url": "https://flash.jin10.com/detail/20251022054430700800",
+          "source": "金十数据",
           "ranks": [
-            3
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         },
         {
-          "title": "美股七巨头收盘播报｜谷歌A收跌约2.4%，特斯拉跌约1.1%，苹果继续创历史新高，亚马逊涨超2.5%",
-          "url": "https://wallstreetcn.com/livenews/2991418",
+          "title": "Anthropic与谷歌公司洽谈价值数十亿美元的云计算协议",
+          "url": "https://wallstreetcn.com/livenews/2991440",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         }
       ]
     }
