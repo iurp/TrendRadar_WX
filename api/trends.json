@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-21T10:25:30.152277+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2025-10-21T11:36:45.725640+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
@@ -12,33 +12,33 @@
           "url": "https://wallstreetcn.com/articles/3757473",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "11时36分"
         },
         {
           "title": "Blg大变天,功勋教练Bail卸任离队",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28345970&amp;topic_name=Blg%E5%A4%A7%E5%8F%98%E5%A4%A9%2C%E5%8A%9F%E5%8B%8B%E6%95%99%E7%BB%83Bail%E5%8D%B8%E4%BB%BB%E7%A6%BB%E9%98%9F",
           "source": "贴吧",
           "ranks": [
-            17
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "11时36分"
         },
         {
           "title": "JKAI锐评王力宏单依纯爱错",
           "url": "https://search.bilibili.com/all?keyword=JKAI%E9%94%90%E8%AF%84%E7%8E%8B%E5%8A%9B%E5%AE%8F%E5%8D%95%E4%BE%9D%E7%BA%AF%E7%88%B1%E9%94%99",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "11时36分"
         }
       ]
     },
@@ -47,26 +47,43 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "DeepSeek新模型被硅谷夸疯了！用二维视觉压缩一维文字，单GPU能跑，“谷歌核心机密被开源”",
+          "url": "https://wallstreetcn.com/articles/3757530",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时36分"
+        },
+        {
           "title": "DeepSeek 团队发布视觉压缩 OCR 模型，哪些信息和技术亮点值得关注？",
           "url": "https://www.zhihu.com/question/1963642369963426172",
           "source": "知乎",
           "ranks": [
-            2
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时25分"
-        },
+          "time_info": "11时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "DeepSeek新模型深度解读",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%B7%B1%E5%BA%A6%E8%A7%A3%E8%AF%BB",
-          "source": "bilibili 热搜",
+          "title": "为什么 Gemini 2.5pro 回答问题的时候 latex 格式总渲染不出数学公式的样子？",
+          "url": "https://www.zhihu.com/question/1917375398460781402",
+          "source": "知乎",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "11时36分"
         }
       ]
     },
@@ -79,11 +96,11 @@
           "url": "https://www.cls.cn/detail/2175118",
           "source": "财联社热门",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时25分"
+          "time_info": "11时36分"
         }
       ]
     }
