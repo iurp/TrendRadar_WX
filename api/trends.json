@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-22T13:13:58.771758+08:00",
+  "generated_at": "2025-10-22T14:18:55.927064+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -8,37 +8,26 @@
       "match_count": 9,
       "titles": [
         {
-          "title": "广东省国资委：力争到2027年人工智能相关投资超200亿元",
-          "url": "https://wallstreetcn.com/livenews/2991663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
           "title": "曝iPhoneAir暂停生产",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9B%9DiPhoneAir%E6%9A%82%E5%81%9C%E7%94%9F%E4%BA%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D1%26lcate%3D5001%26pos%3D0%26realpos%3D1%26filter_type%3Drealtimehot%26q%3D%2523%25E6%259B%259DiPhoneAir%25E6%259A%2582%25E5%2581%259C%25E7%2594%259F%25E4%25BA%25A7%2523%26c_type%3D31%26cate%3D5001%26dgr%3D0%26flag%3D0%26display_time%3D1761109989%26pre_seqid%3D176110998898403158832101",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9B%9DiPhoneAir%E6%9A%82%E5%81%9C%E7%94%9F%E4%BA%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D0%26stream_entry_id%3D31%26q%3D%2523%25E6%259B%259DiPhoneAir%25E6%259A%2582%25E5%2581%259C%25E7%2594%259F%25E4%25BA%25A7%2523%26lcate%3D5001%26flag%3D0%26band_rank%3D1%26display_time%3D1761113889%26pre_seqid%3D17611138890600147411155",
           "source": "微博",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "14时18分"
         },
         {
           "title": "GDP增长5.5%！人工智能、半导体等产业快速增长 上海经济实现奋力一跳",
           "url": "https://www.cls.cn/detail/2176114",
           "source": "财联社热门",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "14时18分"
         },
         {
           "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
@@ -49,7 +38,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "14时18分"
         },
         {
           "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
@@ -60,51 +49,62 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "14时18分"
         },
         {
           "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
           "url": "https://m.thepaper.cn/newsDetail_forward_31818525",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "14时18分"
         },
         {
-          "title": "双11算不明白让AI算",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%8F%8C11%E7%AE%97%E4%B8%8D%E6%98%8E%E7%99%BD%E8%AE%A9AI%E7%AE%97%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26stream_entry_id%3D31%26band_rank%3D20%26lcate%3D5001%26pos%3D21%26realpos%3D20%26filter_type%3Drealtimehot%26q%3D%2523%25E5%258F%258C11%25E7%25AE%2597%25E4%25B8%258D%25E6%2598%258E%25E7%2599%25BD%25E8%25AE%25A9AI%25E7%25AE%2597%2523%26c_type%3D31%26cate%3D5001%26dgr%3D0%26flag%3D1%26display_time%3D1761109989%26pre_seqid%3D176110998898403158832101",
+          "title": "iPhoneAir京东新品首发",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhoneAir%E4%BA%AC%E4%B8%9C%E6%96%B0%E5%93%81%E9%A6%96%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D17%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D18%26stream_entry_id%3D31%26q%3D%2523iPhoneAir%25E4%25BA%25AC%25E4%25B8%259C%25E6%2596%25B0%25E5%2593%2581%25E9%25A6%2596%25E5%258F%2591%2523%26lcate%3D5001%26flag%3D1%26band_rank%3D17%26display_time%3D1761113889%26pre_seqid%3D17611138890600147411155",
           "source": "微博",
           "ranks": [
-            20
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "14时18分"
+        },
+        {
+          "title": "国内首款AI辅助新药MTS-004完成三期临床",
+          "url": "https://wallstreetcn.com/livenews/2991669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时18分"
         },
         {
           "title": "iPhone Air评测",
           "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E8%AF%84%E6%B5%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            25
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "14时18分"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-22）",
-          "url": "https://flash.jin10.com/detail/20251022115248161800",
-          "source": "金十数据",
+          "title": "广东省国资委：力争到2027年人工智能相关投资超200亿元",
+          "url": "https://wallstreetcn.com/livenews/2991663",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            29
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "14时18分"
         }
       ]
     },
@@ -121,46 +121,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "14时18分"
         },
         {
           "title": "六大 AI 模型上演投资对决，DeepSeek 稳居第一，如何评价各模型的表现？",
           "url": "https://www.zhihu.com/question/1963713236953203912",
           "source": "知乎",
           "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "泽连斯基称已准备好结束俄乌冲突 OpenAI推出AI浏览器 | 环球市场",
-          "url": "https://www.cls.cn/detail/2176367",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "阿里通义千问拿下爱彼迎，CEO公开力挺：比OpenAI好",
-          "url": "https://wallstreetcn.com/livenews/2991625",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "14时18分"
         }
       ]
     },
@@ -177,7 +149,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "14时18分"
         }
       ]
     }
