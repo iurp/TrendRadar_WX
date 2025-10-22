@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-23T02:19:09.065332+08:00",
+  "generated_at": "2025-10-23T03:10:12.505345+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -7,6 +7,17 @@
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
       "match_count": 5,
       "titles": [
+        {
+          "title": "人工智能（AI）概念股Datavault AI跌17.4%，Galaxy Digital跌15.6%，WhiteFiber跌12.3%，Serve Robotics跌11.9%，Rezolve AI跌11.8%，IBM则涨0.9%，达芬奇手术机器人ISRG涨13.4%。 特朗普政府本周推出了一个AI出口计划，鼓励外界购买并采用美国技术。",
+          "url": "https://wallstreetcn.com/livenews/2992039",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时10分"
+        },
         {
           "title": "AI写文狂,原创路变凉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
@@ -16,96 +27,46 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
-        },
-        {
-          "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
-          "url": "https://www.cls.cn/detail/2177003",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
-        },
-        {
-          "title": "郭明錤：iPhone Air需求低于预期 供应链已开始降低出货与产能",
-          "url": "https://flash.jin10.com/detail/20251023013924127800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)：推出Blue Jay和Eluna项目，这是亚马逊最新的机器人技术和人工智能技术，用于运营。",
-          "url": "https://flash.jin10.com/detail/20251023013440544800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "[03时09分 ~ 03时10分]"
         },
         {
           "title": "“大空头”查诺斯（Jim Chanos）：信用市场的状态“非常类似1999年”。 人工智能（AI）是本轮周期（资产配置）的“位移”。（彭博电视）",
           "url": "https://wallstreetcn.com/livenews/2992018",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
+          "time_info": "03时10分"
         },
         {
-          "title": "马斯克对谷歌CEO桑达尔·皮查伊表示：“恭喜。看起来量子计算正在变得越来越重要。”",
-          "url": "https://flash.jin10.com/detail/20251023011201131800",
+          "title": "郭明錤：iPhone Air需求低于预期 供应链已开始降低出货与产能",
+          "url": "https://flash.jin10.com/detail/20251023013924127800",
           "source": "金十数据",
           "ranks": [
-            16
+            23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "03时10分"
         },
         {
-          "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
-          "url": "https://wallstreetcn.com/livenews/2992002",
-          "source": "华尔街见闻-快讯",
+          "title": "亚马逊(AMZN.O)：推出Blue Jay和Eluna项目，这是亚马逊最新的机器人技术和人工智能技术，用于运营。",
+          "url": "https://flash.jin10.com/detail/20251023013440544800",
+          "source": "金十数据",
           "ranks": [
-            30
+            24
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "03时10分"
         }
       ]
     },
     {
       "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "OpenAI发首款AI浏览器",
@@ -116,18 +77,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时18分 ~ 02时19分]"
-        },
-        {
-          "title": "据CNBC：GE Vernova CEO表示，他正在与OpenAI CEO Sam Altman进行对话，因为电力对于人工智能的增长仍然至关重要。",
-          "url": "https://flash.jin10.com/detail/20251023005554826800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时19分"
+          "time_info": "[03时09分 ~ 03时10分]"
         }
       ]
     }
