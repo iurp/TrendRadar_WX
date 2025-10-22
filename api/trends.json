@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-22T16:18:46.767628+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-10-22T17:14:50.068385+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "GDP增长5.5%！人工智能、半导体等产业快速增长 上海经济实现奋力一跳",
@@ -16,40 +16,62 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时14分"
         },
         {
-          "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
-          "url": "https://wallstreetcn.com/articles/3757538",
-          "source": "华尔街见闻",
+          "title": "贝莱德豪掷30亿美元押注AI设施 Meta 270亿融资刷新私募债纪录",
+          "url": "https://flash.jin10.com/detail/20251022164123318800",
+          "source": "金十数据",
           "ranks": [
-            9
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时14分"
         },
         {
-          "title": "欧盟研究：人工智能不是可靠的新闻来源",
-          "url": "https://wallstreetcn.com/livenews/2991773",
-          "source": "华尔街见闻-快讯",
+          "title": "印度拟议的改革要求Chatgpt等人工智能平台将视频或音频内容标记为合成生成的信息。",
+          "url": "https://flash.jin10.com/detail/20251022162935735800",
+          "source": "金十数据",
           "ranks": [
-            18
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时14分"
+        },
+        {
+          "title": "印度提议修改《信息技术规则》，要求社交媒体公司显著标注人工智能深度伪造内容。",
+          "url": "https://flash.jin10.com/detail/20251022162008164800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         },
         {
           "title": "为什么刚开始觉得 ai 编程很厉害，用久了就不行了？",
           "url": "https://www.zhihu.com/question/1954568431539036226",
           "source": "知乎",
           "ranks": [
-            19
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时14分"
+        },
+        {
+          "title": "AI帮助盲人便利出行",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E5%B8%AE%E5%8A%A9%E7%9B%B2%E4%BA%BA%E4%BE%BF%E5%88%A9%E5%87%BA%E8%A1%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26band_rank%3D20%26lcate%3D5001%26flag%3D1%26pos%3D21%26cate%3D5001%26realpos%3D20%26q%3D%2523AI%25E5%25B8%25AE%25E5%258A%25A9%25E7%259B%25B2%25E4%25BA%25BA%25E4%25BE%25BF%25E5%2588%25A9%25E5%2587%25BA%25E8%25A1%258C%2523%26dgr%3D0%26stream_entry_id%3D31%26c_type%3D31%26display_time%3D1761124475%26pre_seqid%3D1761124475117031782009",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         }
       ]
     },
@@ -57,17 +79,6 @@
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
-        {
-          "title": "Alphabet(GOOG.O)股价盘前上涨1.3%，此前一交易日下跌2.4%；有报道称，Anthropic正在与谷歌就价值数百亿美元的云服务协议进行谈判。",
-          "url": "https://flash.jin10.com/detail/20251022161302634800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
         {
           "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
           "url": "https://wallstreetcn.com/articles/3757591",
@@ -77,7 +88,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时14分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)股价盘前上涨1.3%，此前一交易日下跌2.4%；有报道称，Anthropic正在与谷歌就价值数百亿美元的云服务协议进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251022161302634800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时14分"
         }
       ]
     },
@@ -90,11 +112,11 @@
           "url": "https://www.zhihu.com/question/1963713236953203912",
           "source": "知乎",
           "ranks": [
-            7
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时14分"
         }
       ]
     }
