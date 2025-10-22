@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-22T14:18:55.927064+08:00",
+  "generated_at": "2025-10-22T15:12:49.282625+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 9,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "曝iPhoneAir暂停生产",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9B%9DiPhoneAir%E6%9A%82%E5%81%9C%E7%94%9F%E4%BA%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D1%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D0%26stream_entry_id%3D31%26q%3D%2523%25E6%259B%259DiPhoneAir%25E6%259A%2582%25E5%2581%259C%25E7%2594%259F%25E4%25BA%25A7%2523%26lcate%3D5001%26flag%3D0%26band_rank%3D1%26display_time%3D1761113889%26pre_seqid%3D17611138890600147411155",
-          "source": "微博",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
         {
           "title": "GDP增长5.5%！人工智能、半导体等产业快速增长 上海经济实现奋力一跳",
           "url": "https://www.cls.cn/detail/2176114",
@@ -27,29 +16,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "15时12分"
         },
         {
-          "title": "AI“万亿闭环”内幕：Altman、黄仁勋、纳德拉、孙正义等当代科技巨头的“攻守道”",
-          "url": "https://wallstreetcn.com/articles/3757557",
-          "source": "华尔街见闻",
+          "title": "阿联酋国务部长努塞贝赫：阿联酋将很快成为人工智能领域的重要连接点和枢纽。",
+          "url": "https://flash.jin10.com/detail/20251022145101970800",
+          "source": "金十数据",
           "ranks": [
-            6
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "15时12分"
+        },
+        {
+          "title": "曝iPhoneAir暂停生产",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9B%9DiPhoneAir%E6%9A%82%E5%81%9C%E7%94%9F%E4%BA%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D1%26band_rank%3D2%26flag%3D0%26q%3D%2523%25E6%259B%259DiPhoneAir%25E6%259A%2582%25E5%2581%259C%25E7%2594%259F%25E4%25BA%25A7%2523%26realpos%3D2%26stream_entry_id%3D31%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26dgr%3D0%26display_time%3D1761117071%26pre_seqid%3D176111707138601210314109",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
           "url": "https://wallstreetcn.com/articles/3757538",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "15时12分"
         },
         {
           "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
@@ -60,79 +60,35 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "15时12分"
         },
         {
           "title": "iPhoneAir京东新品首发",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhoneAir%E4%BA%AC%E4%B8%9C%E6%96%B0%E5%93%81%E9%A6%96%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D17%26filter_type%3Drealtimehot%26dgr%3D0%26c_type%3D31%26cate%3D5001%26pos%3D18%26stream_entry_id%3D31%26q%3D%2523iPhoneAir%25E4%25BA%25AC%25E4%25B8%259C%25E6%2596%25B0%25E5%2593%2581%25E9%25A6%2596%25E5%258F%2591%2523%26lcate%3D5001%26flag%3D1%26band_rank%3D17%26display_time%3D1761113889%26pre_seqid%3D17611138890600147411155",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhoneAir%E4%BA%AC%E4%B8%9C%E6%96%B0%E5%93%81%E9%A6%96%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D16%26band_rank%3D17%26flag%3D1%26q%3D%2523iPhoneAir%25E4%25BA%25AC%25E4%25B8%259C%25E6%2596%25B0%25E5%2593%2581%25E9%25A6%2596%25E5%258F%2591%2523%26realpos%3D17%26stream_entry_id%3D31%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26dgr%3D0%26display_time%3D1761117071%26pre_seqid%3D176111707138601210314109",
           "source": "微博",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "国内首款AI辅助新药MTS-004完成三期临床",
-          "url": "https://wallstreetcn.com/livenews/2991669",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "iPhone Air评测",
-          "url": "https://search.bilibili.com/all?keyword=iPhone%20Air%E8%AF%84%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
-        {
-          "title": "广东省国资委：力争到2027年人工智能相关投资超200亿元",
-          "url": "https://wallstreetcn.com/livenews/2991663",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "15时12分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "DeepSeek OCR论文引爆网络！Andrej Karpathy：我很喜欢；马斯克：未来99%都是光子",
-          "url": "https://wallstreetcn.com/articles/3757552",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时18分"
-        },
         {
           "title": "六大 AI 模型上演投资对决，DeepSeek 稳居第一，如何评价各模型的表现？",
           "url": "https://www.zhihu.com/question/1963713236953203912",
           "source": "知乎",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "15时12分"
         }
       ]
     },
@@ -145,11 +101,11 @@
           "url": "https://wallstreetcn.com/articles/3757591",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时18分"
+          "time_info": "15时12分"
         }
       ]
     }
