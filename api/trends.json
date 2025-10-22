@@ -1,77 +1,83 @@
 {
-  "generated_at": "2025-10-22T15:12:49.282625+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-22T16:18:46.767628+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 6,
+      "match_count": 4,
       "titles": [
         {
           "title": "GDP增长5.5%！人工智能、半导体等产业快速增长 上海经济实现奋力一跳",
           "url": "https://www.cls.cn/detail/2176114",
           "source": "财联社热门",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "阿联酋国务部长努塞贝赫：阿联酋将很快成为人工智能领域的重要连接点和枢纽。",
-          "url": "https://flash.jin10.com/detail/20251022145101970800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "曝iPhoneAir暂停生产",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%9B%9DiPhoneAir%E6%9A%82%E5%81%9C%E7%94%9F%E4%BA%A7%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D1%26band_rank%3D2%26flag%3D0%26q%3D%2523%25E6%259B%259DiPhoneAir%25E6%259A%2582%25E5%2581%259C%25E7%2594%259F%25E4%25BA%25A7%2523%26realpos%3D2%26stream_entry_id%3D31%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26dgr%3D0%26display_time%3D1761117071%26pre_seqid%3D176111707138601210314109",
-          "source": "微博",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时18分"
         },
         {
           "title": "创业板涨超3%，AI算力硬件爆发，“易中天”大涨，恒科指涨逾1%，苹果概念股走强，国债上涨，商品分化",
           "url": "https://wallstreetcn.com/articles/3757538",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时18分"
         },
         {
-          "title": "马上评｜“用AI流浪汉骗老公”，家庭恶作剧逾越了边界",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31818525",
-          "source": "澎湃新闻",
+          "title": "欧盟研究：人工智能不是可靠的新闻来源",
+          "url": "https://wallstreetcn.com/livenews/2991773",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时18分"
         },
         {
-          "title": "iPhoneAir京东新品首发",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23iPhoneAir%E4%BA%AC%E4%B8%9C%E6%96%B0%E5%93%81%E9%A6%96%E5%8F%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D16%26band_rank%3D17%26flag%3D1%26q%3D%2523iPhoneAir%25E4%25BA%25AC%25E4%25B8%259C%25E6%2596%25B0%25E5%2593%2581%25E9%25A6%2596%25E5%258F%2591%2523%26realpos%3D17%26stream_entry_id%3D31%26c_type%3D31%26lcate%3D5001%26cate%3D5001%26dgr%3D0%26display_time%3D1761117071%26pre_seqid%3D176111707138601210314109",
-          "source": "微博",
+          "title": "为什么刚开始觉得 ai 编程很厉害，用久了就不行了？",
+          "url": "https://www.zhihu.com/question/1954568431539036226",
+          "source": "知乎",
           "ranks": [
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "Alphabet(GOOG.O)股价盘前上涨1.3%，此前一交易日下跌2.4%；有报道称，Anthropic正在与谷歌就价值数百亿美元的云服务协议进行谈判。",
+          "url": "https://flash.jin10.com/detail/20251022161302634800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时18分"
+        },
+        {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时18分"
         }
       ]
     },
@@ -84,28 +90,11 @@
           "url": "https://www.zhihu.com/question/1963713236953203912",
           "source": "知乎",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时18分"
         }
       ]
     }
