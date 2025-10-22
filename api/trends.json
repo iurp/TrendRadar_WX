@@ -1,66 +1,22 @@
 {
-  "generated_at": "2025-10-22T18:14:50.973753+08:00",
-  "total_titles_processed": 299,
+  "generated_at": "2025-10-22T19:11:39.291998+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "深圳：在集成电路、人工智能、新能源等战略性新兴产业领域，支持龙头上市公司等开展上下游并购重组",
-          "url": "https://wallstreetcn.com/livenews/2991850",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "苹果削减iPhone Air生产计划，同时增加了其他iPhone 17型号的订单量。（日经新闻）",
-          "url": "https://wallstreetcn.com/livenews/2991845",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "据日经新闻：苹果(AAPL.O)削减了iPhone Air的生产订单，同时增加了其他iPhone 17型号的订单量。",
-          "url": "https://flash.jin10.com/detail/20251022173212812800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
         {
           "title": "为什么刚开始觉得 ai 编程很厉害，用久了就不行了？",
           "url": "https://www.zhihu.com/question/1954568431539036226",
           "source": "知乎",
           "ranks": [
-            12
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "AI帮助盲人便利出行",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E5%B8%AE%E5%8A%A9%E7%9B%B2%E4%BA%BA%E4%BE%BF%E5%88%A9%E5%87%BA%E8%A1%8C%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26band_rank%3D20%26dgr%3D0%26stream_entry_id%3D31%26pos%3D21%26flag%3D1%26filter_type%3Drealtimehot%26realpos%3D20%26c_type%3D31%26lcate%3D5001%26q%3D%2523AI%25E5%25B8%25AE%25E5%258A%25A9%25E7%259B%25B2%25E4%25BA%25BA%25E4%25BE%25BF%25E5%2588%25A9%25E5%2587%25BA%25E8%25A1%258C%2523%26display_time%3D1761127400%26pre_seqid%3D17611274002430318635115",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "19时11分"
         },
         {
           "title": "曝iPhone Air暂停生产",
@@ -71,7 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "19时11分"
         }
       ]
     },
@@ -84,11 +40,11 @@
           "url": "https://wallstreetcn.com/articles/3757591",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "19时11分"
         }
       ]
     }
