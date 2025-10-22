@@ -1,8 +1,91 @@
 {
-  "generated_at": "2025-10-22T23:13:24.276815+08:00",
+  "generated_at": "2025-10-23T00:15:04.398382+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
+          "url": "https://wallstreetcn.com/articles/3757591",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
+        },
+        {
+          "title": "谷歌A上涨2.4%，谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
+          "url": "https://wallstreetcn.com/livenews/2992002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "通用汽车计划推出无需视觉关注的驾驶功能。 谷歌AI和其他新兴车内技术将于2028年之前投入应用。",
+          "url": "https://wallstreetcn.com/livenews/2992000",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "谷歌发布了Willow芯片的量子计算突破",
+          "url": "https://wallstreetcn.com/livenews/2991999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：实现可验证量子优势演示。",
+          "url": "https://flash.jin10.com/detail/20251022230757813800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "谷歌(GOOG.O)股价触及盘中高位，涨幅达2.4%。",
+          "url": "https://flash.jin10.com/detail/20251022230602930800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        },
+        {
+          "title": "谷歌宣布成功研发具有里程碑意义的量子计算算法",
+          "url": "https://flash.jin10.com/detail/20251022230157213800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时15分"
+        }
+      ]
+    },
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
       "match_count": 5,
@@ -15,8 +98,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
           "title": "史无前例！“AI教父”等超800名科技领袖联合呼吁：停止研发超级智能",
@@ -26,80 +109,41 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "appearance_count": 2,
+          "time_info": "[00时14分 ~ 00时15分]"
         },
         {
-          "title": "惠誉：尽管消费者疲软和政策风险仍然存在，人工智能热潮正在缓冲美国信贷市场的压力。",
-          "url": "https://flash.jin10.com/detail/20251022224038661800",
+          "title": "美媒：Meta将削减人工智能部门约600个职位",
+          "url": "https://flash.jin10.com/detail/20251022230938289800",
           "source": "金十数据",
           "ranks": [
-            14
+            21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时15分"
+        },
+        {
+          "title": "通用汽车(GM.N)：未来，通用汽车将推出专为车辆量身定制的自主人工智能系统。",
+          "url": "https://flash.jin10.com/detail/20251022230614759800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时15分"
         },
         {
           "title": "扎克伯格旗下Meta Platforms将从人工智能（AI）架构裁员大约600人。 新组建的TBD Lab Group并未受到影响。 Meta将继续为了推动AI业务而招聘。",
           "url": "https://wallstreetcn.com/livenews/2991983",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "美股三大指数开盘涨跌不一，道指跌0.03%，纳指跌0.1%，标普500指数涨0.07%。苹果跌0.3%，公司削减了iPhone Air的生产订单；“人造肉第一股”Beyond Meat大涨71%；奈飞跌超7%，Q3盈利远逊预期，下调全年指引。德州仪器跌9.8%，至5月以来最低水平，Q4业绩展望不及预期，暗示芯片行业复苏缓慢。",
-          "url": "https://wallstreetcn.com/livenews/2991966",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "通用汽车计划推出无需视觉关注的驾驶功能。 谷歌AI和其他新兴车内技术将于2028年之前投入应用。",
-          "url": "https://wallstreetcn.com/livenews/2992000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "谷歌公司Quantum在《自然》披露与Willow芯片相关的量子计算突破性进展。",
-          "url": "https://wallstreetcn.com/livenews/2991999",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "OpenAI推出AI浏览器ChatGPT Atlas，直接与谷歌竞争",
-          "url": "https://wallstreetcn.com/articles/3757591",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时15分"
         }
       ]
     }
