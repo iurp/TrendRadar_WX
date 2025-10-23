@@ -1,44 +1,22 @@
 {
-  "generated_at": "2025-10-23T12:15:21.849865+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-10-23T13:12:18.322354+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-23）",
-          "url": "https://flash.jin10.com/detail/20251023115414341800",
+          "title": "瑞典北欧思安银行：继续在多个新领域开发人工智能解决方案，包括风险管理、交易监控等。",
+          "url": "https://flash.jin10.com/detail/20251023123905139800",
           "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "荣耀董事长吴晖：已累计投入超100亿元用于AI研发",
-          "url": "https://wallstreetcn.com/livenews/2992300",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
-          "title": "UP主手搓AI眼镜",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
-          "source": "bilibili 热搜",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时15分"
+          "time_info": "13时12分"
         },
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
@@ -49,18 +27,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时15分"
+          "time_info": "13时12分"
         },
         {
           "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
           "url": "https://www.cls.cn/detail/2177557",
           "source": "财联社热门",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时15分"
+          "time_info": "13时12分"
+        },
+        {
+          "title": "UP主手搓AI眼镜",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "阿里巴巴将开启夸克AI眼镜预售 推动人工智能应用商业化",
+          "url": "https://wallstreetcn.com/livenews/2992314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时12分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-23）",
+          "url": "https://flash.jin10.com/detail/20251023115414341800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -71,18 +82,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时15分"
+          "time_info": "13时12分"
         },
         {
-          "title": "网络安全法修正草案将二审：拟修法促进人工智能安全与发展",
-          "url": "https://wallstreetcn.com/livenews/2992261",
+          "title": "荣耀董事长吴晖：已累计投入超100亿元用于AI研发",
+          "url": "https://wallstreetcn.com/livenews/2992300",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            26
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时15分"
+          "time_info": "13时12分"
         }
       ]
     },
@@ -91,26 +102,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
-          "url": "https://wallstreetcn.com/articles/3757674",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时15分"
-        },
-        {
           "title": "比超级计算机快1.3万倍！谷歌量子计算再现突破 诺奖得主送上关键助攻",
           "url": "https://www.cls.cn/detail/2177879",
           "source": "财联社热门",
           "ranks": [
-            9
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时15分"
+          "time_info": "13时12分"
+        },
+        {
+          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
+          "url": "https://wallstreetcn.com/articles/3757674",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时12分"
         }
       ]
     }
