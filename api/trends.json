@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T01:12:27.742017+08:00",
+  "generated_at": "2025-10-24T02:18:21.952093+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
@@ -16,18 +16,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时18分"
         },
         {
           "title": "UP主手搓AI眼镜",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时18分"
         },
         {
           "title": "iPhone Air上市遇冷，史上最薄的iPhone卖不动了？｜一线",
@@ -38,18 +38,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "微软(MSFT.O)：取消秋季版Copilot发布计划；推出12项新功能，让人工智能更具个性化、实用性与人性化。",
-          "url": "https://flash.jin10.com/detail/20251024000041225800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时18分"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -60,35 +49,35 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时18分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
       "match_count": 2,
       "titles": [
         {
-          "title": "谷歌称量子芯片“Willow”现重大突破：算法可重复验证，五年内或迎实用化",
-          "url": "https://wallstreetcn.com/articles/3757674",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "微软(MSFT.O)：借助“连接器”（Connector），Copilot可串联Onedrive、Outlook、Gmail、Google云端硬盘和Google日历等服务。",
-          "url": "https://flash.jin10.com/detail/20251024000146520800",
+          "title": "OpenAI收购苹果前员工创立的AI初创公司",
+          "url": "https://flash.jin10.com/detail/20251024011125273800",
           "source": "金十数据",
           "ranks": [
-            20
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时18分"
+        },
+        {
+          "title": "OpenAI：已收购软件应用公司（Software Applications Incorporated）。",
+          "url": "https://flash.jin10.com/detail/20251024010353934800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         }
       ]
     }
