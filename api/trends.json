@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T21:28:39.026756+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2025-10-23T22:13:38.913345+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -16,40 +16,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时13分"
         },
         {
-          "title": "周小川：AI对货币政策的影响还需更长时间的观察和研究",
-          "url": "https://wallstreetcn.com/livenews/2992612",
+          "title": "阿里巴巴美股盘初涨超2%，阿里自研AI眼镜开启预售、补贴后最低3699元，新聊天机器人挑战ChatGPT。",
+          "url": "https://wallstreetcn.com/livenews/2992635",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时13分"
         },
         {
           "title": "UP主手搓AI眼镜",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时13分"
         },
         {
-          "title": "如何评价 Meta AI 裁员 600 人，LeCun 负责的 FAIR 实验室是重灾区？",
-          "url": "https://www.zhihu.com/question/1964629313476358315",
-          "source": "知乎",
+          "title": "阿里巴巴(BABA.US)涨超2%，阿里旗下夸克AI眼镜据悉将于24号零点开启预售，预售起价4699元。",
+          "url": "https://flash.jin10.com/detail/20251023214104282800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时13分"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -60,18 +60,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时13分"
         },
         {
-          "title": "王自如入职雷鸟创新任AI产品顾问",
-          "url": "https://wallstreetcn.com/livenews/2992584",
+          "title": "周小川：AI对货币政策的影响还需更长时间的观察和研究",
+          "url": "https://wallstreetcn.com/livenews/2992612",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时13分"
         }
       ]
     },
@@ -88,7 +88,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时13分"
         }
       ]
     }
