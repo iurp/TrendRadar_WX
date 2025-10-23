@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-24T05:12:37.403457+08:00",
+  "generated_at": "2025-10-24T06:10:46.259078+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 8,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "美法官承认使用人工智能导致法院裁决出错",
-          "url": "https://flash.jin10.com/detail/20251024042842055800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
         {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
           "url": "https://wallstreetcn.com/articles/3757698",
@@ -27,29 +16,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时10分"
         },
         {
-          "title": "UP主手搓AI眼镜",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时12分"
-        },
-        {
-          "title": "英特尔：三季度业绩大范围地更加强劲。 服务器需求意外地偏正面。 结束Windows 10，和人工智能（AI）提振收入。",
-          "url": "https://wallstreetcn.com/livenews/2992753",
+          "title": "美法官承认：使用人工智能导致法院裁决出错",
+          "url": "https://wallstreetcn.com/livenews/2992773",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时10分"
         },
         {
           "title": "iPhone Air上市遇冷，史上最薄的iPhone卖不动了？｜一线",
@@ -60,29 +38,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时10分"
         },
         {
-          "title": "英特尔(INTC.O)Q3数据中心与人工智能营收41亿美元，同比下降1%。",
-          "url": "https://flash.jin10.com/detail/20251024040706619800",
+          "title": "UP主手搓AI眼镜",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时10分"
+        },
+        {
+          "title": "美法官承认使用人工智能导致法院裁决出错",
+          "url": "https://flash.jin10.com/detail/20251024042842055800",
           "source": "金十数据",
           "ranks": [
-            17
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时10分"
         },
         {
-          "title": "美国银行CTO Gopalkrishnan：Agentic AI可以“重型举重”。 大规模的AI产能积压将带来丰收。",
-          "url": "https://wallstreetcn.com/livenews/2992741",
+          "title": "英特尔：三季度业绩大范围地更加强劲。 服务器需求意外地偏正面。 结束Windows 10，和人工智能（AI）提振收入。",
+          "url": "https://wallstreetcn.com/livenews/2992753",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时10分"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -93,7 +82,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时10分"
         }
       ]
     },
@@ -106,11 +95,11 @@
           "url": "https://wallstreetcn.com/livenews/2992760",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时10分"
         }
       ]
     }
