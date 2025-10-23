@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T02:18:21.952093+08:00",
+  "generated_at": "2025-10-24T03:11:27.946662+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -16,18 +16,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "03时11分"
         },
         {
           "title": "UP主手搓AI眼镜",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "03时11分"
         },
         {
           "title": "iPhone Air上市遇冷，史上最薄的iPhone卖不动了？｜一线",
@@ -38,7 +38,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "03时11分"
         },
         {
           "title": "AI写文狂,原创路变凉",
@@ -49,35 +49,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "OpenAI收购苹果前员工创立的AI初创公司",
-          "url": "https://flash.jin10.com/detail/20251024011125273800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
-        },
-        {
-          "title": "OpenAI：已收购软件应用公司（Software Applications Incorporated）。",
-          "url": "https://flash.jin10.com/detail/20251024010353934800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时18分"
+          "time_info": "03时11分"
         }
       ]
     }
