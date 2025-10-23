@@ -1,44 +1,77 @@
 {
-  "generated_at": "2025-10-23T10:22:56.355306+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2025-10-23T11:33:23.326916+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "UP主手搓AI眼镜",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
+        {
+          "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
+          "url": "https://wallstreetcn.com/articles/3757698",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时33分"
+        },
         {
           "title": "AI饿坏电网！资管巨头警告：缺口“我们这代人都填不平”",
           "url": "https://www.cls.cn/detail/2177557",
           "source": "财联社热门",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时22分"
+          "time_info": "11时33分"
         },
         {
           "title": "AI写文狂,原创路变凉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
           "source": "贴吧",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时22分"
+          "time_info": "11时33分"
         },
         {
-          "title": "欧洲央行原行长特里谢：不排除AI重演“索洛悖论”",
-          "url": "https://wallstreetcn.com/livenews/2992214",
+          "title": "网络安全法修正草案将二审：拟修法促进人工智能安全与发展",
+          "url": "https://wallstreetcn.com/livenews/2992261",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时22分"
+          "time_info": "11时33分"
+        },
+        {
+          "title": "韩国央行行长李昌镛：全球人工智能行业泡沫可能出现回调。",
+          "url": "https://wallstreetcn.com/livenews/2992249",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时33分"
         }
       ]
     },
@@ -51,11 +84,11 @@
           "url": "https://wallstreetcn.com/articles/3757674",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时22分"
+          "time_info": "11时33分"
         }
       ]
     }
