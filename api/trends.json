@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-23T20:22:03.334247+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2025-10-23T21:28:39.026756+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
@@ -8,70 +8,70 @@
       "match_count": 6,
       "titles": [
         {
-          "title": "王自如入职雷鸟创新任AI产品顾问",
-          "url": "https://wallstreetcn.com/livenews/2992584",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时22分"
-        },
-        {
           "title": "AI供电板块遭重创！“燃气轮机龙头”GE Vernova CEO电话会称“担心电力需求降温”，股价应声重挫",
           "url": "https://wallstreetcn.com/articles/3757698",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "21时28分"
+        },
+        {
+          "title": "周小川：AI对货币政策的影响还需更长时间的观察和研究",
+          "url": "https://wallstreetcn.com/livenews/2992612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "UP主手搓AI眼镜",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E7%9C%BC%E9%95%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "如何评价 Meta AI 裁员 600 人，LeCun 负责的 FAIR 实验室是重灾区？",
           "url": "https://www.zhihu.com/question/1964629313476358315",
           "source": "知乎",
           "ranks": [
-            12
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
+          "appearance_count": 1,
+          "time_info": "21时28分"
         },
         {
           "title": "AI写文狂,原创路变凉",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
           "source": "贴吧",
           "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        },
-        {
-          "title": "上海新增2款已完成备案的生成式人工智能服务",
-          "url": "https://wallstreetcn.com/livenews/2992546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "21时28分"
+        },
+        {
+          "title": "王自如入职雷鸟创新任AI产品顾问",
+          "url": "https://wallstreetcn.com/livenews/2992584",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时28分"
         }
       ]
     },
@@ -84,28 +84,11 @@
           "url": "https://wallstreetcn.com/articles/3757674",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时21分 ~ 20时22分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "英国政府与OpenAI达成协议，以扩大数据托管范围。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2992543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "20时22分"
+          "time_info": "21时28分"
         }
       ]
     }
