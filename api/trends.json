@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T02:18:15.137839+08:00",
+  "generated_at": "2025-10-25T03:11:30.805577+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 02时18分]"
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
@@ -26,19 +26,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 02时18分]"
+          "appearance_count": 1,
+          "time_info": "03时11分"
         },
         {
           "title": "AI续写你的名字",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
           "source": "bilibili 热搜",
           "ranks": [
-            29
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时17分 ~ 02时18分]"
+          "appearance_count": 1,
+          "time_info": "03时11分"
         }
       ]
     }
