@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-24T10:20:27.803050+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2025-10-24T11:30:44.936898+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -16,40 +16,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "11时30分"
         },
         {
-          "title": "三星电子周五表示，已与软银公司签署谅解备忘录，共同研究和开发下一代通信技术，包括6G和基于人工智能的无线接入网络（AI-RAN）创新。",
-          "url": "https://flash.jin10.com/detail/20251024094102994800",
-          "source": "金十数据",
+          "title": "科技部部长阴和俊：全面实施人工智能+行动",
+          "url": "https://wallstreetcn.com/livenews/2992984",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "11时30分"
         },
         {
-          "title": "外滩年会聚焦AI治理",
-          "url": "https://www.toutiao.com/trending/7564362420638977590/",
+          "title": "张艺兴京东AI舞台",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E5%BC%A0%E8%89%BA%E5%85%B4%E4%BA%AC%E4%B8%9CAI%E8%88%9E%E5%8F%B0%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D20%26c_type%3D31%26lcate%3D5001%26flag%3D1%26stream_entry_id%3D31%26cate%3D5001%26dgr%3D0%26band_rank%3D20%26q%3D%2523%25E5%25BC%25A0%25E8%2589%25BA%25E5%2585%25B4%25E4%25BA%25AC%25E4%25B8%259CAI%25E8%2588%259E%25E5%258F%25B0%2523%26filter_type%3Drealtimehot%26pos%3D20%26display_time%3D1761276548%26pre_seqid%3D17612765480570327306138",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时30分"
+        },
+        {
+          "title": "专家：人工智能或驱动新一轮产业繁荣",
+          "url": "https://www.toutiao.com/trending/7564444098019524649/",
           "source": "今日头条",
           "ranks": [
-            27
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
-        },
-        {
-          "title": "AI写文狂,原创路变凉",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346045&amp;topic_name=AI%E5%86%99%E6%96%87%E7%8B%82%2C%E5%8E%9F%E5%88%9B%E8%B7%AF%E5%8F%98%E5%87%89",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "11时30分"
         }
       ]
     },
@@ -66,7 +66,24 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时20分"
+          "time_info": "11时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "小红书算法 小红书趋势 抖音热点 抖音AI内容 YouTube Shorts TikTok Trends 爆款文案 视频开场 标题心理学 AI口播 虚拟主播 数字人",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "深圳人行：数字人民币预付式消费领域签约商家近5000家",
+          "url": "https://wallstreetcn.com/livenews/2992999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时30分"
         }
       ]
     }
