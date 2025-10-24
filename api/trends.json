@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-24T13:11:49.783935+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2025-10-24T14:16:55.771521+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "AI续写你的名字",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
         {
           "title": "中共中央新闻发布会直击：未来10年将再造一个中国高技术产业，深入实施“人工智能+”行动",
           "url": "https://wallstreetcn.com/articles/3757789",
@@ -27,29 +16,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "14时16分"
         },
         {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-24）",
-          "url": "https://flash.jin10.com/detail/20251024115316832800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时11分"
-        },
-        {
-          "title": "阴和俊：将继续加强基础研究和关键核心技术攻关，夯实人工智能发展技术根基",
-          "url": "https://wallstreetcn.com/livenews/2993035",
+          "title": "吉利联合中国汽车工程学会发布行业首个《AI CAR白皮书》",
+          "url": "https://wallstreetcn.com/livenews/2993095",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "14时16分"
+        },
+        {
+          "title": "AI续写你的名字",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时16分"
         }
       ]
     },
@@ -66,7 +55,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时11分"
+          "time_info": "14时16分"
         }
       ]
     }
