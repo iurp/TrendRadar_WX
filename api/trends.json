@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-24T23:12:36.022620+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-10-25T00:14:59.398523+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -16,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "00时14分"
         },
         {
           "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
@@ -27,51 +27,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "英国央行调查数据中心贷款 警惕AI泡沫风险",
-          "url": "https://flash.jin10.com/detail/20251024221602118800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "00时14分"
         },
         {
           "title": "英国央行：AI估值已将一些美国股指的估值倍数推至互联网泡沫顶峰时的水平",
           "url": "https://wallstreetcn.com/livenews/2993513",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "市场消息：在对人工智能泡沫的担忧下，英国央行对数据中心贷款情况进行调查。",
-          "url": "https://flash.jin10.com/detail/20251024220603932800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        },
-        {
-          "title": "AI续写你的名字",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "00时14分"
         }
       ]
     }
