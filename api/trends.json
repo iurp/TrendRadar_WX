@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-25T06:11:30.893522+08:00",
+  "generated_at": "2025-10-25T07:12:30.043071+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
@@ -16,18 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
-        },
-        {
-          "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
-          "url": "https://wallstreetcn.com/articles/3757786",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         },
         {
           "title": "AI续写你的名字",
@@ -38,7 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         }
       ]
     },
@@ -51,11 +40,11 @@
           "url": "https://wallstreetcn.com/livenews/2993598",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         }
       ]
     },
@@ -68,11 +57,11 @@
           "url": "https://wallstreetcn.com/livenews/2993612",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时11分"
+          "time_info": "07时12分"
         }
       ]
     }
