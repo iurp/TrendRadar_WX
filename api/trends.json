@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-24T15:21:24.568712+08:00",
+  "generated_at": "2025-10-24T16:15:36.914371+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
@@ -7,17 +7,6 @@
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
       "match_count": 3,
       "titles": [
-        {
-          "title": "中共中央权威解读四中全会：未来10年将再造一个中国高技术产业，深入实施“人工智能+”行动",
-          "url": "https://wallstreetcn.com/articles/3757789",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
-        },
         {
           "title": "AI续写你的名字",
           "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
@@ -27,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "16时15分"
         },
         {
           "title": "iPhone Air 国行版发售，官网已无现货，平台最高溢价 500 元，其产品力怎样？值得入手吗？",
@@ -38,7 +27,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "16时15分"
+        },
+        {
+          "title": "腾讯2025研发大数据报告：50%的新增代码由AI辅助生成，超9成工程师使用AI编程",
+          "url": "https://wallstreetcn.com/livenews/2993173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         }
       ]
     },
@@ -47,32 +47,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "硅谷又现AI算力巨额订单！谷歌与Anthropic达成数百亿美元合作",
-          "url": "https://www.cls.cn/detail/2179066",
-          "source": "财联社热门",
+          "title": "Anthropic将使用价值数百亿美元的谷歌AI芯片，Alphabet(GOOG.O)盘前上涨1%。",
+          "url": "https://flash.jin10.com/detail/20251024160713714800",
+          "source": "金十数据",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小红书算法 小红书趋势 抖音热点 抖音AI内容 YouTube Shorts TikTok Trends 爆款文案 视频开场 标题心理学 AI口播 虚拟主播 数字人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "京东数字人与华晨宇直播",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E4%BA%AC%E4%B8%9C%E6%95%B0%E5%AD%97%E4%BA%BA%E4%B8%8E%E5%8D%8E%E6%99%A8%E5%AE%87%E7%9B%B4%E6%92%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26c_type%3D31%26pos%3D21%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26realpos%3D20%26band_rank%3D20%26flag%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26q%3D%2523%25E4%25BA%25AC%25E4%25B8%259C%25E6%2595%25B0%25E5%25AD%2597%25E4%25BA%25BA%25E4%25B8%258E%25E5%258D%258E%25E6%2599%25A8%25E5%25AE%2587%25E7%259B%25B4%25E6%2592%25AD%2523%26display_time%3D1761290468%26pre_seqid%3D176129046842101177918112",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时21分"
+          "time_info": "16时15分"
         }
       ]
     }
