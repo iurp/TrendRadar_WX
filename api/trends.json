@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T02:14:36.540870+08:00",
+  "generated_at": "2025-10-26T03:10:07.265319+08:00",
   "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
@@ -15,8 +15,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 03时10分]"
         },
         {
           "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
@@ -25,9 +25,9 @@
           "ranks": [
             23
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时14分"
+          "time_info": "03时10分"
         }
       ]
     },
@@ -40,11 +40,11 @@
           "url": "https://www.toutiao.com/trending/7565151497953611306/",
           "source": "今日头条",
           "ranks": [
-            6
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时14分"
+          "appearance_count": 2,
+          "time_info": "[03时09分 ~ 03时10分]"
         }
       ]
     }
