@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-25T12:14:50.741031+08:00",
+  "generated_at": "2025-10-25T13:12:55.407508+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -16,29 +16,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时12分"
         },
         {
           "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
           "url": "https://wallstreetcn.com/articles/3757873",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时12分"
         },
         {
-          "title": "AI时代的国际教育选择",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E6%97%B6%E4%BB%A3%E7%9A%84%E5%9B%BD%E9%99%85%E6%95%99%E8%82%B2%E9%80%89%E6%8B%A9%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26pos%3D21%26q%3D%2523AI%25E6%2597%25B6%25E4%25BB%25A3%25E7%259A%2584%25E5%259B%25BD%25E9%2599%2585%25E6%2595%2599%25E8%2582%25B2%25E9%2580%2589%25E6%258B%25A9%2523%26flag%3D1%26band_rank%3D20%26realpos%3D20%26filter_type%3Drealtimehot%26stream_entry_id%3D31%26c_type%3D31%26lcate%3D5001%26dgr%3D0%26display_time%3D1761365392%26pre_seqid%3D17613653928330323782114",
-          "source": "微博",
+          "title": "美国总统特朗普：我们在人工智能领域引领所有人。",
+          "url": "https://flash.jin10.com/detail/20251025115711896800",
+          "source": "金十数据",
           "ranks": [
-            20
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时12分"
         }
       ]
     },
@@ -51,11 +51,11 @@
           "url": "https://wallstreetcn.com/livenews/2993612",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时12分"
         }
       ]
     }
