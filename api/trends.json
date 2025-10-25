@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T05:12:08.831622+08:00",
+  "generated_at": "2025-10-26T06:11:35.003754+08:00",
   "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 05时12分]"
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 05时12分]"
+          "appearance_count": 1,
+          "time_info": "06时11分"
         },
         {
           "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
@@ -36,9 +36,9 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时11分"
         }
       ]
     },
@@ -54,8 +54,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 05时12分]"
+          "appearance_count": 1,
+          "time_info": "06时11分"
         }
       ]
     }
