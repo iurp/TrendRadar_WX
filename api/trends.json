@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-25T22:11:15.226625+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-10-25T23:12:20.531743+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,47 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时10分 ~ 22时11分]"
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
           "url": "https://www.cls.cn/detail/2180505",
           "source": "财联社热门",
           "ranks": [
-            10
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时10分 ~ 22时11分]"
+          "appearance_count": 1,
+          "time_info": "23时12分"
         },
         {
           "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
           "url": "https://wallstreetcn.com/livenews/2993677",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时11分"
+          "time_info": "23时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "DeepSeek新突破能否打破大模型瓶颈",
+          "url": "https://www.toutiao.com/trending/7565151497953611306/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     }
