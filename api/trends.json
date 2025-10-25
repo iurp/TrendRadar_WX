@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-25T21:19:10.878455+08:00",
+  "generated_at": "2025-10-25T22:11:15.226625+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
-          "url": "https://www.cls.cn/detail/2180505",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
-        },
         {
           "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
           "url": "https://wallstreetcn.com/articles/3757873",
@@ -27,29 +16,29 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[21时18分 ~ 21时19分]"
+          "time_info": "[22时10分 ~ 22时11分]"
+        },
+        {
+          "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
+          "url": "https://www.cls.cn/detail/2180505",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时10分 ~ 22时11分]"
         },
         {
           "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
           "url": "https://wallstreetcn.com/livenews/2993677",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时19分"
-        },
-        {
-          "title": "第三届中国航空运输协会航空大会开幕，近百项人工智能科技及产品亮相",
-          "url": "https://wallstreetcn.com/livenews/2993661",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时19分"
+          "time_info": "22时11分"
         }
       ]
     }
