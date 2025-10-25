@@ -1,44 +1,33 @@
 {
-  "generated_at": "2025-10-25T08:48:43.904484+08:00",
+  "generated_at": "2025-10-25T10:26:44.105115+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 3,
+      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
+      "match_count": 2,
       "titles": [
         {
-          "title": "“AI液冷龙头”Vertiv财报全面超预期，摩根大通：尽管涨幅巨大，但数据中心需求已从“光速”向“荒谬”加速，估值仍然合理",
-          "url": "https://wallstreetcn.com/articles/3757782",
-          "source": "华尔街见闻",
+          "title": "据华尔街日报：OpenAI首席执行官Sam Altman曾是阻止特朗普向旧金山派遣军队的运动中的一员。",
+          "url": "https://flash.jin10.com/detail/20251025085423303800",
+          "source": "金十数据",
           "ranks": [
-            6
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "10时26分"
         },
         {
-          "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
-          "url": "https://wallstreetcn.com/articles/3757786",
-          "source": "华尔街见闻",
+          "title": "OpenAI围绕开发AI生成的音乐采取行动。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/2993612",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时48分"
-        },
-        {
-          "title": "AI续写你的名字",
-          "url": "https://search.bilibili.com/all?keyword=AI%E7%BB%AD%E5%86%99%E4%BD%A0%E7%9A%84%E5%90%8D%E5%AD%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "10时26分"
         }
       ]
     },
@@ -51,28 +40,28 @@
           "url": "https://wallstreetcn.com/livenews/2993598",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "10时26分"
         }
       ]
     },
     {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
+      "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI围绕开发AI生成的音乐采取行动。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/2993612",
-          "source": "华尔街见闻-快讯",
+          "title": "沪指创逾十年新高，创业板涨超3%，AI硬件股爆发，寒武纪再登A股“股王”宝座，恒科指涨近2%",
+          "url": "https://wallstreetcn.com/articles/3757786",
+          "source": "华尔街见闻",
           "ranks": [
-            10
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时48分"
+          "time_info": "10时26分"
         }
       ]
     }
