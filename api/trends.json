@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-26T12:14:58.747450+08:00",
+  "generated_at": "2025-10-26T13:11:15.622200+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
@@ -15,8 +15,30 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
+          "title": "华为Mate 70 Air超薄设计曝光",
+          "url": "https://www.toutiao.com/trending/7564629715139543094/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
+        },
+        {
+          "title": "iPhone Air刚上市就卖不动了",
+          "url": "https://www.toutiao.com/trending/7565363497312194084/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时10分 ~ 13时11分]"
         }
       ]
     }
