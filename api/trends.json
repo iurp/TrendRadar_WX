@@ -1,66 +1,33 @@
 {
-  "generated_at": "2025-10-26T16:16:09.562868+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-26T17:11:56.071085+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 5,
+      "match_count": 2,
       "titles": [
         {
           "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
           "url": "https://wallstreetcn.com/articles/3757907",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
+          "appearance_count": 1,
+          "time_info": "17时11分"
         },
         {
-          "title": "华为Mate 70 Air超薄设计曝光",
-          "url": "https://www.toutiao.com/trending/7564629715139543094/",
-          "source": "今日头条",
+          "title": "图灵奖得主聊AI变革图景",
+          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%8AAI%E5%8F%98%E9%9D%A9%E5%9B%BE%E6%99%AF",
+          "source": "bilibili 热搜",
           "ranks": [
-            25
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时15分 ~ 16时16分]"
-        },
-        {
-          "title": "巴克莱首席执行官：人工智能领域存在资本，因为人们看到了从中获得的回报，虽然会出现资源配置不当的情况，但这种情况在每个周期都会发生。",
-          "url": "https://flash.jin10.com/detail/20251026152903060800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "沙特投资大臣：沙特阿拉伯也在对数字相关的所有领域进行投资，人工智能尤为重要，而这需要可负担得起的能源，我们在这方面储量丰富。这就是我们将沙特阿拉伯定位为全球数据中心枢纽的原因。",
-          "url": "https://flash.jin10.com/detail/20251026151204195800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
-        },
-        {
-          "title": "IMF总裁格奥尔基耶娃：预计发达经济体60%的就业机会受到人工智能的影响。",
-          "url": "https://flash.jin10.com/detail/20251026144100728800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时16分"
+          "time_info": "17时11分"
         }
       ]
     }
