@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T13:11:15.622200+08:00",
+  "generated_at": "2025-10-26T14:17:39.053444+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -15,19 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 13时11分]"
-        },
-        {
-          "title": "华为Mate 70 Air超薄设计曝光",
-          "url": "https://www.toutiao.com/trending/7564629715139543094/",
-          "source": "今日头条",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 13时11分]"
+          "appearance_count": 1,
+          "time_info": "14时17分"
         },
         {
           "title": "iPhone Air刚上市就卖不动了",
@@ -37,8 +26,19 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时10分 ~ 13时11分]"
+          "appearance_count": 1,
+          "time_info": "14时17分"
+        },
+        {
+          "title": "华为Mate 70 Air超薄设计曝光",
+          "url": "https://www.toutiao.com/trending/7564629715139543094/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时17分"
         }
       ]
     }
