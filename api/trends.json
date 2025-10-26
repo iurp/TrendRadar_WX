@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-26T14:17:39.053444+08:00",
+  "generated_at": "2025-10-26T15:12:59.927082+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -12,33 +12,33 @@
           "url": "https://wallstreetcn.com/articles/3757907",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时17分"
+          "time_info": "15时12分"
+        },
+        {
+          "title": "IMF总裁格奥尔基耶娃：预计发达经济体60%的就业机会受到人工智能的影响。",
+          "url": "https://flash.jin10.com/detail/20251026144100728800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时12分"
         },
         {
           "title": "iPhone Air刚上市就卖不动了",
           "url": "https://www.toutiao.com/trending/7565363497312194084/",
           "source": "今日头条",
           "ranks": [
-            21
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时17分"
-        },
-        {
-          "title": "华为Mate 70 Air超薄设计曝光",
-          "url": "https://www.toutiao.com/trending/7564629715139543094/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时17分"
+          "time_info": "15时12分"
         }
       ]
     }
