@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T06:12:07.578627+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-27T07:12:39.182721+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时12分]"
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -26,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时12分]"
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -37,47 +37,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时12分]"
-        },
-        {
-          "title": "如何评价「AI 正在造就一个极度不平衡的经济结构」的观点？",
-          "url": "https://www.zhihu.com/question/1965079758955050850",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时12分]"
+          "appearance_count": 1,
+          "time_info": "07时12分"
         },
         {
           "title": "GAI周延沧海一声笑",
           "url": "https://search.bilibili.com/all?keyword=GAI%E5%91%A8%E5%BB%B6%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时12分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI 模型投资对决中，Qwen 后期交易回报率反超 DeepSeek 登顶，如何评价该比赛及最终结果？",
-          "url": "https://www.zhihu.com/question/1965049071443075345",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时11分 ~ 06时12分]"
+          "appearance_count": 1,
+          "time_info": "07时12分"
         }
       ]
     }
