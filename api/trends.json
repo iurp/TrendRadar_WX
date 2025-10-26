@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-10-27T00:12:34.345818+08:00",
+  "generated_at": "2025-10-27T01:11:38.963590+08:00",
   "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何评价「AI 正在造就一个极度不平衡的经济结构」的观点？",
           "url": "https://www.zhihu.com/question/1965079758955050850",
           "source": "知乎",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "01时11分"
         },
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
@@ -27,7 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "01时11分"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -38,7 +38,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "01时11分"
         },
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -49,29 +49,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "01时11分"
         },
         {
           "title": "GAI周延沧海一声笑",
           "url": "https://search.bilibili.com/all?keyword=GAI%E5%91%A8%E5%BB%B6%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时12分"
-        },
-        {
-          "title": "AI把玉米片判为枪惊动八辆美国警车",
-          "url": "https://www.baidu.com/s?wd=AI%E6%8A%8A%E7%8E%89%E7%B1%B3%E7%89%87%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6",
-          "source": "百度热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "01时11分"
         }
       ]
     },
@@ -88,7 +77,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时12分"
+          "time_info": "01时11分"
         }
       ]
     }
