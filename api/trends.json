@@ -1,33 +1,22 @@
 {
-  "generated_at": "2025-10-26T10:27:41.816242+08:00",
+  "generated_at": "2025-10-26T11:44:04.220850+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
           "url": "https://wallstreetcn.com/articles/3757907",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "林园：4300点是牛市起点，AI机器人方向未来可能一文不值，我只管好自己的一亩三分地——“嘴巴生意”",
-          "url": "https://wallstreetcn.com/articles/3757825",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
+          "appearance_count": 2,
+          "time_info": "[11时43分 ~ 11时44分]"
         }
       ]
     }
