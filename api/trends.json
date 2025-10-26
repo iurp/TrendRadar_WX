@@ -1,72 +1,44 @@
 {
-  "generated_at": "2025-10-26T07:10:35.694729+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-10-26T08:54:43.076567+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "英国央行发文：All in芯片！AI相关资产估值崩塌是否会引发金融稳定性后果？",
-          "url": "https://wallstreetcn.com/articles/3757873",
+          "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
+          "url": "https://wallstreetcn.com/articles/3757907",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时10分"
+          "time_info": "08时54分"
         },
         {
-          "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
-          "url": "https://wallstreetcn.com/articles/3757907",
+          "title": "林园：4300点是牛市起点，AI机器人方向未来可能一文不值，我只管好自己的一亩三分地——“嘴巴生意”",
+          "url": "https://wallstreetcn.com/articles/3757825",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时10分"
-        },
-        {
-          "title": "40多个新品全球首发、100多款AI产品现场下单， 上海这场“嘉年华”人气爆棚｜一线",
-          "url": "https://www.cls.cn/detail/2180505",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时10分"
+          "time_info": "08时54分"
         },
         {
           "title": "智元办机器人挑战赛：清华&上海AILab夺冠，华南理工“单人成团”拿亚军",
           "url": "https://wallstreetcn.com/livenews/2993677",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时10分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek新突破能否打破大模型瓶颈",
-          "url": "https://www.toutiao.com/trending/7565151497953611306/",
-          "source": "今日头条",
-          "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时10分"
+          "time_info": "08时54分"
         }
       ]
     }
