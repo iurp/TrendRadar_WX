@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-10-26T21:19:42.416936+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-26T22:11:43.011812+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
           "url": "https://wallstreetcn.com/articles/3757917",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时19分"
+          "time_info": "22时11分"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -27,29 +27,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时19分"
+          "time_info": "22时11分"
         },
         {
-          "title": "AI把薯片误判为枪惊动八辆美国警车",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E6%8A%8A%E8%96%AF%E7%89%87%E8%AF%AF%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523AI%25E6%258A%258A%25E8%2596%25AF%25E7%2589%2587%25E8%25AF%25AF%25E5%2588%25A4%25E4%25B8%25BA%25E6%259E%25AA%25E6%2583%258A%25E5%258A%25A8%25E5%2585%25AB%25E8%25BE%2586%25E7%25BE%258E%25E5%259B%25BD%25E8%25AD%25A6%25E8%25BD%25A6%2523%26dgr%3D0%26filter_type%3Drealtimehot%26realpos%3D19%26c_type%3D31%26pos%3D19%26flag%3D0%26band_rank%3D19%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26display_time%3D1761484611%26pre_seqid%3D176148461117201143410103",
-          "source": "微博",
+          "title": "GAI周延沧海一声笑",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E5%91%A8%E5%BB%B6%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91",
+          "source": "bilibili 热搜",
           "ranks": [
-            19
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时19分"
+          "time_info": "22时11分"
+        },
+        {
+          "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
+          "url": "https://www.cls.cn/detail/2180802",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时11分"
         },
         {
           "title": "AI把玉米片判为枪惊动八辆美国警车",
           "url": "https://www.baidu.com/s?wd=AI%E6%8A%8A%E7%8E%89%E7%B1%B3%E7%89%87%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6",
           "source": "百度热搜",
           "ranks": [
-            24
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时19分"
+          "time_info": "22时11分"
         }
       ]
     },
@@ -62,11 +73,11 @@
           "url": "https://www.zhihu.com/question/1965049071443075345",
           "source": "知乎",
           "ranks": [
-            12
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时19分"
+          "time_info": "22时11分"
         }
       ]
     }
