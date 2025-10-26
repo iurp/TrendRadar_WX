@@ -1,55 +1,44 @@
 {
-  "generated_at": "2025-10-26T18:12:33.209033+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2025-10-26T19:11:02.259765+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI把薯片误判为枪惊动八辆美国警车",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E6%8A%8A%E8%96%AF%E7%89%87%E8%AF%AF%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26stream_entry_id%3D31%26pos%3D0%26band_rank%3D1%26lcate%3D5001%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523AI%25E6%258A%258A%25E8%2596%25AF%25E7%2589%2587%25E8%25AF%25AF%25E5%2588%25A4%25E4%25B8%25BA%25E6%259E%25AA%25E6%2583%258A%25E5%258A%25A8%25E5%2585%25AB%25E8%25BE%2586%25E7%25BE%258E%25E5%259B%25BD%25E8%25AD%25A6%25E8%25BD%25A6%2523%26cate%3D5001%26dgr%3D0%26realpos%3D1%26display_time%3D1761473178%26pre_seqid%3D1761473178200032949662",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23AI%E6%8A%8A%E8%96%AF%E7%89%87%E8%AF%AF%E5%88%A4%E4%B8%BA%E6%9E%AA%E6%83%8A%E5%8A%A8%E5%85%AB%E8%BE%86%E7%BE%8E%E5%9B%BD%E8%AD%A6%E8%BD%A6%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523AI%25E6%258A%258A%25E8%2596%25AF%25E7%2589%2587%25E8%25AF%25AF%25E5%2588%25A4%25E4%25B8%25BA%25E6%259E%25AA%25E6%2583%258A%25E5%258A%25A8%25E5%2585%25AB%25E8%25BE%2586%25E7%25BE%258E%25E5%259B%25BD%25E8%25AD%25A6%25E8%25BD%25A6%2523%26dgr%3D0%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D5%26realpos%3D6%26flag%3D0%26lcate%3D5001%26stream_entry_id%3D31%26cate%3D5001%26band_rank%3D6%26display_time%3D1761476939%26pre_seqid%3D176147693962201143412127",
           "source": "微博",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
-        },
-        {
-          "title": "图灵奖得主聊AI变革图景",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BE%E7%81%B5%E5%A5%96%E5%BE%97%E4%B8%BB%E8%81%8AAI%E5%8F%98%E9%9D%A9%E5%9B%BE%E6%99%AF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         },
         {
           "title": "腾讯首次系统披露研发进展：AI生成50%新增代码，研发自动化水平同比提升67%",
           "url": "https://wallstreetcn.com/articles/3757907",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         },
         {
-          "title": "iPhone Air刚上市就卖不动了",
-          "url": "https://www.toutiao.com/trending/7565363497312194084/",
-          "source": "今日头条",
+          "title": "网民用AI编造3儿子不养老人被罚",
+          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E6%B0%91%E7%94%A8AI%E7%BC%96%E9%80%A03%E5%84%BF%E5%AD%90%E4%B8%8D%E5%85%BB%E8%80%81%E4%BA%BA%E8%A2%AB%E7%BD%9A",
+          "source": "百度热搜",
           "ranks": [
-            16
+            11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         }
       ]
     },
@@ -62,11 +51,11 @@
           "url": "https://www.zhihu.com/question/1965049071443075345",
           "source": "知乎",
           "ranks": [
-            11
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时12分"
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         }
       ]
     }
