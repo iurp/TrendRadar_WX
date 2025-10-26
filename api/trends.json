@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-27T05:10:31.567899+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-10-27T06:12:07.578627+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
       "match_count": 5,
       "titles": [
-        {
-          "title": "如何评价「AI 正在造就一个极度不平衡的经济结构」的观点？",
-          "url": "https://www.zhihu.com/question/1965079758955050850",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
-        },
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
           "url": "https://wallstreetcn.com/articles/3757917",
@@ -26,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 06时12分]"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -37,8 +26,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 06时12分]"
         },
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -48,8 +37,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 06时12分]"
+        },
+        {
+          "title": "如何评价「AI 正在造就一个极度不平衡的经济结构」的观点？",
+          "url": "https://www.zhihu.com/question/1965079758955050850",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 06时12分]"
         },
         {
           "title": "GAI周延沧海一声笑",
@@ -59,8 +59,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 06时12分]"
         }
       ]
     },
@@ -76,8 +76,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时10分"
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 06时12分]"
         }
       ]
     }
