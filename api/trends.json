@@ -1,22 +1,61 @@
 {
-  "generated_at": "2025-10-27T17:15:58.353207+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2025-10-27T18:14:34.077688+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI大电影葫芦兄弟",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            24
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "18时14分"
+        },
+        {
+          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
+          "url": "https://www.cls.cn/detail/2182013",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        },
+        {
+          "title": "王鹤棣帅成AI了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E7%8E%8B%E9%B9%A4%E6%A3%A3%E5%B8%85%E6%88%90AI%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26lcate%3D5001%26c_type%3D31%26pos%3D20%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E7%258E%258B%25E9%25B9%25A4%25E6%25A3%25A3%25E5%25B8%2585%25E6%2588%2590AI%25E4%25BA%2586%2523%26band_rank%3D19%26filter_type%3Drealtimehot%26realpos%3D19%26display_time%3D1761560054%26pre_seqid%3D176156005418001942583137",
+          "source": "微博",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "据AXIOS网站：OpenAI在与Axios首次分享的一份新监管文件中预测，投资人工智能基础设施将在未来几年带来显著的GDP增长。",
+          "url": "https://flash.jin10.com/detail/20251027174708809800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         }
       ]
     }
