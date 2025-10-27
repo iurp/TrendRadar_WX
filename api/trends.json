@@ -1,66 +1,55 @@
 {
-  "generated_at": "2025-10-28T05:11:55.126530+08:00",
+  "generated_at": "2025-10-28T06:12:21.452161+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 6,
+      "match_count": 5,
       "titles": [
         {
           "title": "特斯拉在虚拟世界训练AI司机",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "周一（10月27日），降息赢家指数涨0.40%，报99.06点，全天呈现出平坦的V形反转。 成分股Cadence银行、Wayfair、RH涨4.38%-4.02%领跑，SoFi Technologies股份涨3.41%紧随其后。 俄亥俄州亨廷顿银行控股则收跌2.68%跌幅第三大，福特汽车跌4.19%，哈雷戴维森跌4.36%。",
-          "url": "https://wallstreetcn.com/livenews/2994535",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "06时12分"
         },
         {
           "title": "AI大电影葫芦兄弟",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "06时12分"
+        },
+        {
+          "title": "周一（10月27日），降息赢家指数涨0.40%，报99.06点，全天呈现出平坦的V形反转。 成分股Cadence银行、Wayfair、RH涨4.38%-4.02%领跑，SoFi Technologies股份涨3.41%紧随其后。 俄亥俄州亨廷顿银行控股则收跌2.68%跌幅第三大，福特汽车跌4.19%，哈雷戴维森跌4.36%。",
+          "url": "https://wallstreetcn.com/livenews/2994535",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         },
         {
           "title": "英伟达与德国电信拟斥资10亿欧元在德共建AI数据中心",
           "url": "https://flash.jin10.com/detail/20251028034031282800",
           "source": "金十数据",
           "ranks": [
-            15
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时11分"
-        },
-        {
-          "title": "AI初创公司Mercor按100亿美元估值融资3.5亿美元",
-          "url": "https://wallstreetcn.com/livenews/2994508",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "06时12分"
         },
         {
           "title": "高通推出人工智能芯片后股价大涨20%",
@@ -71,7 +60,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "06时12分"
         }
       ]
     },
@@ -84,22 +73,22 @@
           "url": "https://wallstreetcn.com/livenews/2994532",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "06时12分"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨4.3%，谷歌涨3.6%，英伟达和苹果也涨超2%",
           "url": "https://wallstreetcn.com/livenews/2994531",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "06时12分"
         }
       ]
     },
@@ -112,11 +101,11 @@
           "url": "https://flash.jin10.com/detail/20251028045401357800",
           "source": "金十数据",
           "ranks": [
-            1
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时11分"
+          "time_info": "06时12分"
         }
       ]
     }
