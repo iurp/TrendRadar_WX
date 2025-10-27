@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-28T00:14:40.610607+08:00",
+  "generated_at": "2025-10-28T01:12:53.652957+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 7,
+      "match_count": 4,
       "titles": [
         {
           "title": "特斯拉在虚拟世界训练AI司机",
@@ -16,73 +16,68 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "报道：美国能源部与AMD建立10亿美元超级计算机和AI合作伙伴关系",
-          "url": "https://wallstreetcn.com/livenews/2994438",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "01时12分"
         },
         {
           "title": "AI大电影葫芦兄弟",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "01时12分"
         },
         {
-          "title": "高通涨幅扩大至20%，创2019年以来最大盘中涨幅，该公司推出人工智能（AI）芯片，在数据中心市场与英伟达竞争。",
-          "url": "https://wallstreetcn.com/livenews/2994418",
+          "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
+          "url": "https://wallstreetcn.com/livenews/2994457",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "01时12分"
         },
         {
-          "title": "高通（QCOM）股价短线拉升，日内整体涨幅迅速扩大至将近7%。高通发布两款AI芯片，旨在挑战英伟达在人工智能加速器市场的地位。",
-          "url": "https://wallstreetcn.com/livenews/2994414",
-          "source": "华尔街见闻-快讯",
+          "title": "高通推出人工智能芯片后股价大涨20%",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9A%E6%8E%A8%E5%87%BA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8A%AF%E7%89%87%E5%90%8E%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A820%25",
+          "source": "百度热搜",
           "ranks": [
-            25
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时14分"
-        },
+          "time_info": "01时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "RIB软件：与微软(MSFT.O)合作，加速人工智能在建筑行业的应用。",
-          "url": "https://flash.jin10.com/detail/20251027230245465800",
+          "title": "谷歌(GOOG.O)：通过Bigtable中的分层存储，可借助单一接口访问和修改热层与冷层中的数据。",
+          "url": "https://flash.jin10.com/detail/20251028000607598800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "01时12分"
         },
         {
-          "title": "高通发布两款AI芯片，旨在挑战英伟达在人工智能加速器市场的地位",
-          "url": "https://wallstreetcn.com/livenews/2994412",
-          "source": "华尔街见闻-快讯",
+          "title": "谷歌(GOOG.O)：推出全新Bigtable存储层，助力效管理海量数据集，现已开放预览版。",
+          "url": "https://flash.jin10.com/detail/20251028000516556800",
+          "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "01时12分"
         }
       ]
     }
