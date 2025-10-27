@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-10-27T14:19:42.588345+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-10-27T15:13:30.816249+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
       "match_count": 3,
       "titles": [
+        {
+          "title": "沙特AI公司Humain首席执行官：Humain搜索和Humain视觉将于本周推出。",
+          "url": "https://flash.jin10.com/detail/20251027145436636800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时13分"
+        },
         {
           "title": "沪指逼近4000点，中信证券成交超百亿，AI硬件活跃，恒科指涨近2%，药明康德涨超5%",
           "url": "https://wallstreetcn.com/articles/3757943",
@@ -16,29 +27,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "15时13分"
         },
         {
           "title": "AI大电影葫芦兄弟",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
-        },
-        {
-          "title": "报告：2025年上半年，百度智能云市场份额位居中国AI云市场第二",
-          "url": "https://wallstreetcn.com/livenews/2994000",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "15时13分"
         }
       ]
     }
