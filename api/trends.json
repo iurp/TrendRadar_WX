@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T08:56:32.300674+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-10-27T10:46:28.558904+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,11 @@
           "url": "https://www.cls.cn/detail/2180802",
           "source": "财联社热门",
           "ranks": [
-            10
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "10时46分"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -27,18 +27,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "10时46分"
         },
         {
-          "title": "GAI周延沧海一声笑",
-          "url": "https://search.bilibili.com/all?keyword=GAI%E5%91%A8%E5%BB%B6%E6%B2%A7%E6%B5%B7%E4%B8%80%E5%A3%B0%E7%AC%91",
+          "title": "AI大电影葫芦兄弟",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            20
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时56分"
+          "time_info": "10时46分"
         }
       ]
     }
