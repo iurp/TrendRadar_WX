@@ -1,33 +1,22 @@
 {
-  "generated_at": "2025-10-27T16:18:22.595968+08:00",
-  "total_titles_processed": 302,
+  "generated_at": "2025-10-27T17:15:58.353207+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "AI眼镜市场火热 产品放量或将带动产业链企业估值提升",
-          "url": "https://www.cls.cn/detail/2181052",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时18分"
-        },
         {
           "title": "AI大电影葫芦兄弟",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时18分"
+          "time_info": "17时15分"
         }
       ]
     }
