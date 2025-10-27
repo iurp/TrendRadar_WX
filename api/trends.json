@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-10-27T07:12:39.182721+08:00",
+  "generated_at": "2025-10-27T08:56:32.300674+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
-          "url": "https://wallstreetcn.com/articles/3757917",
-          "source": "华尔街见闻",
+          "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
+          "url": "https://www.cls.cn/detail/2180802",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时56分"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -27,18 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
-          "url": "https://www.cls.cn/detail/2180802",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时56分"
         },
         {
           "title": "GAI周延沧海一声笑",
@@ -49,7 +38,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时56分"
         }
       ]
     }
