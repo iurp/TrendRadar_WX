@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-27T11:48:51.484405+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-10-27T12:22:31.905732+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,37 +8,37 @@
       "match_count": 5,
       "titles": [
         {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-27）",
+          "url": "https://flash.jin10.com/detail/20251027114944856800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
           "url": "https://www.cls.cn/detail/2180802",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "12时22分"
         },
         {
           "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
           "url": "https://wallstreetcn.com/articles/3757917",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
-        },
-        {
-          "title": "AI大电影葫芦兄弟",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "12时22分"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -49,18 +49,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "12时22分"
         },
         {
-          "title": "蚂蚁集团投资AI科技硬件公司艾德未来智能",
-          "url": "https://wallstreetcn.com/livenews/2993942",
-          "source": "华尔街见闻-快讯",
+          "title": "AI大电影葫芦兄弟",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
+          "source": "bilibili 热搜",
           "ranks": [
-            13
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时48分"
+          "time_info": "12时22分"
         }
       ]
     }
