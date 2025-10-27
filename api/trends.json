@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-10-27T23:13:59.866159+08:00",
+  "generated_at": "2025-10-28T00:14:40.610607+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -12,77 +12,77 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时14分"
         },
         {
-          "title": "高通(QCOM.O)：Humain和高通将在沙特部署人工智能基础设施，用于全球推理计算。根据该计划，Humain计划从2026年开始，目标是提供200兆瓦的高通AI200和AI250机架解决方案。",
-          "url": "https://flash.jin10.com/detail/20251027223504925800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "高通涨幅扩大至20%，创2019年以来最大盘中涨幅，该公司推出人工智能（AI）芯片，在数据中心市场与英伟达竞争。",
-          "url": "https://wallstreetcn.com/livenews/2994418",
+          "title": "报道：美国能源部与AMD建立10亿美元超级计算机和AI合作伙伴关系",
+          "url": "https://wallstreetcn.com/livenews/2994438",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "高通（QCOM）股价短线拉升，日内整体涨幅迅速扩大至将近7%。高通发布两款AI芯片，旨在挑战英伟达在人工智能加速器市场的地位。",
-          "url": "https://wallstreetcn.com/livenews/2994414",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时14分"
         },
         {
           "title": "AI大电影葫芦兄弟",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            17
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时14分"
         },
         {
-          "title": "高通发布两款AI芯片，旨在挑战英伟达在人工智能加速器市场的地位",
-          "url": "https://wallstreetcn.com/livenews/2994412",
+          "title": "高通涨幅扩大至20%，创2019年以来最大盘中涨幅，该公司推出人工智能（AI）芯片，在数据中心市场与英伟达竞争。",
+          "url": "https://wallstreetcn.com/livenews/2994418",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时14分"
         },
         {
-          "title": "高通推出人工智能芯片后股价大涨20%",
-          "url": "https://flash.jin10.com/detail/20251027222130928800",
+          "title": "高通（QCOM）股价短线拉升，日内整体涨幅迅速扩大至将近7%。高通发布两款AI芯片，旨在挑战英伟达在人工智能加速器市场的地位。",
+          "url": "https://wallstreetcn.com/livenews/2994414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
+        {
+          "title": "RIB软件：与微软(MSFT.O)合作，加速人工智能在建筑行业的应用。",
+          "url": "https://flash.jin10.com/detail/20251027230245465800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时14分"
+        },
+        {
+          "title": "高通发布两款AI芯片，旨在挑战英伟达在人工智能加速器市场的地位",
+          "url": "https://wallstreetcn.com/livenews/2994412",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
         }
       ]
     }
