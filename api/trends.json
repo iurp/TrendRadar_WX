@@ -1,44 +1,33 @@
 {
-  "generated_at": "2025-10-27T15:13:30.816249+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2025-10-27T16:18:22.595968+08:00",
+  "total_titles_processed": 302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "沙特AI公司Humain首席执行官：Humain搜索和Humain视觉将于本周推出。",
-          "url": "https://flash.jin10.com/detail/20251027145436636800",
-          "source": "金十数据",
+          "title": "AI眼镜市场火热 产品放量或将带动产业链企业估值提升",
+          "url": "https://www.cls.cn/detail/2181052",
+          "source": "财联社热门",
           "ranks": [
-            3
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "沪指逼近4000点，中信证券成交超百亿，AI硬件活跃，恒科指涨近2%，药明康德涨超5%",
-          "url": "https://wallstreetcn.com/articles/3757943",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
+          "time_info": "16时18分"
         },
         {
           "title": "AI大电影葫芦兄弟",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时13分"
+          "time_info": "16时18分"
         }
       ]
     }
