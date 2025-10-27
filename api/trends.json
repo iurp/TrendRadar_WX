@@ -1,22 +1,55 @@
 {
-  "generated_at": "2025-10-28T01:12:53.652957+08:00",
+  "generated_at": "2025-10-28T02:18:56.981289+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
-          "title": "特斯拉在虚拟世界训练AI司机",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
-          "source": "bilibili 热搜",
+          "title": "扎克伯格任命元宇宙业务前主管推进AI战略",
+          "url": "https://flash.jin10.com/detail/20251028015303563800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时18分"
+        },
+        {
+          "title": "特斯拉在虚拟世界训练AI司机",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "据英国《金融时报》：扎克伯格已任命长期副手维沙尔·沙阿担任Meta Platforms(META.O)人工智能团队的关键职务。",
+          "url": "https://flash.jin10.com/detail/20251028013708523800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "Meta Platforms旗下人工智能（AI）产品主管Nat Friedman在一份备忘录中表示，扎克伯格任命长期性的助手Vishal Shah到AI团队的一个关键岗位。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/2994482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "AI大电影葫芦兄弟",
@@ -27,29 +60,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时18分"
         },
         {
           "title": "Groq CEO Jonathan Ross认为，沙特料将成为人工智能（AI）数据中心的枢纽。 沙特拥有大规模的能源资源，这个因素正使得科技行业在当地打造AI基础设施。 中东是建设数据中心的“理想地方”。",
           "url": "https://wallstreetcn.com/livenews/2994457",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "高通推出人工智能芯片后股价大涨20%",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E9%80%9A%E6%8E%A8%E5%87%BA%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E8%8A%AF%E7%89%87%E5%90%8E%E8%82%A1%E4%BB%B7%E5%A4%A7%E6%B6%A820%25",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时18分"
         }
       ]
     },
@@ -58,26 +80,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "谷歌(GOOG.O)：通过Bigtable中的分层存储，可借助单一接口访问和修改热层与冷层中的数据。",
-          "url": "https://flash.jin10.com/detail/20251028000607598800",
+          "title": "据福克斯新闻：谷歌(GOOG.O)与NextEra能源公司合作重启爱荷华州核电站。",
+          "url": "https://flash.jin10.com/detail/20251028015838753800",
           "source": "金十数据",
           "ranks": [
-            26
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时18分"
         },
         {
-          "title": "谷歌(GOOG.O)：推出全新Bigtable存储层，助力效管理海量数据集，现已开放预览版。",
-          "url": "https://flash.jin10.com/detail/20251028000516556800",
-          "source": "金十数据",
+          "title": "谷歌公司与NextEra Energy构建合作伙伴关系，将重启美国爱荷华州核电站。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/2994485",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时18分"
         }
       ]
     }
