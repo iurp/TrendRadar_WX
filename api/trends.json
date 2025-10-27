@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T10:46:28.558904+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2025-10-27T11:48:51.484405+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "电子宠物“卖爆了”、机器狗定价不超300元接入三款热门模型！AI玩具加速成熟 哪些玩家布局？",
@@ -16,7 +16,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时46分"
+          "time_info": "11时48分"
+        },
+        {
+          "title": "特斯拉AI负责人首次揭秘FSD自动驾驶方法论：为什么我们选择端到端？",
+          "url": "https://wallstreetcn.com/articles/3757917",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
+        },
+        {
+          "title": "AI大电影葫芦兄弟",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时48分"
         },
         {
           "title": "网民用AI编造3儿子不养老人被罚",
@@ -27,18 +49,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时46分"
+          "time_info": "11时48分"
         },
         {
-          "title": "AI大电影葫芦兄弟",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
-          "source": "bilibili 热搜",
+          "title": "蚂蚁集团投资AI科技硬件公司艾德未来智能",
+          "url": "https://wallstreetcn.com/livenews/2993942",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时46分"
+          "time_info": "11时48分"
         }
       ]
     }
