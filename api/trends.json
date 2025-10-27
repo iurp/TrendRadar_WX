@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-27T21:28:49.818320+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2025-10-27T22:12:51.163784+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "特斯拉在虚拟世界训练AI司机",
@@ -16,29 +16,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
-        },
-        {
-          "title": "美股“七巨头”中五家本周公布业绩 AI热潮下财报成色如何？一文看懂",
-          "url": "https://www.cls.cn/detail/2182013",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时12分"
         },
         {
           "title": "AI大电影葫芦兄弟",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            9
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时28分"
+          "time_info": "22时12分"
         }
       ]
     }
