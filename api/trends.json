@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-10-28T07:12:18.961954+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-28T08:54:02.528741+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
         {
-          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
-          "url": "https://www.cls.cn/detail/2182682",
-          "source": "财联社热门",
+          "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
+          "url": "https://wallstreetcn.com/articles/3758001",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 08时54分]"
         },
         {
           "title": "特斯拉在虚拟世界训练AI司机",
@@ -26,19 +26,41 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 08时54分]"
         },
         {
-          "title": "高通暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
-          "url": "https://wallstreetcn.com/articles/3758001",
-          "source": "华尔街见闻",
+          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
+          "url": "https://www.cls.cn/detail/2182682",
+          "source": "财联社热门",
           "ranks": [
-            7
+            5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 08时54分]"
+        },
+        {
+          "title": "红杉资本领投初创公司Rogo 押注AI工具取代初级银行家的前景",
+          "url": "https://wallstreetcn.com/livenews/2994620",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时54分"
+        },
+        {
+          "title": "中信建投：持续推荐AI算力板块",
+          "url": "https://wallstreetcn.com/livenews/2994618",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         },
         {
           "title": "高通进军数据中心AI芯片业务：主打大内存、性价比 股价直线拉涨",
@@ -48,53 +70,41 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 08时54分]"
         },
         {
           "title": "AI大电影葫芦兄弟",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E7%94%B5%E5%BD%B1%E8%91%AB%E8%8A%A6%E5%85%84%E5%BC%9F",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
+          "appearance_count": 2,
+          "time_info": "[08时53分 ~ 08时54分]"
+        },
         {
-          "title": "据Yomiuri报道：日本通信公司KDDI株式会社与谷歌（日本）将启动AI媒体搜索工具。",
-          "url": "https://wallstreetcn.com/livenews/2994570",
+          "title": "鸿海拟投资最高420亿元新台币采购AI算力云端业务营业用资讯设备。",
+          "url": "https://wallstreetcn.com/livenews/2994610",
           "source": "华尔街见闻-快讯",
           "ranks": [
             10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 1,
-      "titles": [
+          "time_info": "08时54分"
+        },
         {
-          "title": "OpenAI呼吁白宫扩大美国能源容量，并警告称电力是人工智能基础设施的战略资产。",
-          "url": "https://flash.jin10.com/detail/20251028045401357800",
-          "source": "金十数据",
+          "title": "中信建投：AI+IP助力高增长，漫剧高潜力赛道爆发",
+          "url": "https://wallstreetcn.com/livenews/2994600",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时12分"
+          "time_info": "08时54分"
         }
       ]
     }
