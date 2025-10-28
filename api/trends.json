@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-28T15:13:58.877001+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-10-28T16:17:43.679015+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 7,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "美股收盘：三大指数齐刷历史新高 高通进军AI芯片股价暴涨11%",
-          "url": "https://www.cls.cn/detail/2182682",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
           "url": "https://wallstreetcn.com/articles/3758001",
@@ -27,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时13分"
+          "time_info": "16时17分"
         },
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -38,68 +27,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时13分"
+          "time_info": "16时17分"
         },
         {
-          "title": "高通(QCOM.O)CEO兼总裁克里斯蒂亚诺·艾蒙在利雅得谈及AI时表示，我关注的是那些与消费者联系越来越紧密的公司。",
-          "url": "https://flash.jin10.com/detail/20251028145207778800",
-          "source": "金十数据",
+          "title": "AI大战冠军教练竞猜S15",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%A4%A7%E6%88%98%E5%86%A0%E5%86%9B%E6%95%99%E7%BB%83%E7%AB%9E%E7%8C%9CS15",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时13分"
+          "time_info": "16时17分"
+        },
+        {
+          "title": "日美投资情况说明书显示，人工智能基础设施项目涵盖三菱电机、藤仓、TDK、村田、松下公司。",
+          "url": "https://flash.jin10.com/detail/20251028153802006800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "日本财务省：欢迎两国企业对能源、人工智能电力开发、强化人工智能基础设施、关键矿产等领域开展项目。",
+          "url": "https://flash.jin10.com/detail/20251028153413523800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "特斯拉在虚拟世界训练AI司机",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89%E5%9C%A8%E8%99%9A%E6%8B%9F%E4%B8%96%E7%95%8C%E8%AE%AD%E7%BB%83AI%E5%8F%B8%E6%9C%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            14
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "挪威主权财富基金CEO：人工智能终结气候领域招聘需求",
-          "url": "https://wallstreetcn.com/livenews/2994809",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        },
-        {
-          "title": "为什么海外同胞对 AI 编程态度那么积极，反而国内用过的程序员都在吐槽?",
-          "url": "https://www.zhihu.com/question/1959993472921633455",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI公司正为印度用户提供为期一年的免费ChatGPT Go服务",
-          "url": "https://flash.jin10.com/detail/20251028141734494800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时13分"
+          "time_info": "16时17分"
         }
       ]
     }
