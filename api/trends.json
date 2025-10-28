@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T02:17:50.153236+08:00",
+  "generated_at": "2025-10-29T03:09:49.016010+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 14,
+      "match_count": 10,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -16,29 +16,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "03时09分"
         },
         {
-          "title": "英伟达CEO黄仁勋：宣布推出美国首个用于6G的AI原生无线堆栈，包括推进下一代无线技术的新应用。",
-          "url": "https://flash.jin10.com/detail/20251029020349283800",
-          "source": "金十数据",
+          "title": "礼来制药与英伟达合作，将打造AI超算。",
+          "url": "https://wallstreetcn.com/livenews/2995315",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "英伟达与美国能源部和美企合作建设国家AI基础设施",
-          "url": "https://flash.jin10.com/detail/20251029020259228800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "03时09分"
         },
         {
           "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
@@ -49,18 +38,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "英伟达与甲骨文将为美国能源部制造一台人工智能（AI）超算。",
-          "url": "https://wallstreetcn.com/livenews/2995302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "03时09分"
         },
         {
           "title": "高通盘中暴涨20%，推出人工智能芯片，在数据中心市场与英伟达竞争",
@@ -71,123 +49,90 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "03时09分"
         },
         {
-          "title": "英伟达CEO黄仁勋：英伟达(NVDA.O)及各行业合作伙伴计划将美国制造业迁回国内，打造充满机器人的AI工厂。",
-          "url": "https://flash.jin10.com/detail/20251029014416918800",
+          "title": "Zoom(ZM.O)的联合人工智能平台借助英伟达(NVDA.O)Nemotron模型实现扩展，让每家企业的人工智能更加快速、更加智能。",
+          "url": "https://flash.jin10.com/detail/20251029024236289800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "超微电脑(SMCI.O)：计划于2026年交付下一代英伟达AI平台，包括英伟达Vera Rubin NVL144和英伟达Vera Rubin NVL144 CPX。",
+          "url": "https://flash.jin10.com/detail/20251029023925864800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "超微电脑(SMCI.O)：扩大与英伟达(NVDA.O)的合作，并加强合规性、数据完整性以及面向政府应用优化的人工智能基础设施解决方案的美国本土制造质量。",
+          "url": "https://flash.jin10.com/detail/20251029023907703800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "微软(MSFT.O)和英伟达(NVDA.O)在GTC大会上宣布人工智能领域的最新进展，微软表示将率先在Azure云平台上提供英伟达RTX Pro 6000 Blackwell服务器版GPU。",
+          "url": "https://flash.jin10.com/detail/20251029023844070800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "03时09分"
+        },
+        {
+          "title": "英伟达与甲骨文将为美国能源部制造一台人工智能（AI）超算。",
+          "url": "https://wallstreetcn.com/livenews/2995302",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         },
         {
           "title": "英伟达CEO黄仁勋宣布，与Palantir在运转人工智能（AI）方面构建合作伙伴关系。 将企业数据转化为动态决策智能（DDI）。",
           "url": "https://wallstreetcn.com/livenews/2995292",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            14
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：公司与CrowdStrike(CRWD.O)合作打造网络安全人工智能代理。",
-          "url": "https://flash.jin10.com/detail/20251029013957645800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：Palantir AIP平台也将支持英伟达面向政府参考设计的全新AI工厂。",
-          "url": "https://flash.jin10.com/detail/20251029013926234800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "沙特阿美与主权财富基金PIF达成共识，将对Humain持有少数股权。",
-          "url": "https://wallstreetcn.com/livenews/2995285",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：与Palantir达成合作，推动人工智能的运营应用。",
-          "url": "https://flash.jin10.com/detail/20251029013811321800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋拟访韩签约 将为三星现代供应AI芯片",
-          "url": "https://flash.jin10.com/detail/20251029013502568800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋准备披露与三星和现代的AI交易。",
-          "url": "https://wallstreetcn.com/livenews/2995268",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "03时09分"
         }
       ]
     },
     {
       "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "OpenAI首席执行官萨姆·奥尔特曼：OpenAI所有承诺的基础设施建设总量略超30吉瓦，总计约1.4万亿美元。",
-          "url": "https://flash.jin10.com/detail/20251029015946232800",
-          "source": "金十数据",
+          "title": "OpenAI首席执行官Altman：考虑到我们未来的资金需求，可以说进行IPO对我们而言是最有可能的出路。",
+          "url": "https://wallstreetcn.com/livenews/2995318",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时17分"
-        },
-        {
-          "title": "OpenAI首席执行官萨姆·奥尔特曼：我们的目标是建立一个基础设施工厂，每周能够创造1吉瓦的算力。",
-          "url": "https://flash.jin10.com/detail/20251029015512703800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "03时09分"
         },
         {
           "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
@@ -198,7 +143,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时17分"
+          "time_info": "03时09分"
+        },
+        {
+          "title": "OpenAI首席执行官萨姆·奥尔特曼：考虑到公司未来的资本需求，IPO是最有可能的途径。",
+          "url": "https://flash.jin10.com/detail/20251029024018931800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "OpenAI：AI基础设施总投资额约1.4万亿美元",
+          "url": "https://wallstreetcn.com/livenews/2995307",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         }
       ]
     }
