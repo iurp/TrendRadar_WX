@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T22:14:45.681615+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-10-29T23:15:05.830123+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         },
         {
           "title": "外交部回应黄仁勋AI芯片言论",
@@ -26,19 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "中方回应黄仁勋称美AI芯片需出口中国",
-          "url": "https://www.toutiao.com/trending/7566339492316024361/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         },
         {
           "title": "基金三季报重仓榜揭晓：这是茅台的“黄昏”，更是AI硬科技的“黎明”",
@@ -48,8 +37,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         },
         {
           "title": "网民用AI编造散播谣言被处罚",
@@ -59,19 +48,41 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时14分"
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
         },
         {
-          "title": "证监会：探索开展“AI+资本市场”金融科技创新专项试点",
-          "url": "https://wallstreetcn.com/livenews/2996021",
-          "source": "华尔街见闻-快讯",
+          "title": "中方回应黄仁勋称美AI芯片需出口中国",
+          "url": "https://www.toutiao.com/trending/7566339492316024361/",
+          "source": "今日头条",
           "ranks": [
-            26
+            16
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
+        },
+        {
+          "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31533770",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时14分 ~ 23时15分]"
+        },
+        {
+          "title": "信用交易员们针对甲骨文债务违约（风险）买入保护产品，债券风险上涨。 摩根士丹利预计，该公司向人工智能（AI）投资（至少）数十亿美元之际，这样的势头将延续下去。",
+          "url": "https://wallstreetcn.com/livenews/2996068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "23时15分"
         }
       ]
     }
