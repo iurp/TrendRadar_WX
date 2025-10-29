@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T11:43:30.863970+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-29T12:18:39.343859+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -16,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "12时18分"
         },
         {
           "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
@@ -27,7 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "12时18分"
         },
         {
           "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
@@ -38,47 +38,47 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "12时18分"
         },
         {
           "title": "黄仁勋坚称AI热潮并未泡沫，携全新合作伙伴进军各大前沿领域！",
           "url": "https://www.cls.cn/detail/2184178",
           "source": "财联社热门",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "12时18分"
         },
         {
           "title": "人形机器人概念持续火热！“木头姐”力挺：AI领域最大机遇之一",
           "url": "https://www.cls.cn/detail/2184173",
           "source": "财联社热门",
           "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时18分"
+        },
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-10-29）",
+          "url": "https://flash.jin10.com/detail/20251029115936965800",
+          "source": "金十数据",
+          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "12时18分"
         }
       ]
     },
     {
       "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "OpenAI重组落地！微软持股27% 并续签AI合作至2032年",
-          "url": "https://www.cls.cn/detail/2183967",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
         {
           "title": "OpenAI达成重磅协议向营利组织转型，微软持股27%，AI模型授权延至2032年，Azure获2500亿订单",
           "url": "https://wallstreetcn.com/articles/3758104",
@@ -88,7 +88,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "12时18分"
         }
       ]
     }
