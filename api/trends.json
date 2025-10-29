@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T18:14:53.343296+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2025-10-29T19:11:09.377386+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         },
         {
           "title": "外交部回应黄仁勋AI芯片言论",
           "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8BAI%E8%8A%AF%E7%89%87%E8%A8%80%E8%AE%BA",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         },
         {
-          "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
-          "url": "https://wallstreetcn.com/articles/3758074",
-          "source": "华尔街见闻",
+          "title": "中方回应黄仁勋称美AI芯片需出口中国",
+          "url": "https://www.toutiao.com/trending/7566339492316024361/",
+          "source": "今日头条",
           "ranks": [
-            6
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         },
         {
           "title": "黄仁勋称美国AI芯片需要向中国出口，外交部回应",
@@ -48,30 +48,30 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
+        },
+        {
+          "title": "网民用AI编造散播谣言被处罚",
+          "url": "https://www.douyin.com/hot/2287291",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         },
         {
           "title": "拿什么管住狂奔的AI？ “十五五”规划下，AI安全千亿级市场正在开启",
           "url": "https://www.cls.cn/detail/2184531",
           "source": "财联社热门",
           "ranks": [
-            12
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "中方回应黄仁勋称美AI芯片需出口中国",
-          "url": "https://www.toutiao.com/trending/7566339492316024361/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         }
       ]
     },
@@ -87,8 +87,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         }
       ]
     }
