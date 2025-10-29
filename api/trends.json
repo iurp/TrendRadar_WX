@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-29T07:12:41.266802+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-29T08:53:01.604296+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 7,
+      "match_count": 4,
       "titles": [
         {
           "title": "“十五五”规划建议全文：采取超常规措施，全链条推动重点领域关键核心技术攻关取得决定性突破、全面实施“人工智能+”行动、大力提振消费",
@@ -15,74 +15,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
           "title": "黄仁勋勾勒AI宏伟蓝图：6G、量子计算、机器人、自动驾驶全都有份",
           "url": "https://www.cls.cn/detail/2184071",
           "source": "财联社热门",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         },
         {
-          "title": "裁人砸AI！亚马逊宣布史上最大规模裁员，3万人相当于10%的白领岗位",
-          "url": "https://wallstreetcn.com/articles/3758015",
+          "title": "黄仁勋勾勒AI宏伟蓝图",
+          "url": "https://www.toutiao.com/trending/7566173103559032851/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
+        },
+        {
+          "title": "AI存在调整风险！木头姐警告：随着明年利率上升，市场将“不寒而栗”",
+          "url": "https://wallstreetcn.com/articles/3758074",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "SK海力士利润创纪录，AI繁荣提振芯片需求，准备供应HBM4",
-          "url": "https://wallstreetcn.com/livenews/2995404",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "宁德时代重返头号重仓股“宝座”，AI标的晋升公募持仓“新贵”",
-          "url": "https://wallstreetcn.com/livenews/2995394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "苹果计划为MacBook Air、iPad Air等搭载OLED屏幕",
-          "url": "https://flash.jin10.com/detail/20251029050455312800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "马斯克旗下AI驱动的维基百科竞品历经坎坷后正式上线",
-          "url": "https://wallstreetcn.com/livenews/2995385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         }
       ]
     },
@@ -95,28 +62,11 @@
           "url": "https://www.cls.cn/detail/2183967",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "小红书算法 小红书趋势 抖音热点 抖音AI内容 YouTube Shorts TikTok Trends 爆款文案 视频开场 标题心理学 AI口播 虚拟主播 数字人",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "数字人民币试点地区累计交易金额达14.2万亿元",
-          "url": "https://wallstreetcn.com/livenews/2995392",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[08时52分 ~ 08时53分]"
         }
       ]
     }
