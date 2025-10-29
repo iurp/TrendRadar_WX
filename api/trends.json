@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T05:16:15.166150+08:00",
+  "generated_at": "2025-10-30T06:13:03.412421+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
@@ -16,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时15分 ~ 05时16分]"
+          "time_info": "[06时12分 ~ 06时13分]"
         },
         {
           "title": "外交部回应黄仁勋AI芯片言论",
@@ -27,7 +27,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时15分 ~ 05时16分]"
+          "time_info": "[06时12分 ~ 06时13分]"
+        },
+        {
+          "title": "微软(MSFT.O)CEO：旗下产品中的人工智能功能月度活跃用户已达到9亿。",
+          "url": "https://flash.jin10.com/detail/20251030054121006800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
@@ -38,7 +49,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时15分 ~ 05时16分]"
+          "time_info": "[06时12分 ~ 06时13分]"
         },
         {
           "title": "网民用AI编造散播谣言被处罚",
@@ -49,107 +60,184 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时15分 ~ 05时16分]"
+          "time_info": "[06时12分 ~ 06时13分]"
         },
         {
           "title": "中方回应黄仁勋称美AI芯片需出口中国",
           "url": "https://www.toutiao.com/trending/7566339492316024361/",
           "source": "今日头条",
           "ranks": [
-            15
+            16
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时15分 ~ 05时16分]"
+          "time_info": "[06时12分 ~ 06时13分]"
+        },
+        {
+          "title": "微软(MSFT.O)CEO：今年将把公司的整体人工智能能力提高超过80%。",
+          "url": "https://flash.jin10.com/detail/20251030053716449800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "扎克伯格：现在考虑人工智能（AI）产品的利润还显得操之过急。",
+          "url": "https://wallstreetcn.com/livenews/2996232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "Meta警告称：可能会加大开支来支持人工智能（AI）繁荣。",
+          "url": "https://wallstreetcn.com/livenews/2996222",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
         },
         {
           "title": "微软(MSFT.O)CEO：将继续增加我们在人工智能方面的投资，无论是资本还是人才投资，以应对前方巨大的机遇。",
           "url": "https://flash.jin10.com/detail/20251030041807561800",
           "source": "金十数据",
           "ranks": [
-            7
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
-        },
-        {
-          "title": "Meta Platforms(META.O)：人工智能模型和产品的进展将使我们能够在未来的几年中抓住新的收入增长机遇。",
-          "url": "https://flash.jin10.com/detail/20251030041058553800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "06时13分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 8,
       "titles": [
         {
-          "title": "Alphabet(GOOG.O)：Gemini应用程序的月活跃用户已超过6.5亿。",
-          "url": "https://flash.jin10.com/detail/20251030041555585800",
-          "source": "金十数据",
+          "title": "谷歌母公司Alphabet CEO Pichai：谷歌新云客户同比增长34%。 超过70%的云客户使用谷歌AI产品。",
+          "url": "https://wallstreetcn.com/livenews/2996241",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            12
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "06时13分"
         },
         {
-          "title": "Alphabet(GOOG.O)：欧盟委员会决定处以35亿美元罚款，该罚款已计入截至9月30日季度谷歌服务部门的一般及管理费用中。",
-          "url": "https://flash.jin10.com/detail/20251030041537308800",
+          "title": "谷歌母公司Alphabet CEO Pichai：AI模型的全球日活用户数已经超过7500万。",
+          "url": "https://wallstreetcn.com/livenews/2996240",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)CEO：预计今年晚些时候发布 Gemini 3。",
+          "url": "https://flash.jin10.com/detail/20251030054102591800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "谷歌母公司Alphabet CEO Pichai：谷歌付费订阅用户数突破3亿。 谷歌在TPU的投资将满足需求。 谷歌与Anthropic就供应100万TPU构建合作伙伴关系，这让人感到兴奋。 Gemini APP现在月活用户数超过6.5亿。 Gemini现在每分钟处理70亿tokens。",
+          "url": "https://wallstreetcn.com/livenews/2996239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "Alphabet(GOOG.O)CEO：更多智能体功能将“很快”登陆谷歌Chrome浏览器。",
+          "url": "https://flash.jin10.com/detail/20251030054050429800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
+        {
+          "title": "AI热潮助推云业务增长 谷歌营收飙升",
+          "url": "https://flash.jin10.com/detail/20251030044830557800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "06时13分"
         },
         {
-          "title": "公布财报后，谷歌A(GOOGL.O)美股盘后大涨超6%，微软(MSFT.O)跌4%，Meta Platforms(META.O)跌超7%。",
-          "url": "https://flash.jin10.com/detail/20251030040729871800",
+          "title": "Alphabet(GOOG.O)：Gemini应用程序的月活跃用户已超过6.5亿。",
+          "url": "https://flash.jin10.com/detail/20251030041555585800",
           "source": "金十数据",
           "ranks": [
-            24
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "06时13分"
         },
         {
-          "title": "Alphabet(GOOGL.O)2025年Q3谷歌云服务收入151.6亿美元。",
-          "url": "https://flash.jin10.com/detail/20251030040424583800",
+          "title": "Alphabet(GOOG.O)：欧盟委员会决定处以35亿美元罚款，该罚款已计入截至9月30日季度谷歌服务部门的一般及管理费用中。",
+          "url": "https://flash.jin10.com/detail/20251030041537308800",
           "source": "金十数据",
           "ranks": [
-            30
+            26
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "06时13分"
         }
       ]
     },
     {
       "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "微软因投资OpenAI而面临31亿美元冲击。",
+          "url": "https://wallstreetcn.com/livenews/2996237",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时13分"
+        },
         {
           "title": "马斯克的律师发誓，要通过法律手段破坏OpenAI的重组计划。",
           "url": "https://wallstreetcn.com/livenews/2996211",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时16分"
+          "time_info": "06时13分"
         }
       ]
     }
