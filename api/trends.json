@@ -1,44 +1,33 @@
 {
-  "generated_at": "2025-10-30T20:23:22.774613+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2025-10-30T21:27:07.933431+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "Meta拟发行六部分美元债券，应对AI支出激增",
-          "url": "https://flash.jin10.com/detail/20251030201342896800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
-        },
         {
           "title": "UP主自制的AI眼镜发布了",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9A%84AI%E7%9C%BC%E9%95%9C%E5%8F%91%E5%B8%83%E4%BA%86",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 21时27分]"
         },
         {
-          "title": "特斯拉AI发布最新研究成果",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
+          "title": "【焦点复盘】沪指冲高回落终结7连阳，AI硬件端遭重挫，锂矿股逆势爆发",
+          "url": "https://www.cls.cn/detail/2186433",
+          "source": "财联社热门",
           "ranks": [
-            25
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 21时27分]"
         }
       ]
     },
@@ -47,15 +36,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
-          "url": "https://www.cls.cn/detail/2185897",
+          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
+          "url": "https://www.cls.cn/detail/2186587",
           "source": "财联社热门",
           "ranks": [
-            5
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时23分"
+          "appearance_count": 2,
+          "time_info": "[21时26分 ~ 21时27分]"
         }
       ]
     }
