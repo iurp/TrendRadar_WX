@@ -1,44 +1,83 @@
 {
-  "generated_at": "2025-10-31T02:15:51.448937+08:00",
+  "generated_at": "2025-10-31T03:09:37.244638+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美国达拉斯联储主席洛根（2026年FOMC票委）：大小银行在金融支持方面存在差异 银行“后盾”（backstops）方面的差异造成了美国最大型银行和小型社区银行之间的竞争环境不平等。 公众认为，在金融压力时期，最大的银行将获得政府的救助。 与此同时，在社区银行，存款的保险限额仅为25万美元。 当压力出现时，客户首先需要安全，他们有时会涌向最大的银行。 或者，客户越来越多地使用互惠存款（reciprocal deposits），这提供了额外的保险，但会增加银行的成本，并带来运营及其他风险。 社区银行和“大到不能倒”（too-big-to-fail）巨头之间不平等的竞争环境，损害了我们经济所需的充满活力、竞争激烈的银行生态系统。",
+          "url": "https://wallstreetcn.com/livenews/2997090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
         {
           "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31846731",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时15分"
+          "time_info": "03时09分"
         },
         {
-          "title": "咨询业初级岗位或被AI取代，前麦肯锡员工受雇训练模型",
-          "url": "https://wallstreetcn.com/livenews/2997044",
-          "source": "华尔街见闻-快讯",
+          "title": "Meta大举押注AI引发投资者担忧 据悉拟发行250亿美元债券筹资",
+          "url": "https://www.cls.cn/detail/2186913",
+          "source": "财联社热门",
           "ranks": [
-            23
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时15分"
+          "time_info": "03时09分"
         },
         {
           "title": "特斯拉AI发布最新研究成果",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时15分"
+          "time_info": "03时09分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
+          "url": "https://www.cls.cn/detail/2186587",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
+        },
+        {
+          "title": "OpenAI宣布推出Aardvark，一款由GPT-5驱动的自主网络安全研究代理。",
+          "url": "https://flash.jin10.com/detail/20251031015822268800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时09分"
         }
       ]
     },
@@ -55,24 +94,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时15分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
-          "url": "https://www.cls.cn/detail/2186587",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时15分"
+          "time_info": "03时09分"
         }
       ]
     }
