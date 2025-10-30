@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-30T13:12:26.260031+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-30T14:18:28.792727+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
         {
           "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
@@ -16,90 +16,57 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "14时18分"
         },
         {
           "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
           "url": "https://www.cls.cn/detail/2185750",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
-          "url": "https://www.cls.cn/detail/2185393",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "14时18分"
         },
         {
           "title": "研究称对 AI 粗鲁提问准确率更高，真的是这样吗？为什么会出现这种现象？",
           "url": "https://www.zhihu.com/question/1963343251323969618",
           "source": "知乎",
           "ranks": [
-            13
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-10-30）",
-          "url": "https://flash.jin10.com/detail/20251030120122104800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "14时18分"
         }
       ]
     },
     {
       "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "OpenAI 宣布完成资本重组，如何看待这个精心设计的「新架构」？能否真正确立其非营利的使命？",
-          "url": "https://www.zhihu.com/question/1966652250177893275",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
-        },
         {
           "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
           "url": "https://www.cls.cn/detail/2185569",
           "source": "财联社热门",
           "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时18分"
+        },
+        {
+          "title": "OpenAI 宣布完成资本重组，如何看待这个精心设计的「新架构」？能否真正确立其非营利的使命？",
+          "url": "https://www.zhihu.com/question/1966652250177893275",
+          "source": "知乎",
+          "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时12分"
-        },
-        {
-          "title": "OpenAI计划于2027年上市",
-          "url": "https://www.douyin.com/hot/2288033",
-          "source": "抖音",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时12分"
+          "time_info": "14时18分"
         }
       ]
     }
