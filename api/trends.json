@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-30T10:29:55.151242+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2025-10-30T11:38:59.893345+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -16,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "11时38分"
         },
         {
           "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
@@ -27,18 +27,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "11时38分"
         },
         {
-          "title": "“2025年中国人工智能行业创新力企业百强”发布 10家深企入围百强榜单",
-          "url": "https://wallstreetcn.com/livenews/2996393",
-          "source": "华尔街见闻-快讯",
+          "title": "黄金暴涨暴跌AI都被问冒烟了",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E9%BB%84%E9%87%91%E6%9A%B4%E6%B6%A8%E6%9A%B4%E8%B7%8CAI%E9%83%BD%E8%A2%AB%E9%97%AE%E5%86%92%E7%83%9F%E4%BA%86%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26flag%3D1%26realpos%3D25%26filter_type%3Drealtimehot%26c_type%3D31%26q%3D%2523%25E9%25BB%2584%25E9%2587%2591%25E6%259A%25B4%25E6%25B6%25A8%25E6%259A%25B4%25E8%25B7%258CAI%25E9%2583%25BD%25E8%25A2%25AB%25E9%2597%25AE%25E5%2586%2592%25E7%2583%259F%25E4%25BA%2586%2523%26pos%3D26%26dgr%3D0%26cate%3D5001%26stream_entry_id%3D31%26lcate%3D5001%26band_rank%3D25%26display_time%3D1761795343%26pre_seqid%3D1761795343004026496314",
+          "source": "微博",
           "ranks": [
-            11
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "11时38分"
         }
       ]
     },
@@ -55,7 +55,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "11时38分"
         },
         {
           "title": "OpenAI计划于2027年上市",
@@ -66,7 +66,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "11时38分"
         }
       ]
     }
