@@ -1,95 +1,23 @@
 {
-  "generated_at": "2025-10-30T15:12:10.279083+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-30T16:15:32.396252+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 7,
+      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
+      "match_count": 2,
       "titles": [
         {
-          "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31533770",
-          "source": "澎湃新闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
-        },
-        {
-          "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
-          "url": "https://www.cls.cn/detail/2185750",
+          "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
+          "url": "https://www.cls.cn/detail/2185897",
           "source": "财联社热门",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
-        },
-        {
-          "title": "日本央行行长植田和男：但如果人工智能的预期未能实现，可能会出现一些调整。",
-          "url": "https://flash.jin10.com/detail/20251030145623991800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时15分"
         },
-        {
-          "title": "日本央行行长植田和男：食品通胀的临时因素仍然很大。 预计大米价格增速将放缓。 如果AI预期令人失望，将会有调整。 消费者信心略有改善。 无法确定中性利率。 贸易政策、海外经济的不确定性仍在继续。 观察企业对明年工资谈判的立场。",
-          "url": "https://wallstreetcn.com/livenews/2996546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "日本央行行长植田和男：人工智能推动当前繁荣，预计生产将增加。",
-          "url": "https://flash.jin10.com/detail/20251030145453126800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "日本央行行长植田和男：需要与政府保持密切沟通。 政府官员在每次日本央行会议上都发表意见。 目前还没有足够的材料来预测下一次工资谈判的结果。 想看看制造业、汽车业的工资趋势。 美国经济目前表现强劲。 AI影响强劲，而关税影响显现缓慢。 自4月份以来，我们面临的下行风险有所减弱。 不就贝森特的言论发表评论。 希望再评估一下数据。",
-          "url": "https://wallstreetcn.com/livenews/2996540",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "央行科技司副司长周祥昆：加快落实出台“人工智能+金融”的相关政策文件",
-          "url": "https://wallstreetcn.com/livenews/2996531",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 1,
-      "titles": [
         {
           "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
           "url": "https://www.cls.cn/detail/2185569",
@@ -98,8 +26,53 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
+          "url": "https://www.cls.cn/detail/2185750",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        },
+        {
+          "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31533770",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股盘前：谷歌A涨约7%，Meta跌约7%",
+          "url": "https://wallstreetcn.com/livenews/2996606",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时15分"
         }
       ]
     }
