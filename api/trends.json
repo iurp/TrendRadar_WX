@@ -1,22 +1,22 @@
 {
-  "generated_at": "2025-10-30T17:14:51.736327+08:00",
-  "total_titles_processed": 299,
+  "generated_at": "2025-10-30T18:14:26.619455+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "AI引爆存储芯片需求！三星Q3营业利润环比猛增160% 股价再创新高",
           "url": "https://www.cls.cn/detail/2185750",
           "source": "财联社热门",
           "ranks": [
-            4
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "18时14分"
         },
         {
           "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
@@ -27,24 +27,46 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "18时14分"
+        },
+        {
+          "title": "金十整理：英伟达市值突破5万亿美元并非终点，AI泡沫远未到破裂之时？",
+          "url": "https://flash.jin10.com/detail/20251030174803116800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         }
       ]
     },
     {
       "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "史上最大IPO要来了？OpenAI据称筹备上市 冲击万亿美元估值",
           "url": "https://www.cls.cn/detail/2185897",
           "source": "财联社热门",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时14分"
+          "time_info": "18时14分"
+        },
+        {
+          "title": "空降 OpenAI 智能体榜单第一名的 FM Agent 什么来头，有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/1967183428639266693",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         }
       ]
     }
