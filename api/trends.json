@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-10-30T08:52:44.263578+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-10-30T10:29:55.151242+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 8,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "510亿！央企战新基金来了 重点支持人工智能、航空航天等未来产业",
-          "url": "https://www.cls.cn/detail/2185058",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        },
         {
           "title": "那些“染上网瘾”的老年人，要怎么和AI相处？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31533770",
@@ -27,73 +16,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时52分"
-        },
-        {
-          "title": "外交部回应黄仁勋AI芯片言论",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8BAI%E8%8A%AF%E7%89%87%E8%A8%80%E8%AE%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时52分"
+          "time_info": "10时29分"
         },
         {
           "title": "AI伴侣引发争议！Character.AI将禁止未成年人与其聊天机器人对话",
           "url": "https://www.cls.cn/detail/2185393",
           "source": "财联社热门",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时52分"
+          "time_info": "10时29分"
         },
         {
-          "title": "三星电子：由于第四季度人工智能投资势头持续，预计半导体市场将保持强劲。",
-          "url": "https://flash.jin10.com/detail/20251030080923325800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        },
-        {
-          "title": "网民用AI编造散播谣言被处罚",
-          "url": "https://www.douyin.com/hot/2287291",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时52分"
-        },
-        {
-          "title": "三星电子：第三季度芯片业务营业利润达7万亿韩元。 2026年将重点研发HBM4处理器。 受第四季度人工智能投资持续增长推动，半导体市场预计将保持强劲。 2025年第四季度，晶圆代工业务将力争持续提升盈利能力。 向所有客户销售HBM3E芯片。 在美国的泰勒晶圆工厂将于2026年开始运营。",
-          "url": "https://wallstreetcn.com/livenews/2996306",
+          "title": "“2025年中国人工智能行业创新力企业百强”发布 10家深企入围百强榜单",
+          "url": "https://wallstreetcn.com/livenews/2996393",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            21
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时52分"
-        },
-        {
-          "title": "中方回应黄仁勋称美AI芯片需出口中国",
-          "url": "https://www.toutiao.com/trending/7566339492316024361/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时52分"
+          "time_info": "10时29分"
         }
       ]
     },
@@ -102,26 +47,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI回应筹备IPO",
-          "url": "https://flash.jin10.com/detail/20251030082103049800",
-          "source": "金十数据",
+          "title": "OpenAI据悉计划最早明年下半年提交上市申请 | 环球市场",
+          "url": "https://www.cls.cn/detail/2185569",
+          "source": "财联社热门",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时52分"
+          "time_info": "10时29分"
         },
         {
           "title": "OpenAI计划于2027年上市",
           "url": "https://www.douyin.com/hot/2288033",
           "source": "抖音",
           "ranks": [
-            20
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时52分"
+          "time_info": "10时29分"
         }
       ]
     }
