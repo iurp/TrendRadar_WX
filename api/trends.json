@@ -1,8 +1,47 @@
 {
-  "generated_at": "2025-10-30T19:15:54.031270+08:00",
+  "generated_at": "2025-10-30T20:23:22.774613+08:00",
   "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "Meta拟发行六部分美元债券，应对AI支出激增",
+          "url": "https://flash.jin10.com/detail/20251030201342896800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "UP主自制的AI眼镜发布了",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%87%AA%E5%88%B6%E7%9A%84AI%E7%9C%BC%E9%95%9C%E5%8F%91%E5%B8%83%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "特斯拉AI发布最新研究成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        }
+      ]
+    },
     {
       "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
       "match_count": 1,
@@ -12,11 +51,11 @@
           "url": "https://www.cls.cn/detail/2185897",
           "source": "财联社热门",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时15分"
+          "time_info": "20时23分"
         }
       ]
     }
