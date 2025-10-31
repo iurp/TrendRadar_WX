@@ -1,132 +1,66 @@
 {
-  "generated_at": "2025-10-31T07:12:45.836659+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-31T08:50:00.637914+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 11,
+      "match_count": 5,
       "titles": [
         {
           "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
           "url": "https://m.thepaper.cn/newsDetail_forward_31846731",
           "source": "澎湃新闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 08时50分]"
         },
         {
           "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
           "url": "https://wallstreetcn.com/articles/3758276",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 08时50分]"
         },
         {
-          "title": "Meta大举押注AI引发投资者担忧 据悉拟发行250亿美元债券筹资",
-          "url": "https://www.cls.cn/detail/2186913",
+          "title": "硅谷大佬揭AI内幕：科技巨头们有意少报需要的资源规模",
+          "url": "https://www.cls.cn/detail/2187024",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 08时50分]"
         },
         {
-          "title": "亚马逊(AMZN.O)CEO：最近裁员14000人是由“文化”驱动的，而“并非真正出于财务或人工智能的考虑”。",
-          "url": "https://flash.jin10.com/detail/20251031054225724800",
-          "source": "金十数据",
+          "title": "澎湃AI晚新闻丨2025年10月30日",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31856543",
+          "source": "澎湃新闻",
           "ranks": [
-            11
+            20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 08时50分]"
         },
         {
-          "title": "亚马逊(AMZN.O)CEO：TRAINIUM 3 将于2025年底进行预览展示。",
-          "url": "https://flash.jin10.com/detail/20251031053211799800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "苹果(AAPL.O)CFO：正在大幅增加对人工智能的投资。",
-          "url": "https://flash.jin10.com/detail/20251031052725702800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "据知情人士透露，英特尔初步洽谈收购人工智能（AI）初创公司SambaNova Systems Inc.。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2997159",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "亚马逊：预计2026年的现金资本支出金额将高于2025年。 上调开支预期至1250亿美元。 亚马逊网络服务（AWS）运营利润率将随投资水平波动 。 Trainium 3将于2025年底进行预览展示。 人工智能（AI）购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增140%。",
-          "url": "https://wallstreetcn.com/livenews/2997155",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)CEO：人工智能购物助手RUFUS今年已有2.5亿活跃客户，月度用户同比增长140%。",
-          "url": "https://flash.jin10.com/detail/20251031052114542800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "亚马逊(AMZN.O)CEO：亚马逊人工智能购物助手Rufus有望带来每年100亿美元的增量销售额。",
-          "url": "https://flash.jin10.com/detail/20251031052038069800",
-          "source": "金十数据",
+          "title": "特斯拉AI发布最新研究成果",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
           "ranks": [
             26
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        },
-        {
-          "title": "Cloudflare：预计80%的人工智能（AI）公司依赖IT。",
-          "url": "https://wallstreetcn.com/livenews/2997151",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 08时50分]"
         }
       ]
     },
@@ -139,28 +73,11 @@
           "url": "https://www.cls.cn/detail/2186836",
           "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "一图看懂 | 史上最大IPO？OpenAI与美股科技七巨头还有多大差距？",
-          "url": "https://www.cls.cn/detail/2186587",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时12分"
+          "appearance_count": 2,
+          "time_info": "[08时49分 ~ 08时50分]"
         }
       ]
     }
