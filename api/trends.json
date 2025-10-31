@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-01T01:13:44.764972+08:00",
+  "generated_at": "2025-11-01T02:18:45.169479+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
@@ -16,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "02时18分"
         },
         {
           "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
@@ -27,18 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时13分"
-        },
-        {
-          "title": "美国亚特兰大联储主席博斯蒂克（2027年FOMC票委）：人工智能（AI）技术让企业在招聘问题上迟疑不决。",
-          "url": "https://wallstreetcn.com/livenews/2997823",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "02时18分"
         }
       ]
     },
@@ -51,11 +40,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "02时18分"
         }
       ]
     },
@@ -72,7 +61,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时13分"
+          "time_info": "02时18分"
         }
       ]
     }
