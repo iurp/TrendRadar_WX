@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T13:13:25.063437+08:00",
-  "total_titles_processed": 300,
+  "generated_at": "2025-10-31T14:17:34.776371+08:00",
+  "total_titles_processed": 299,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
         {
           "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
@@ -16,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "14时17分"
         },
         {
           "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
@@ -27,51 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "硅谷大佬揭AI内幕：科技巨头们有意少报需要的资源规模",
-          "url": "https://www.cls.cn/detail/2187024",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "特斯拉AI发布最新研究成果",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%96%AF%E6%8B%89AI%E5%8F%91%E5%B8%83%E6%9C%80%E6%96%B0%E7%A0%94%E7%A9%B6%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "中国信通院人工智能所联合发布《大模型一体机应用研究报告（2025年）》",
-          "url": "https://wallstreetcn.com/livenews/2997385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
-        },
-        {
-          "title": "10月31日午间收评：创业板指半日跌1.49%，AI应用、医药股逆势走强",
-          "url": "https://wallstreetcn.com/livenews/2997369",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "14时17分"
         }
       ]
     },
@@ -84,28 +40,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
           "source": "澎湃新闻",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "TikTok Shop TikTok电商 跨境电商 出海创业 AliExpress Temu Shein Amazon AI tools Shopify AI SEO AI AI Ads",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "110家企业入选！中国贸促会将发布跨境电商重点联系企业名录",
-          "url": "https://wallstreetcn.com/livenews/2997379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时13分"
+          "time_info": "14时17分"
         }
       ]
     }
