@@ -1,47 +1,8 @@
 {
-  "generated_at": "2025-10-31T17:15:44.836291+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2025-10-31T18:14:34.520234+08:00",
+  "total_titles_processed": 302,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31846731",
-          "source": "澎湃新闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：中国是一个非常庞大且重要的市场，中国的人工智能研究如此之多，中国根本无可替代。",
-          "url": "https://flash.jin10.com/detail/20251031163933365800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        },
-        {
-          "title": "英伟达CEO黄仁勋：韩国必须抓住机遇，成为全球主要的人工智能中心之一。",
-          "url": "https://flash.jin10.com/detail/20251031163314573800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时15分"
-        }
-      ]
-    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
@@ -51,11 +12,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "18时14分"
         }
       ]
     },
@@ -72,7 +33,24 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时15分"
+          "time_info": "18时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31846731",
+          "source": "澎湃新闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时14分"
         }
       ]
     }
