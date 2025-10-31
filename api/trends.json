@@ -1,8 +1,58 @@
 {
-  "generated_at": "2025-10-31T19:11:49.955167+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-10-31T20:23:44.022762+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "英伟达与韩国科技巨头达成重大AI协议：部署26万颗Blackwell芯片，打造亚洲首个\"工业AI云\"！",
+          "url": "https://wallstreetcn.com/articles/3758417",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "小米可穿戴部创新产品业务负责人李创奇已离职，曾力推AI眼镜",
+          "url": "https://wallstreetcn.com/livenews/2997702",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
+          "url": "https://wallstreetcn.com/articles/3758381",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        },
+        {
+          "title": "Getty Images：合作涵盖在Perplexity基于人工智能的搜索与发现工具中展示来自Getty Images的图片。",
+          "url": "https://flash.jin10.com/detail/20251031200221203800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "20时23分"
+        }
+      ]
+    },
     {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
@@ -12,11 +62,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
           "source": "澎湃新闻",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时23分"
         }
       ]
     },
@@ -33,24 +83,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31846731",
-          "source": "澎湃新闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时11分"
+          "time_info": "20时23分"
         }
       ]
     }
