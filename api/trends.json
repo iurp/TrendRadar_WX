@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-10-31T15:12:11.942850+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-10-31T16:17:34.686895+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 10,
+      "match_count": 3,
       "titles": [
         {
           "title": "对话哲学教授王小伟：当AI过于强大，人会失去什么？",
@@ -15,107 +15,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
           "url": "https://wallstreetcn.com/articles/3758276",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
-          "title": "英伟达与韩国企业达成人工智能协议",
-          "url": "https://flash.jin10.com/detail/20251031142918336800",
-          "source": "金十数据",
+          "title": "中兴AI家庭全场景在京亮相",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B4AI%E5%AE%B6%E5%BA%AD%E5%85%A8%E5%9C%BA%E6%99%AF%E5%9C%A8%E4%BA%AC%E4%BA%AE%E7%9B%B8",
+          "source": "百度热搜",
           "ranks": [
-            10
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "英伟达(NVDA.O)与LG合作进行物理人工智能开发，支持创业公司。",
-          "url": "https://flash.jin10.com/detail/20251031142729217800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "英伟达(NVDA.O)与Naver Cloud、LG AI研究、SK电讯、NC AI和Upstage合作开发大型语言模型。",
-          "url": "https://flash.jin10.com/detail/20251031142445285800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：Naver Cloud正在扩展英伟达人工智能基础设施，配备超过6万块GPU。",
-          "url": "https://flash.jin10.com/detail/20251031142423435800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：与现代汽车集团及韩国政府合作打造人工智能工厂。",
-          "url": "https://flash.jin10.com/detail/20251031141930569800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：SK集团正在建设配备超5万块英伟达GPU的人工智能工厂，打造亚洲首个工业级人工智能云。",
-          "url": "https://flash.jin10.com/detail/20251031141649618800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：将有超过5万台英伟达GPU部署于韩国主权云和人工智能工厂。",
-          "url": "https://flash.jin10.com/detail/20251031141537780800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "英伟达(NVDA.O)：正与韩国合作，以扩展该国人工智能基础设施。",
-          "url": "https://flash.jin10.com/detail/20251031141420413800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时17分"
         }
       ]
     },
@@ -128,11 +51,11 @@
           "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
           "source": "澎湃新闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时11分 ~ 15时12分]"
+          "appearance_count": 1,
+          "time_info": "16时17分"
         }
       ]
     }
