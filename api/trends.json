@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-31T16:17:34.686895+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2025-10-31T17:15:44.836291+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
@@ -16,29 +16,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时17分"
+          "time_info": "17时15分"
         },
         {
-          "title": "AI泡沫“风向标”：市场紧盯甲骨文的债券——AI杠杆的“最弱一环”",
-          "url": "https://wallstreetcn.com/articles/3758276",
-          "source": "华尔街见闻",
+          "title": "英伟达CEO黄仁勋：中国是一个非常庞大且重要的市场，中国的人工智能研究如此之多，中国根本无可替代。",
+          "url": "https://flash.jin10.com/detail/20251031163933365800",
+          "source": "金十数据",
           "ranks": [
-            8
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时17分"
+          "time_info": "17时15分"
         },
         {
-          "title": "中兴AI家庭全场景在京亮相",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%85%B4AI%E5%AE%B6%E5%BA%AD%E5%85%A8%E5%9C%BA%E6%99%AF%E5%9C%A8%E4%BA%AC%E4%BA%AE%E7%9B%B8",
-          "source": "百度热搜",
+          "title": "英伟达CEO黄仁勋：韩国必须抓住机遇，成为全球主要的人工智能中心之一。",
+          "url": "https://flash.jin10.com/detail/20251031163314573800",
+          "source": "金十数据",
           "ranks": [
-            27
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时17分"
+          "time_info": "17时15分"
         }
       ]
     },
@@ -55,7 +55,24 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时17分"
+          "time_info": "17时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌前CEO：当年李鸿章访美被震了，如今外国人来华被惊了",
+          "url": "https://news.ifeng.com/c/8ntxAfWGS8b",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时15分"
         }
       ]
     }
