@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-02T06:09:54.379952+08:00",
+  "generated_at": "2025-11-02T07:10:32.654977+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "微软财报泄露了OpenAI的财务数据：单季度巨亏115亿美元",
@@ -16,29 +16,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时09分"
+          "time_info": "07时10分"
         },
         {
           "title": "媒体曝 OpenAI 单季度亏损 120 亿美元，具体情况如何？目前 OpenAI 发展面临哪些问题？",
           "url": "https://www.zhihu.com/question/1967900167182181978",
           "source": "知乎",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时09分"
+          "time_info": "07时10分"
         },
         {
           "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
           "url": "https://wallstreetcn.com/articles/3758475",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时09分"
+          "time_info": "07时10分"
+        },
+        {
+          "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
+          "url": "https://www.zhihu.com/question/1967273703189480617",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时10分"
         }
       ]
     },
@@ -55,7 +66,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时09分"
+          "time_info": "07时10分"
         }
       ]
     }
