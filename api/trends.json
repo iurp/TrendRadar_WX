@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T08:55:12.302030+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-01T10:28:51.654788+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
@@ -15,75 +15,41 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        },
-        {
-          "title": "“最火AI板块”交成绩单：涨飞了的“易中天”，只有中际旭创撑住了“高预期”",
-          "url": "https://wallstreetcn.com/articles/3758381",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
           "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
           "url": "https://wallstreetcn.com/articles/3758449",
           "source": "华尔街见闻",
           "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时28分"
+        },
+        {
+          "title": "韩国总统李在明：希望在人工智能这一共同问题上找到创新性解决方案。",
+          "url": "https://flash.jin10.com/detail/20251101090947123800",
+          "source": "金十数据",
+          "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
+          "appearance_count": 1,
+          "time_info": "10时28分"
         },
         {
-          "title": "苹果电话会：预计将迎史上最强iPhone季度，大幅增加AI研发投资",
-          "url": "https://wallstreetcn.com/articles/3758382",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "AI投资大赛：DeepSeek回报率领跑，GPT亏麻了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31855899",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时54分 ~ 08时55分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股七巨头收盘播报｜亚马逊收涨约9.6%，10月谷歌A涨约15.7%连涨七个月、Meta累跌11.7%",
-          "url": "https://wallstreetcn.com/livenews/2997895",
+          "title": "韩国总统李在明：希望在人工智能的共同问题上找到创造性的解决方案。",
+          "url": "https://wallstreetcn.com/livenews/2997940",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时55分"
+          "time_info": "10时28分"
         }
       ]
     }
