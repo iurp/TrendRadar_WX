@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-02T02:14:21.173501+08:00",
+  "generated_at": "2025-11-02T03:08:38.338056+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -16,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时14分"
+          "time_info": "03时08分"
         },
         {
           "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
@@ -27,18 +27,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时14分"
+          "time_info": "03时08分"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
           "url": "https://www.zhihu.com/question/1967273703189480617",
           "source": "知乎",
           "ranks": [
-            14
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时14分"
+          "time_info": "03时08分"
         }
       ]
     },
@@ -55,7 +55,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "02时14分"
+          "time_info": "03时08分"
         }
       ]
     }
