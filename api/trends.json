@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-01T17:11:28.127732+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-01T18:13:08.797286+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时11分"
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         },
         {
           "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时11分"
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         }
       ]
     },
@@ -43,8 +43,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时11分"
+          "appearance_count": 2,
+          "time_info": "[18时12分 ~ 18时13分]"
         }
       ]
     }
