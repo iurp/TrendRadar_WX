@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-01T20:18:40.966878+08:00",
+  "generated_at": "2025-11-01T21:19:08.006730+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -15,19 +15,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时18分"
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
           "url": "https://www.zhihu.com/question/1967273703189480617",
           "source": "知乎",
           "ranks": [
-            19
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时18分"
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
         }
       ]
     },
@@ -43,8 +43,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时18分"
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
         },
         {
           "title": "美银Hartnett：标普AI泡沫太大，黄金与中国股票或是最佳对冲工具",
@@ -54,8 +54,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时18分"
+          "appearance_count": 2,
+          "time_info": "[21时18分 ~ 21时19分]"
         }
       ]
     }
