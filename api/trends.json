@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-02T00:12:16.630789+08:00",
+  "generated_at": "2025-11-02T01:10:13.162121+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -12,22 +12,22 @@
           "url": "https://wallstreetcn.com/articles/3758470",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时11分 ~ 00时12分]"
+          "time_info": "[01时09分 ~ 01时10分]"
         },
         {
           "title": "如何看待 OpenAI 计划上市，估值或高达 1 万亿美元？此前不是宣称「非盈利」吗？",
           "url": "https://www.zhihu.com/question/1967273703189480617",
           "source": "知乎",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时11分 ~ 00时12分]"
+          "time_info": "[01时09分 ~ 01时10分]"
         }
       ]
     },
@@ -44,7 +44,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时11分 ~ 00时12分]"
+          "time_info": "[01时09分 ~ 01时10分]"
         }
       ]
     }
