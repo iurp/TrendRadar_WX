@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-03T06:10:36.226955+08:00",
+  "generated_at": "2025-11-03T07:10:21.739585+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -16,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "07时10分"
         },
         {
           "title": "AI医疗为何引发巨头押注",
@@ -27,7 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "07时10分"
         },
         {
           "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
@@ -38,18 +38,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "07时10分"
         },
         {
           "title": "阿布扎比国家石油公司、马斯达尔公司、XRG公司与微软达成人工智能部署协议。（彭博）",
           "url": "https://wallstreetcn.com/livenews/2998157",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "06时10分"
+          "time_info": "07时10分"
         }
       ]
     }
