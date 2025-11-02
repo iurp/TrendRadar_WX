@@ -1,8 +1,36 @@
 {
-  "generated_at": "2025-11-02T20:18:45.022100+08:00",
+  "generated_at": "2025-11-02T21:17:20.299678+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "刚刚，亚马逊的“AI转折点”出现了？",
+          "url": "https://wallstreetcn.com/articles/3758489",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        },
+        {
+          "title": "AI医疗为何引发巨头押注",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%B7%A8%E5%A4%B4%E6%8A%BC%E6%B3%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时17分"
+        }
+      ]
+    },
     {
       "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
       "match_count": 1,
@@ -16,24 +44,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "20时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "刚刚，亚马逊的“AI转折点”出现了？",
-          "url": "https://wallstreetcn.com/articles/3758489",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时18分"
+          "time_info": "21时17分"
         }
       ]
     }
