@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-03T01:10:47.007832+08:00",
+  "generated_at": "2025-11-03T02:15:22.214995+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -16,7 +16,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "02时15分"
+        },
+        {
+          "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
+          "url": "https://wallstreetcn.com/articles/3758501",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
         },
         {
           "title": "AI医疗为何引发巨头押注",
@@ -27,18 +38,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
-          "url": "https://wallstreetcn.com/articles/3758501",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "02时15分"
         },
         {
           "title": "阿布扎比国家石油公司、马斯达尔公司、XRG公司与微软达成人工智能部署协议。（彭博）",
@@ -49,7 +49,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "02时15分"
+        },
+        {
+          "title": "马斯克：AI在2026年超越单个人类智商",
+          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E5%9C%A82026%E5%B9%B4%E8%B6%85%E8%B6%8A%E5%8D%95%E4%B8%AA%E4%BA%BA%E7%B1%BB%E6%99%BA%E5%95%86",
+          "source": "百度热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时15分"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC：公司和微软将在Adnoc的价值链中共同开发和部署人工智能代理，以提高效率并最大限度地减少排放",
@@ -60,7 +71,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "02时15分"
         },
         {
           "title": "阿联酋阿布扎比国家石油公司ADNOC：本公司、马斯达尔、XRG和微软将携手推动人工智能在能源领域的应用，以及能源在人工智能领域的支持。",
@@ -71,18 +82,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时10分"
-        },
-        {
-          "title": "马斯克：AI在2026年超越单个人类智商",
-          "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9AAI%E5%9C%A82026%E5%B9%B4%E8%B6%85%E8%B6%8A%E5%8D%95%E4%B8%AA%E4%BA%BA%E7%B1%BB%E6%99%BA%E5%95%86",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "02时15分"
         }
       ]
     },
@@ -95,11 +95,11 @@
           "url": "https://wallstreetcn.com/articles/3758487",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时10分"
+          "time_info": "02时15分"
         }
       ]
     }
