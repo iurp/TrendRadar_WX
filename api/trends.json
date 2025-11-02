@@ -1,34 +1,12 @@
 {
-  "generated_at": "2025-11-02T11:41:47.475166+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2025-11-02T12:15:29.374585+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
       "match_count": 3,
       "titles": [
-        {
-          "title": "韩国总统办公室：韩国与新加坡签署人工智能与绿色航运合作备忘录。",
-          "url": "https://flash.jin10.com/detail/20251102112751487800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
-        {
-          "title": "韩国总统办公室：韩国与新加坡同意在国防技术领域展开合作。韩国、新加坡签署人工智能与绿色航运谅解备忘录。",
-          "url": "https://wallstreetcn.com/livenews/2998082",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时41分"
-        },
         {
           "title": "当前AI泡沫究竟多大？瑞银：本轮泡沫比TMT时期更具“合理性”，三大见顶信号尚未出现",
           "url": "https://wallstreetcn.com/articles/3758471",
@@ -38,13 +16,35 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "12时15分"
+        },
+        {
+          "title": "韩国总统办公室：韩国与新加坡同意在国防技术领域展开合作。韩国、新加坡签署人工智能与绿色航运谅解备忘录。",
+          "url": "https://wallstreetcn.com/livenews/2998082",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时15分"
+        },
+        {
+          "title": "韩国总统办公室：韩国与新加坡签署人工智能与绿色航运合作备忘录。",
+          "url": "https://flash.jin10.com/detail/20251102112751487800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         }
       ]
     },
     {
       "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "微软和OpenAI CEO罕见同场对话：OpenAI重组、AI泡沫质疑、算力需求......",
@@ -55,7 +55,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时41分"
+          "time_info": "12时15分"
+        },
+        {
+          "title": "Ilya被马斯克逼进法院，曝出了Altman和OpenAI的惊人内幕",
+          "url": "https://wallstreetcn.com/articles/3758487",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时15分"
         }
       ]
     }
