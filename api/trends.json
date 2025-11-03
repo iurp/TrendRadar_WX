@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-03T13:14:57.933191+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2025-11-03T14:19:19.455250+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 9,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "刚刚，亚马逊的“AI转折点”出现了？",
-          "url": "https://wallstreetcn.com/articles/3758489",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
         {
           "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
           "url": "https://www.zhihu.com/question/1968223817403954668",
@@ -27,18 +16,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时14分"
+          "time_info": "14时19分"
+        },
+        {
+          "title": "李乐成：加快推进人工智能赋能新型工业化",
+          "url": "https://www.cls.cn/detail/2189189",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "AI医疗为何引发巨头押注",
           "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%B7%A8%E5%A4%B4%E6%8A%BC%E6%B3%A8",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时14分"
+          "time_info": "14时19分"
+        },
+        {
+          "title": "知名经济学家洪灏进军知识付费，8 天入账 675 万元，如何看待此事？前首席们做知识付费是否会存在合规风险？",
+          "url": "https://www.zhihu.com/question/1968075469229396648",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时19分"
         },
         {
           "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
@@ -49,90 +60,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "李乐成：加快推进人工智能赋能新型工业化",
-          "url": "https://www.cls.cn/detail/2189189",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "韩国股市延续AI热潮涨势 SK海力士一度上涨10%",
-          "url": "https://flash.jin10.com/detail/20251103120809638800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "金十数据整理：每日人工智能动态汇总（2025-11-03）",
-          "url": "https://flash.jin10.com/detail/20251103120317405800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
+          "time_info": "14时19分"
         },
         {
           "title": "科技巨头财报揭露关键趋势？基金经理：AI投资巨浪将推动美股下一轮涨势！",
           "url": "https://www.cls.cn/detail/2189006",
           "source": "财联社热门",
           "ranks": [
-            12
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "知名经济学家洪灏进军知识付费，8 天入账 675 万元，如何看待此事？前首席们做知识付费是否会存在合规风险？",
-          "url": "https://www.zhihu.com/question/1968075469229396648",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "市场消息：OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
-          "url": "https://flash.jin10.com/detail/20251103120231849800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
-        },
-        {
-          "title": "OpenAI多模态视频生成模型Sora近日宣布推出限时开放，在美国、加拿大、日本和韩国的用户无需邀请码即可进入Sora应用。",
-          "url": "https://wallstreetcn.com/livenews/2998342",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时14分"
+          "time_info": "14时19分"
         }
       ]
     }
