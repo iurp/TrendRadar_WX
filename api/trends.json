@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T00:14:29.020757+08:00",
+  "generated_at": "2025-11-04T01:11:18.135126+08:00",
   "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 9,
+      "match_count": 8,
       "titles": [
         {
           "title": "大摩：2026将是AI科技硬件之年",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 01时11分]"
         },
         {
           "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
@@ -26,8 +26,30 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 01时11分]"
+        },
+        {
+          "title": "作为Lambda公司与微软(MSFT.O)合作协议的一部分，Lambda将部署由英伟达(NVDA.O)提供技术支持的人工智能基础设施。",
+          "url": "https://flash.jin10.com/detail/20251104005124475800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时14分"
+          "time_info": "01时11分"
+        },
+        {
+          "title": "据CNBC：微软(MSFT.O)与Lambda达成数十亿美元的人工智能基础设施协议。",
+          "url": "https://flash.jin10.com/detail/20251104004648621800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时11分"
         },
         {
           "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
@@ -37,8 +59,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 01时11分]"
         },
         {
           "title": "“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”",
@@ -48,8 +70,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 01时11分]"
         },
         {
           "title": "知名经济学家洪灏进军知识付费，8 天入账 675 万元，如何看待此事？前首席们做知识付费是否会存在合规风险？",
@@ -59,8 +81,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 01时11分]"
         },
         {
           "title": "【焦点复盘】指数缩量反弹迎11月开门红，传媒等AI应用端延续强势，海南自贸概念异军突起",
@@ -70,41 +92,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "Eaton Corp.同意按95亿美元收购Boyd Thermal，从而将与人工智能（AI）数据中心相关的需求资本化。",
-          "url": "https://wallstreetcn.com/livenews/2998642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "花旗：到2030年全球人工智能产业收入料将达到9750亿美元",
-          "url": "https://flash.jin10.com/detail/20251103231145361800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
-        },
-        {
-          "title": "花旗集团：预计2030年全球AI收入规模将达9750亿美元。",
-          "url": "https://flash.jin10.com/detail/20251103231059315800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时14分"
+          "appearance_count": 2,
+          "time_info": "[01时10分 ~ 01时11分]"
         }
       ]
     }
