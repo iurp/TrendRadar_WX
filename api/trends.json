@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-03T18:14:38.588090+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-03T19:11:17.295708+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 11,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "道达尔能源首席执行官：凭借炼油厂现有的数据，人工智能可以帮助产量提高1%，这将带来巨额收入。",
-          "url": "https://flash.jin10.com/detail/20251103174622626800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
         {
           "title": "李乐成：加快推进人工智能赋能新型工业化",
           "url": "https://www.cls.cn/detail/2189189",
@@ -27,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "19时11分"
         },
         {
           "title": "马斯克称 5 年后不再有传统的手机和 App，人类进入 AI 内容时代，如何看待这一观点？你认同吗？",
@@ -38,40 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
-          "url": "https://wallstreetcn.com/articles/3758501",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "英国石油公司首席执行官：未来5到10年，受人工智能增长的推动，能源需求占全球经济的比例将从1%增长到10%。",
-          "url": "https://flash.jin10.com/detail/20251103174218589800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "苹果AI入华计划再延期",
-          "url": "https://wallstreetcn.com/livenews/2998516",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "19时11分"
         },
         {
           "title": "知名经济学家洪灏进军知识付费，8 天入账 675 万元，如何看待此事？前首席们做知识付费是否会存在合规风险？",
@@ -82,7 +38,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "19时11分"
         },
         {
           "title": "AI芯片、人形机器人、火箭……都要来了 一图看懂明星科技股IPO“最新阵容”",
@@ -93,68 +49,68 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "19时11分"
         },
         {
           "title": "“AI时代以来首次长期涨价行动”！报道：台积电启动“连续4年涨价”，先进制程涨约3%-10%",
           "url": "https://wallstreetcn.com/articles/3758523",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "19时11分"
         },
         {
           "title": "“AI明星公司”Palantir认为大学教育无用，招聘了22名高中生，开启“洗脑式培训”",
           "url": "https://wallstreetcn.com/articles/3758514",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "19时11分"
+        },
+        {
+          "title": "苹果AI入华计划再延期",
+          "url": "https://wallstreetcn.com/livenews/2998516",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "上海新增8款已完成备案的生成式人工智能服务",
           "url": "https://wallstreetcn.com/livenews/2998495",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "19时11分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "谷歌母公司Alphabet将发行至少30亿欧元债券以支持AI扩张",
           "url": "https://wallstreetcn.com/livenews/2998517",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时14分"
-        },
-        {
-          "title": "谷歌母公司Alphabet拟发行至少30亿欧元债券 为AI扩张计划融资",
-          "url": "https://flash.jin10.com/detail/20251103173115660800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时14分"
+          "time_info": "19时11分"
         }
       ]
     }
