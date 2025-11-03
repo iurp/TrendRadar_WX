@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-03T08:53:51.510845+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2025-11-03T10:31:15.199661+08:00",
+  "total_titles_processed": 301,
   "failed_sources": [],
   "trends": [
     {
@@ -8,54 +8,37 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "中信证券：建议继续关注热度较高的科技方向，端侧AI预计成为新的催化线索",
-          "url": "https://wallstreetcn.com/livenews/2998233",
-          "source": "华尔街见闻-快讯",
+          "title": "AI医疗为何引发巨头押注",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%B7%A8%E5%A4%B4%E6%8A%BC%E6%B3%A8",
+          "source": "bilibili 热搜",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
           "title": "刚刚，亚马逊的“AI转折点”出现了？",
           "url": "https://wallstreetcn.com/articles/3758489",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         },
         {
-          "title": "AI医疗为何引发巨头押注",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%8C%BB%E7%96%97%E4%B8%BA%E4%BD%95%E5%BC%95%E5%8F%91%E5%B7%A8%E5%A4%B4%E6%8A%BC%E6%B3%A8",
-          "source": "bilibili 热搜",
+          "title": "数据中心冲击消费？AI影响美国中选格局，原因是：电价！",
+          "url": "https://wallstreetcn.com/articles/3758501",
+          "source": "华尔街见闻",
           "ranks": [
-            5
+            10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "奥尔特曼称OpenAI年收入远超130亿美元",
-          "url": "https://flash.jin10.com/detail/20251103081100518800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时53分"
+          "appearance_count": 2,
+          "time_info": "[10时30分 ~ 10时31分]"
         }
       ]
     }
