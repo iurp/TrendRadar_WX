@@ -1,100 +1,77 @@
 {
-  "generated_at": "2025-11-04T17:16:13.176540+08:00",
+  "generated_at": "2025-11-04T18:15:51.451246+08:00",
   "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 10,
+      "match_count": 8,
       "titles": [
         {
           "title": "国家卫健委发文支持AI+医疗 基层应用被重点提及 智能理疗产品或加速进入临床",
           "url": "https://www.cls.cn/detail/2190323",
           "source": "财联社热门",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
-        },
-        {
-          "title": "大摩：2026将是AI科技硬件之年",
-          "url": "https://wallstreetcn.com/articles/3758553",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
-        },
-        {
-          "title": "AI万亿赌局：表外“幽灵债务”正在堆积，魔鬼藏在SPV里？",
-          "url": "https://www.cls.cn/detail/2190328",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
-        },
-        {
-          "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
-          "url": "https://wallstreetcn.com/articles/3758569",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
-        },
-        {
-          "title": "AI“黄金浪潮”开启！华尔街集体唱多英伟达：8.5万亿美元市值可期",
-          "url": "https://www.cls.cn/detail/2190148",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
           "url": "https://wallstreetcn.com/articles/3758630",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "AI万亿赌局：表外“幽灵债务”正在堆积，魔鬼藏在SPV里？",
+          "url": "https://www.cls.cn/detail/2190328",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "首创沪语交互AI应用 上海银行携手财跃星辰、阶跃星辰共创智慧养老金融服务新范式",
           "url": "https://www.cls.cn/detail/2190367",
           "source": "财联社热门",
           "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时15分"
+        },
+        {
+          "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
+          "url": "https://wallstreetcn.com/articles/3758569",
+          "source": "华尔街见闻",
+          "ranks": [
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
           "url": "https://m.thepaper.cn/newsDetail_forward_31882342",
           "source": "澎湃新闻",
           "ranks": [
-            15,
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "AI还原福建舰电磁弹射全过程",
@@ -104,8 +81,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
+          "appearance_count": 1,
+          "time_info": "18时15分"
         },
         {
           "title": "马斯克：体力劳动更难被AI取代",
@@ -115,8 +92,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     },
@@ -129,11 +106,11 @@
           "url": "https://wallstreetcn.com/articles/3758580",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时15分 ~ 17时16分]"
+          "appearance_count": 1,
+          "time_info": "18时15分"
         }
       ]
     }
