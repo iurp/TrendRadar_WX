@@ -1,23 +1,12 @@
 {
-  "generated_at": "2025-11-04T15:12:34.473159+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-04T16:17:35.535590+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
-        {
-          "title": "大摩：2026将是AI科技硬件之年",
-          "url": "https://wallstreetcn.com/articles/3758553",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
           "url": "https://www.cls.cn/detail/2190089",
@@ -27,7 +16,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时17分"
+        },
+        {
+          "title": "大摩：2026将是AI科技硬件之年",
+          "url": "https://wallstreetcn.com/articles/3758553",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "国家卫健委发文支持AI+医疗 基层应用被重点提及 智能理疗产品或加速进入临床",
@@ -38,40 +38,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "AI万亿赌局：表外“幽灵债务”正在堆积，魔鬼藏在SPV里？",
-          "url": "https://www.cls.cn/detail/2190328",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时17分"
         },
         {
           "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
           "url": "https://wallstreetcn.com/articles/3758569",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时17分"
+        },
+        {
+          "title": "AI万亿赌局：表外“幽灵债务”正在堆积，魔鬼藏在SPV里？",
+          "url": "https://www.cls.cn/detail/2190328",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
+        },
+        {
+          "title": "Palantir电话会：AI带来“非凡增长”、“40法则”罕见破百，CEO炮轰华尔街“我们交出软件公司史上最佳业绩，而你们一直看错”！",
+          "url": "https://wallstreetcn.com/articles/3758602",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "AI“黄金浪潮”开启！华尔街集体唱多英伟达：8.5万亿美元市值可期",
           "url": "https://www.cls.cn/detail/2190148",
           "source": "财联社热门",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时17分"
         },
         {
           "title": "AI还原福建舰电磁弹射全过程",
@@ -82,68 +93,57 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "如何看待王垠对 Cursor 等 AI 编程的评价「不懂计算机科学的人用好 AI 编程是妄想」？",
-          "url": "https://www.zhihu.com/question/1923534024288236685",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时17分"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
           "url": "https://m.thepaper.cn/newsDetail_forward_31882342",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时17分"
+        },
+        {
+          "title": "如何看待王垠对 Cursor 等 AI 编程的评价「不懂计算机科学的人用好 AI 编程是妄想」？",
+          "url": "https://www.zhihu.com/question/1923534024288236685",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时17分"
         },
         {
           "title": "马斯克：体力劳动更难被AI取代",
           "url": "https://www.baidu.com/s?wd=%E9%A9%AC%E6%96%AF%E5%85%8B%EF%BC%9A%E4%BD%93%E5%8A%9B%E5%8A%B3%E5%8A%A8%E6%9B%B4%E9%9A%BE%E8%A2%ABAI%E5%8F%96%E4%BB%A3",
           "source": "百度热搜",
           "ranks": [
-            25
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时17分"
         }
       ]
     },
     {
       "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
           "url": "https://wallstreetcn.com/articles/3758580",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
-          "url": "https://www.cls.cn/detail/2190043",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时17分"
         }
       ]
     }
