@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-04T10:27:34.895025+08:00",
-  "total_titles_processed": 297,
+  "generated_at": "2025-11-04T11:39:19.924186+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -16,29 +16,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "11时39分"
         },
         {
           "title": "美股收盘：AI巨头唱独角戏 亚马逊、英伟达市值各增千亿美元",
           "url": "https://www.cls.cn/detail/2190089",
           "source": "财联社热门",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "11时39分"
         },
         {
-          "title": "AI还原福建舰电磁弹射全过程",
-          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A6%8F%E5%BB%BA%E8%88%B0%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E5%85%A8%E8%BF%87%E7%A8%8B",
-          "source": "bilibili 热搜",
+          "title": "AI“黄金浪潮”开启！华尔街集体唱多英伟达：8.5万亿美元市值可期",
+          "url": "https://www.cls.cn/detail/2190148",
+          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "11时39分"
         },
         {
           "title": "从“芯”到“电”，美银：中国AI基础设施非IT投资规模将达8000亿元",
@@ -49,18 +49,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "11时39分"
         },
         {
-          "title": "AI“黄金浪潮”开启！华尔街集体唱多英伟达：8.5万亿美元市值可期",
-          "url": "https://www.cls.cn/detail/2190148",
-          "source": "财联社热门",
+          "title": "AI还原福建舰电磁弹射全过程",
+          "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A6%8F%E5%BB%BA%E8%88%B0%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E5%85%A8%E8%BF%87%E7%A8%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            11
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "11时39分"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -71,7 +71,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "11时39分"
         }
       ]
     },
@@ -88,18 +88,35 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "11时39分"
         },
         {
           "title": "亚马逊领千亿大单入伙 一文盘点OpenAI签了多少“愿景支票”",
           "url": "https://www.cls.cn/detail/2190043",
           "source": "财联社热门",
           "ranks": [
-            12
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "11时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "AI投资大赛落下帷幕，阿里千问Qwen夺冠，DeepSeek亚军",
+          "url": "https://wallstreetcn.com/livenews/2998954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时39分"
         }
       ]
     },
@@ -112,11 +129,11 @@
           "url": "https://www.baidu.com/s?wd=%E8%99%9A%E6%8B%9F%E4%B8%BB%E6%92%AD%E4%B8%8A%E5%A4%AE%E8%A7%86%E4%B9%9F%E5%BE%97%E7%B4%A0%E9%A2%9C",
           "source": "百度热搜",
           "ranks": [
-            10
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "11时39分"
         }
       ]
     }
