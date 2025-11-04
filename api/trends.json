@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-04T23:13:26.817839+08:00",
+  "generated_at": "2025-11-05T00:16:21.745516+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
@@ -16,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时16分"
         },
         {
           "title": "原神AI重制短片",
@@ -27,29 +27,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时16分"
         },
         {
           "title": "AI泡沫忧虑升温 美股期指集体走低 Palantir盘前重挫8% | 今夜看点",
           "url": "https://www.cls.cn/detail/2191076",
           "source": "财联社热门",
           "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
+        },
+        {
+          "title": "Palantir电话会：AI带来“非凡增长”、“40法则”罕见破百，CEO炮轰华尔街“我们交出软件公司史上最佳业绩，而你们一直看错”！",
+          "url": "https://wallstreetcn.com/articles/3758602",
+          "source": "华尔街见闻",
+          "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时16分"
+        },
+        {
+          "title": "韩国总统警告“国家生存危机”，要求将AI支出规模增至3倍",
+          "url": "https://www.cls.cn/detail/2190917",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时16分"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
           "source": "贴吧",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时16分"
         },
         {
           "title": "AI养老的真正任务：让老人不必退场",
@@ -60,46 +82,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "韩国总统警告“国家生存危机”，要求将AI支出规模增至3倍",
-          "url": "https://www.cls.cn/detail/2190917",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时16分"
         },
         {
           "title": "AI还原福建舰电磁弹射全过程",
           "url": "https://search.bilibili.com/all?keyword=AI%E8%BF%98%E5%8E%9F%E7%A6%8F%E5%BB%BA%E8%88%B0%E7%94%B5%E7%A3%81%E5%BC%B9%E5%B0%84%E5%85%A8%E8%BF%87%E7%A8%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "亚马逊与OpenAI签署380亿美元算力大单！AWS将供应英伟达芯片",
-          "url": "https://wallstreetcn.com/articles/3758580",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时16分"
         }
       ]
     }
