@@ -1,11 +1,94 @@
 {
-  "generated_at": "2025-11-06T04:13:13.357376+08:00",
+  "generated_at": "2025-11-06T05:12:40.233750+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美国众议院司法委员会主席Jim Jordan传唤OpenAI的CEO Sam Altman，要求其提供关于外国政策的信息。",
+          "url": "https://wallstreetcn.com/livenews/3000096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。 OpenAI尚未为上市做准备。 凭借“非常健康”的毛利率，OpenAI有望实现盈亏平衡。 OpenAI希望美国联邦政府为数据中心投资提供支持。",
+          "url": "https://wallstreetcn.com/livenews/3000080",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "OpenAI CFO：市场过于关注AI领域可能出现的泡沫",
+          "url": "https://flash.jin10.com/detail/20251106042109787800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "OpenAI尚未为上市做准备",
+          "url": "https://flash.jin10.com/detail/20251106040810943800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "OpenAI首席财务官：市场应当对人工智能的潜力拥有更多的信心。",
+          "url": "https://flash.jin10.com/detail/20251106035846813800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "OpenAI 近期已累计签署约 1.5 万亿美元合同，深度绑定的「朋友圈」对全球 AI 发展有哪些影响？",
+          "url": "https://www.zhihu.com/question/1969338787738906634",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "据The Information：OpenAI的数据中心合作伙伴Crusoe正接近完成一笔约1.2亿美元的员工股票出售，估值约为130亿美元。",
+          "url": "https://flash.jin10.com/detail/20251106033256495800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -15,19 +98,30 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 04时13分]"
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "摩根大通CEO戴蒙：随着时间的推移，一些工作岗位将因人工智能而被淘汰。我们可以通过人工智能节省20多亿美元的成本。",
+          "url": "https://flash.jin10.com/detail/20251106043443479800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D7%26filter_type%3Drealtimehot%26c_type%3D31%26lcate%3D5001%26pos%3D8%26cate%3D5001%26flag%3D0%26q%3D%2523%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E8%25A2%25ABAI%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E6%258B%2589%25E9%25BB%2591%2523%26stream_entry_id%3D31%26dgr%3D0%26band_rank%3D7%26display_time%3D1762373273%26pre_seqid%3D176237327363503416737118&launchid=10000360-page_H5",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26pos%3D6%26c_type%3D31%26dgr%3D0%26cate%3D5001%26realpos%3D7%26stream_entry_id%3D31%26flag%3D0%26q%3D%2523%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E8%25A2%25ABAI%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E6%258B%2589%25E9%25BB%2591%2523%26lcate%3D5001%26band_rank%3D7%26display_time%3D1762376001%26pre_seqid%3D17623760016520340889007&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 04时13分]"
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -37,8 +131,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 04时13分]"
+          "appearance_count": 1,
+          "time_info": "05时12分"
+        },
+        {
+          "title": "世界经济论坛主席警告：AI、加密货币和债务恐成三大泡沫",
+          "url": "https://flash.jin10.com/detail/20251106035252056800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时12分"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -48,47 +153,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 04时13分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI首席财务官Sarah Friar：市场应当对人工智能（AI）的潜力拥有更多的“信心”。",
-          "url": "https://wallstreetcn.com/livenews/3000080",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "据The Information：OpenAI的数据中心合作伙伴Crusoe正接近完成一笔约1.2亿美元的员工股票出售，估值约为130亿美元。",
-          "url": "https://flash.jin10.com/detail/20251106033256495800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时13分"
-        },
-        {
-          "title": "OpenAI 近期已累计签署约 1.5 万亿美元合同，深度绑定的「朋友圈」对全球 AI 发展有哪些影响？",
-          "url": "https://www.zhihu.com/question/1969338787738906634",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 04时13分]"
+          "time_info": "05时12分"
         }
       ]
     },
@@ -101,22 +167,22 @@
           "url": "https://wallstreetcn.com/livenews/3000071",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            7
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时12分"
         },
         {
           "title": "苹果(AAPL.O)正在敲定一项协议，将每年向谷歌支付约10亿美元。苹果将采用谷歌参数规模达1.2万亿的Gemini AI模型来为将于2026年推出的Siri新功能提供支持。",
           "url": "https://flash.jin10.com/detail/20251106031453898800",
           "source": "金十数据",
           "ranks": [
-            10
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时13分"
+          "time_info": "05时12分"
         }
       ]
     }
