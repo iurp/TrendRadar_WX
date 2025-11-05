@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-06T01:12:16.479435+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-06T02:18:06.397122+08:00",
+  "total_titles_processed": 325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -16,18 +16,18 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
+          "time_info": "[02时17分 ~ 02时18分]"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26band_rank%3D4%26lcate%3D5001%26realpos%3D4%26q%3D%2523%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E8%25A2%25ABAI%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E6%258B%2589%25E9%25BB%2591%2523%26dgr%3D0%26stream_entry_id%3D31%26c_type%3D31%26pos%3D3%26flag%3D0%26cate%3D5001%26display_time%3D1762362392%26pre_seqid%3D176236239215203414708133&launchid=10000360-page_H5",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26realpos%3D4%26filter_type%3Drealtimehot%26c_type%3D31%26pos%3D4%26cate%3D5001%26stream_entry_id%3D31%26q%3D%2523%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E8%25A2%25ABAI%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E6%258B%2589%25E9%25BB%2591%2523%26dgr%3D0%26lcate%3D5001%26flag%3D0%26band_rank%3D4%26display_time%3D1762365288%26pre_seqid%3D176236528839104074469&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
+          "time_info": "[02时17分 ~ 02时18分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -38,7 +38,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
+          "time_info": "[02时17分 ~ 02时18分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -49,35 +49,90 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时11分 ~ 01时12分]"
+          "time_info": "[02时17分 ~ 02时18分]"
+        },
+        {
+          "title": "美银CEO：不认为我们整体的岗位数量会因人工智能而减少，但可以看到人工智能将改变工作量的完成方式。",
+          "url": "https://flash.jin10.com/detail/20251106020220838800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         },
         {
           "title": "Mosaic：玉米和大豆价格的复苏应当有助于化肥的应用。",
           "url": "https://wallstreetcn.com/livenews/3000019",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时18分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
         {
-          "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
+          "title": "谷歌：在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮",
           "url": "https://wallstreetcn.com/livenews/3000038",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时12分"
+          "time_info": "02时18分"
+        },
+        {
+          "title": "谷歌：Chrome浏览器中的AI模式快捷方式即将扩展至160个新的国家和地区，并支持包括印地语、印尼语、日语、韩语、葡萄牙语等更多语言。",
+          "url": "https://flash.jin10.com/detail/20251106010654630800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "谷歌：该功能将于未来几天开始向移动用户推出。",
+          "url": "https://flash.jin10.com/detail/20251106010606824800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "谷歌：即日起在美国推出以下功能——在Chrome浏览器中打开“新建标签页”时，搜索栏下方将新增一个AI模式按钮。",
+          "url": "https://flash.jin10.com/detail/20251106010550622800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
+        },
+        {
+          "title": "谷歌：Gemini深度搜索现已可连接Gmail、文档、云端硬盘甚至聊天。",
+          "url": "https://flash.jin10.com/detail/20251106010421100800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "02时18分"
         }
       ]
     }
