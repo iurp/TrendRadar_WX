@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-05T15:12:31.560749+08:00",
+  "generated_at": "2025-11-05T16:16:22.275405+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -8,81 +8,81 @@
       "match_count": 7,
       "titles": [
         {
-          "title": "看空AI泡沫！“大空头”用钱说话：80%仓位做空Palantir和英伟达",
-          "url": "https://wallstreetcn.com/articles/3758630",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
           "title": "突发！美股AI泡沫恐慌情绪蔓延 日韩股市崩盘",
           "url": "https://www.cls.cn/detail/2191349",
           "source": "财联社热门",
           "ranks": [
-            6
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时16分"
         },
         {
-          "title": "亚马逊对Perplexity下“逐客令”：带着你的AI代理滚出我的地盘",
-          "url": "https://www.cls.cn/detail/2191195",
+          "title": "满屏都“带电”！AI用电荒催化电力设备板块 “新瓦特时代”谁将受益？",
+          "url": "https://www.cls.cn/detail/2191698",
           "source": "财联社热门",
           "ranks": [
-            9
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时16分"
         },
         {
-          "title": "高瓴：中国或将率先在AI应用领域取得更多成果。",
-          "url": "https://wallstreetcn.com/livenews/2999699",
+          "title": "日本最高外汇事务官员三村淳：如果人工智能泡沫破裂，可能会看见更多不良贷款。 财务省关注的是日元汇率的波动是否过大，而不是日元汇率的水平。 如果波动无法用任何基本面因素解释，那么财务省就会称之为波动过度。",
+          "url": "https://wallstreetcn.com/livenews/2999722",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "美ICU宰客19万,AI揭底秒修复",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
-          "source": "贴吧",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "北京：支持医疗卫生机构联合大模型企业挂牌AI实体医院",
-          "url": "https://wallstreetcn.com/livenews/2999668",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时16分"
         },
         {
           "title": "原神AI重制短片",
           "url": "https://search.bilibili.com/all?keyword=%E5%8E%9F%E7%A5%9EAI%E9%87%8D%E5%88%B6%E7%9F%AD%E7%89%87",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时16分"
+        },
+        {
+          "title": "鸿海：全球政治经济形势及汇率波动的影响需持续密切关注。随着第四季度人工智能服务器出货量持续增长，以及信息通信技术产品即将进入2025年下半年的传统旺季，预计运营表现将保持环比季度增长。",
+          "url": "https://flash.jin10.com/detail/20251105155455028800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "美ICU宰客19万,AI揭底秒修复",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346733&amp;topic_name=%E7%BE%8EICU%E5%AE%B0%E5%AE%A219%E4%B8%87%2CAI%E6%8F%AD%E5%BA%95%E7%A7%92%E4%BF%AE%E5%A4%8D",
+          "source": "贴吧",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
+        {
+          "title": "日本最高外汇事务官员三村淳：近期日元走势偏离基本面。 日元多头头寸在夏季后一直在减少。 投机、地缘政治、贸易都在影响市场。 货币政策掌握在日本央行手中。 美国财长贝森特同意货币政策掌握在日本央行手中。 美日贸易协议是我们所能期望的最好结果。 贸易协定中的投资协议将使日本企业受益。 15%的关税是日本企业能够承受的限度。 股票上涨可能反映出对人工智能相关的预期。 日本企业的投资将保持强劲。",
+          "url": "https://wallstreetcn.com/livenews/2999710",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         }
       ]
     },
@@ -95,28 +95,11 @@
           "url": "https://www.cls.cn/detail/2191270",
           "source": "财联社热门",
           "ranks": [
-            11
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "软银与OpenAI于11月5日成立合资公司。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/2999672",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时16分"
         }
       ]
     }
