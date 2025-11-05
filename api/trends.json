@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-05T22:12:16.838491+08:00",
+  "generated_at": "2025-11-05T23:13:12.905125+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -12,11 +12,11 @@
           "url": "https://www.cls.cn/detail/2191698",
           "source": "财联社热门",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时12分"
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时12分"
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "【焦点复盘】创业板指绝地反击涨超1%，海外AI缺电潮引爆储能赛道，泛消费概念表现亮眼",
@@ -37,8 +37,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时12分"
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -48,19 +48,19 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时12分"
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
         },
         {
           "title": "温峥嵘 AI盗播",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%B8%A9%E5%B3%A5%E5%B5%98+AI%E7%9B%97%E6%92%AD&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%2520AI%25E7%259B%2597%25E6%2592%25AD%26filter_type%3Drealtimehot%26band_rank%3D27%26cate%3D5001%26c_type%3D31%26pos%3D27%26realpos%3D27%26flag%3D1%26lcate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1762351428%26pre_seqid%3D176235142814409959006&launchid=10000360-page_H5",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E6%B8%A9%E5%B3%A5%E5%B5%98+AI%E7%9B%97%E6%92%AD&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26realpos%3D27%26lcate%3D5001%26cate%3D5001%26band_rank%3D27%26q%3D%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%2520AI%25E7%259B%2597%25E6%2592%25AD%26dgr%3D0%26stream_entry_id%3D31%26flag%3D1%26c_type%3D31%26pos%3D26%26display_time%3D1762355066%26pre_seqid%3D176235506688803386109125&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
             27
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "22时12分"
+          "appearance_count": 2,
+          "time_info": "[23时12分 ~ 23时13分]"
         }
       ]
     }
