@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-06T23:13:30.349298+08:00",
+  "generated_at": "2025-11-07T00:14:53.869978+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -7,6 +7,17 @@
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
       "match_count": 3,
       "titles": [
+        {
+          "title": "英国央行行长贝利：我现在认为通胀风险更加平衡。要提振市场信心，必须让私人市场更加透明。人工智能可能是下一个提升生产力的关键因素，也可能是一个泡沫。",
+          "url": "https://flash.jin10.com/detail/20251107000255306800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时14分"
+        },
         {
           "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
           "url": "https://wallstreetcn.com/articles/3758820",
@@ -16,7 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时14分"
         },
         {
           "title": "华为Mate 70 Air评测",
@@ -27,35 +38,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "微软AI组建SuperIntelligence团队，将由Suleyman领导。",
-          "url": "https://wallstreetcn.com/livenews/3000612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌正在推出其最强大的AI芯片Ironwood，未来几周将全面上市。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3000596",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "00时14分"
         }
       ]
     }
