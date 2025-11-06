@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-06T15:12:31.810065+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-06T16:16:51.459827+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
+          "url": "https://www.cls.cn/detail/2192687",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时16分"
+        },
         {
           "title": "华为Mate 70 Air评测",
           "url": "https://www.douyin.com/hot/2296483",
@@ -16,51 +27,62 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时16分"
         },
         {
           "title": "华为Mate 70 Air开启预售",
           "url": "https://www.toutiao.com/trending/7569394262991929363/",
           "source": "今日头条",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时16分"
         },
         {
-          "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
-          "url": "https://www.cls.cn/detail/2192687",
-          "source": "财联社热门",
+          "title": "AI算力大战打到太空",
+          "url": "https://search.bilibili.com/all?keyword=AI%E7%AE%97%E5%8A%9B%E5%A4%A7%E6%88%98%E6%89%93%E5%88%B0%E5%A4%AA%E7%A9%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时16分"
         },
         {
-          "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
-          "url": "https://www.cls.cn/detail/2192480",
-          "source": "财联社热门",
+          "title": "新闻女王2AI取代真人",
+          "url": "https://www.douyin.com/hot/2296420",
+          "source": "抖音",
           "ranks": [
-            10
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时16分"
         },
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
           "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
           "source": "百度热搜",
           "ranks": [
-            25
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时16分"
+        },
+        {
+          "title": "黄仁勋直白表态：中国AI将击败美国",
+          "url": "https://www.baidu.com/s?wd=%E9%BB%84%E4%BB%81%E5%8B%8B%E7%9B%B4%E7%99%BD%E8%A1%A8%E6%80%81%EF%BC%9A%E4%B8%AD%E5%9B%BDAI%E5%B0%86%E5%87%BB%E8%B4%A5%E7%BE%8E%E5%9B%BD",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时16分"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -71,46 +93,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "报道：谷歌下周将宣布其在德国有史以来最大投资计划",
-          "url": "https://wallstreetcn.com/livenews/3000351",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "德媒：谷歌计划下周公布历史最大德国投资计划 将建设基础设施和数据中心",
-          "url": "https://flash.jin10.com/detail/20251106140725860800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
-        },
-        {
-          "title": "据德国《商报》：谷歌正准备宣布在德国的有史以来最大的投资计划。",
-          "url": "https://flash.jin10.com/detail/20251106140533490800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时12分"
+          "time_info": "16时16分"
         }
       ]
     }
