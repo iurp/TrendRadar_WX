@@ -1,44 +1,44 @@
 {
-  "generated_at": "2025-11-06T08:51:29.802539+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-06T10:29:07.927519+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "温峥嵘被AI温峥嵘拉黑",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26dgr%3D0%26filter_type%3Drealtimehot%26band_rank%3D4%26c_type%3D31%26cate%3D5001%26lcate%3D5001%26realpos%3D4%26flag%3D0%26stream_entry_id%3D31%26q%3D%2523%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E8%25A2%25ABAI%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E6%258B%2589%25E9%25BB%2591%2523%26pos%3D3%26display_time%3D1762390234%26pre_seqid%3D176239023469309980979&launchid=10000360-page_H5",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26q%3D%2523%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E8%25A2%25ABAI%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E6%258B%2589%25E9%25BB%2591%2523%26filter_type%3Drealtimehot%26band_rank%3D5%26cate%3D5001%26c_type%3D31%26pos%3D4%26realpos%3D5%26flag%3D0%26lcate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26display_time%3D1762396079%26pre_seqid%3D176239607970709959009&launchid=10000360-page_H5",
           "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "一图看懂 | AI产业链，哪些环节是“耗电大户”？",
-          "url": "https://www.cls.cn/detail/2192067",
-          "source": "财联社热门",
           "ranks": [
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 10时29分]"
+        },
+        {
+          "title": "日本执政党：希望每年投入1万亿日元用于芯片和人工智能",
+          "url": "https://flash.jin10.com/detail/20251106102034608800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "10时29分"
         },
         {
           "title": "光伏龙头披上AI电力概念后暴涨 辉瑞提高减肥药收购报价 | 环球市场",
           "url": "https://www.cls.cn/detail/2192480",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 10时29分]"
         },
         {
           "title": "美ICU宰客19万,AI揭底秒修复",
@@ -48,8 +48,30 @@
             27
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时28分 ~ 10时29分]"
+        },
+        {
+          "title": "华为Mate 70 Air开启预售",
+          "url": "https://wallstreetcn.com/livenews/3000234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "10时29分"
+        },
+        {
+          "title": "日本自民党议员関芳弘：力争每年获得1万亿日元预算，用于芯片和人工智能领域。",
+          "url": "https://wallstreetcn.com/livenews/3000232",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时29分"
         }
       ]
     }
