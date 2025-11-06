@@ -1,127 +1,66 @@
 {
-  "generated_at": "2025-11-06T19:12:00.984834+08:00",
-  "total_titles_processed": 304,
+  "generated_at": "2025-11-06T20:23:26.636414+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 9,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "迄今“最直白表态”！黄仁勋：中国将赢得AI竞赛",
-          "url": "https://www.cls.cn/detail/2192687",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
-        },
         {
           "title": "华为Mate 70 Air评测",
           "url": "https://www.douyin.com/hot/2296483",
           "source": "抖音",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
-          "title": "欧莱雅中国与阿里云达成全栈AI战略合作",
-          "url": "https://wallstreetcn.com/livenews/3000520",
-          "source": "华尔街见闻-快讯",
+          "title": "英伟达(NVDA.O)投资的Vast Data公司与CoreWeave签署11.7亿美元人工智能合作协议。",
+          "url": "https://flash.jin10.com/detail/20251106201237676800",
+          "source": "金十数据",
           "ranks": [
-            1
+            3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时12分"
+          "time_info": "20时23分"
         },
         {
           "title": "央视曝光AI假冒艺人直播",
           "url": "https://www.baidu.com/s?wd=%E5%A4%AE%E8%A7%86%E6%9B%9D%E5%85%89AI%E5%81%87%E5%86%92%E8%89%BA%E4%BA%BA%E7%9B%B4%E6%92%AD",
           "source": "百度热搜",
           "ranks": [
-            16
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
-          "title": "温峥嵘被AI温峥嵘拉黑",
-          "url": "https://www.baidu.com/s?wd=%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E6%B8%A9%E5%B3%A5%E5%B5%98%E6%8B%89%E9%BB%91",
+          "title": "打假AI温峥嵘不能只靠演员温峥嵘",
+          "url": "https://www.baidu.com/s?wd=%E6%89%93%E5%81%87AI%E6%B8%A9%E5%B3%A5%E5%B5%98%E4%B8%8D%E8%83%BD%E5%8F%AA%E9%9D%A0%E6%BC%94%E5%91%98%E6%B8%A9%E5%B3%A5%E5%B5%98",
           "source": "百度热搜",
           "ranks": [
-            19
+            25
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
+          "appearance_count": 1,
+          "time_info": "20时23分"
         },
         {
-          "title": "佘诗曼新闻女王2把AI干冒烟了",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%E4%BD%98%E8%AF%97%E6%9B%BC%E6%96%B0%E9%97%BB%E5%A5%B3%E7%8E%8B2%E6%8A%8AAI%E5%B9%B2%E5%86%92%E7%83%9F%E4%BA%86&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26lcate%3D5001%26c_type%3D31%26cate%3D5001%26dgr%3D0%26stream_entry_id%3D31%26band_rank%3D27%26flag%3D1%26realpos%3D27%26q%3D%25E4%25BD%2598%25E8%25AF%2597%25E6%259B%25BC%25E6%2596%25B0%25E9%2597%25BB%25E5%25A5%25B3%25E7%258E%258B2%25E6%258A%258AAI%25E5%25B9%25B2%25E5%2586%2592%25E7%2583%259F%25E4%25BA%2586%26pos%3D27%26display_time%3D1762426237%26pre_seqid%3D1762426236993012922043&launchid=10000360-page_H5",
-          "source": "微博",
+          "title": "欧莱雅中国与阿里云达成全栈AI战略合作",
+          "url": "https://wallstreetcn.com/livenews/3000520",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
-        },
-        {
-          "title": "美团：餐饮堂食合作门店已全量接入AI经营助手“智能掌柜”",
-          "url": "https://wallstreetcn.com/livenews/3000509",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "印度财政部长：将对人工智能监管采取审慎包容的治理方针。",
-          "url": "https://flash.jin10.com/detail/20251106175959823800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        },
-        {
-          "title": "美国企业10月裁员规模创20多年来同期最高 人工智能变革冲击就业市场",
-          "url": "https://wallstreetcn.com/livenews/3000470",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "市场消息：谷歌(GOOG.O)同意从巴西植树造林初创企业Mombak购买20万吨碳排放额度。",
-          "url": "https://flash.jin10.com/detail/20251106180054572800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时12分"
+          "time_info": "20时23分"
         }
       ]
     }
