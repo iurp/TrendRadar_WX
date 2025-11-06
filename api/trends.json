@@ -1,11 +1,61 @@
 {
-  "generated_at": "2025-11-07T03:10:05.984322+08:00",
+  "generated_at": "2025-11-07T04:13:00.327245+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI创始人奥尔特曼：我们既没有也不想要政府为OpenAI数据中心提供担保。",
+          "url": "https://flash.jin10.com/detail/20251107032640209800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：OpenAI的数据中心并无政府担保。曾讨论过提供贷款担保以支持半导体制造厂建设。",
+          "url": "https://flash.jin10.com/detail/20251107032614746800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：预计今年的年化收入将达到200亿美元以上，到2030年预计将增长至数千亿美元。",
+          "url": "https://flash.jin10.com/detail/20251107032458905800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
+        {
+          "title": "OpenAI的CEO Sam Altman：在OpenAI数据中心问题上，并没有获得美国政府的（资金）担保。 讨论过通过（寻求）贷款担保来支持美国半导体晶圆（的可行性）。",
+          "url": "https://wallstreetcn.com/livenews/3000723",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 6,
+      "match_count": 3,
       "titles": [
         {
           "title": "11 月 6 日华为 Mate70 Air 开启预售， 4199 元起，有哪些亮点值得关注，你会买吗？",
@@ -16,7 +66,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
+          "time_info": "[04时12分 ~ 04时13分]"
         },
         {
           "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
@@ -27,7 +77,7 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
+          "time_info": "[04时12分 ~ 04时13分]"
         },
         {
           "title": "华为Mate 70 Air评测",
@@ -38,57 +88,35 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时09分 ~ 03时10分]"
-        },
-        {
-          "title": "白宫人工智能事务负责人萨克斯：美国至少有5家主要的人工智能前沿模型公司。如果有一家失败了，其他公司会取而代之。",
-          "url": "https://flash.jin10.com/detail/20251107013905662800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "美联储哈玛克：人工智能是一种结构性经济变革，不太适合通过货币政策来应对。",
-          "url": "https://flash.jin10.com/detail/20251107013445448800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
-        },
-        {
-          "title": "美联储哈玛克：人工智能的繁荣可能类似于当年互联网基础设施建设时期的情形。",
-          "url": "https://flash.jin10.com/detail/20251107013439983800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "[04时12分 ~ 04时13分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "Google LLC.（谷歌公司）请求美国加州北区法院法官判定，其电池节能功能并没有违反Headwater Research LLC.的专利。 该公司申诉称，Battery Savers和Doze Mode等功能并没有侵犯美国专利法 Nos. 8,589,541和9,215,613。",
+          "url": "https://wallstreetcn.com/livenews/3000717",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时13分"
+        },
         {
           "title": "Meta、谷歌母公司Alphabet、Snap等避免美国审查年轻人对社交媒体成瘾的尝试失败。",
           "url": "https://wallstreetcn.com/livenews/3000693",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            28
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时10分"
+          "time_info": "04时13分"
         }
       ]
     }
