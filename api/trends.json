@@ -1,25 +1,8 @@
 {
-  "generated_at": "2025-11-07T23:12:19.591107+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-08T00:16:25.758394+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股明星科技股普跌，特斯拉(TSLA.O)、AMD(AMD.O)跌约3.5%，甲骨文(ORCL.N)、英伟达(NVDA.O)跌约2%，谷歌(GOOG.O)跌超1%。",
-          "url": "https://flash.jin10.com/detail/20251107223609043800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "23时12分"
-        }
-      ]
-    },
     {
       "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
       "match_count": 1,
@@ -33,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "00时16分"
         }
       ]
     },
@@ -50,7 +33,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时12分"
+          "time_info": "00时16分"
         }
       ]
     }
