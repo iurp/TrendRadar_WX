@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-07T08:51:58.370041+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2025-11-07T10:26:36.379669+08:00",
+  "total_titles_processed": 302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "AI革命加速裁员潮！美国10月挑战者企业裁员人数同比暴增175.3%，创二十年同期最高纪录",
@@ -16,7 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "10时26分"
         },
         {
           "title": "11 月 6 日华为 Mate70 Air 开启预售， 4199 元起，有哪些亮点值得关注，你会买吗？",
@@ -27,7 +27,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "10时26分"
+        },
+        {
+          "title": "创业板指跌超1%，沪指跌0.19%，深成指跌0.73%，CPO、AI芯片、量子科技、PCB等方向跌幅居前，沪深京三市下跌个股超3100只。",
+          "url": "https://wallstreetcn.com/livenews/3000863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "不止AI有“闭环”，美股也“闭环”了：企业裁员推高股价，股市走高刺激消费，消费强劲支撑业绩",
@@ -38,7 +49,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "10时26分"
         },
         {
           "title": "华为Mate 70 Air评测",
@@ -49,35 +60,35 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "10时26分"
+        },
+        {
+          "title": "韩国人工智能初创企业Upstage筹备首次公开募股事宜。",
+          "url": "https://flash.jin10.com/detail/20251107093435383800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "抖音回应温峥嵘被AI盗播",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E7%9B%97%E6%92%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26flag%3D2%26q%3D%2523%25E6%258A%2596%25E9%259F%25B3%25E5%259B%259E%25E5%25BA%2594%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E8%25A2%25ABAI%25E7%259B%2597%25E6%2592%25AD%2523%26pos%3D16%26stream_entry_id%3D31%26lcate%3D5001%26cate%3D5001%26dgr%3D0%26realpos%3D15%26c_type%3D31%26band_rank%3D15%26display_time%3D1762476562%26pre_seqid%3D176247656280603420214149&launchid=10000360-page_H5",
+          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3D%23%E6%8A%96%E9%9F%B3%E5%9B%9E%E5%BA%94%E6%B8%A9%E5%B3%A5%E5%B5%98%E8%A2%ABAI%E7%9B%97%E6%92%AD%23&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26cate%3D5001%26stream_entry_id%3D31%26band_rank%3D19%26flag%3D0%26lcate%3D5001%26c_type%3D31%26q%3D%2523%25E6%258A%2596%25E9%259F%25B3%25E5%259B%259E%25E5%25BA%2594%25E6%25B8%25A9%25E5%25B3%25A5%25E5%25B5%2598%25E8%25A2%25ABAI%25E7%259B%2597%25E6%2592%25AD%2523%26pos%3D19%26filter_type%3Drealtimehot%26realpos%3D19%26dgr%3D0%26display_time%3D1762482323%26pre_seqid%3D1762482323181043332145&launchid=10000360-page_H5",
           "source": "微博",
           "ranks": [
-            15
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
-        },
-        {
-          "title": "AI伪造巴菲特发言 伯克希尔发布澄清",
-          "url": "https://flash.jin10.com/detail/20251107073927545800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "10时26分"
         }
       ]
     },
     {
       "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：OpenAI高管言论引发风暴 纳指跌近2%",
@@ -88,7 +99,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "10时26分"
+        },
+        {
+          "title": "OpenAI“大而不能倒”？，Altman“不寻求财政支持”，“AI沙皇”：AI公司倒了就倒了，美国政府不会救",
+          "url": "https://wallstreetcn.com/articles/3758853",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "AI投资须政府兜底? OpenAI奥尔特曼紧急“灭火”：2030年营收达数千亿美元",
+          "url": "https://www.cls.cn/detail/2193718",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         },
         {
           "title": "OpenAI高管言论引风暴 纳指跌近2%",
@@ -99,24 +132,35 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "10时26分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "如何评价 gemini-3-pro-preview-11-2025？",
+          "url": "https://www.zhihu.com/question/1969709439335530787",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
         {
           "title": "直指英伟达！报道称谷歌将推出最强AI芯片TPU Ironwood，性能提升四倍，获Anthropic大单",
           "url": "https://wallstreetcn.com/articles/3758839",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "08时51分"
+          "time_info": "10时26分"
         }
       ]
     }
