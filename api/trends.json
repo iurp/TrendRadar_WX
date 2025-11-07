@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-08T05:12:48.525747+08:00",
+  "generated_at": "2025-11-08T06:12:00.889279+08:00",
   "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
@@ -15,8 +15,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时11分 ~ 06时12分]"
+        },
+        {
+          "title": "Salesforce签署排他性协议，将收购Spindle AI。",
+          "url": "https://wallstreetcn.com/livenews/3001411",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时12分"
         },
         {
           "title": "美国共和党参议员Daines对参议院民主党提出的关于平价医疗法补贴的提议予以拒绝。",
@@ -25,9 +36,26 @@
           "ranks": [
             9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时12分"
+          "time_info": "06时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI呼吁特朗普政府改革《芯片法案》税收抵免，以支持AI基础设施建设",
+          "url": "https://wallstreetcn.com/livenews/3001405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时12分"
         }
       ]
     }
