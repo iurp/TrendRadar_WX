@@ -1,33 +1,22 @@
 {
-  "generated_at": "2025-11-07T18:13:25.067155+08:00",
-  "total_titles_processed": 305,
+  "generated_at": "2025-11-07T19:11:41.037580+08:00",
+  "total_titles_processed": 302,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 7,
+      "match_count": 6,
       "titles": [
         {
-          "title": "福建：遴选人工智能优质企业 给予每个企业一次性最高300万元奖励",
-          "url": "https://wallstreetcn.com/livenews/3001166",
+          "title": "方正科技：子公司拟投资13.64亿元建设重庆生产基地人工智能扩建项目",
+          "url": "https://wallstreetcn.com/livenews/3001190",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "甲骨文万亿市值幻梦一场：AI狂欢的背后，风险已成“房间里的大象”",
-          "url": "https://www.cls.cn/detail/2194008",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "19时11分"
         },
         {
           "title": "AI正凶猛“加杠杆”",
@@ -38,7 +27,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "19时11分"
+        },
+        {
+          "title": "甲骨文万亿市值幻梦一场：AI狂欢的背后，风险已成“房间里的大象”",
+          "url": "https://www.cls.cn/detail/2194008",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时11分"
         },
         {
           "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
@@ -49,40 +49,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "19时11分"
         },
         {
           "title": "黄仁勋、杨立昆等多位大佬发声：与人类智慧媲美的AI技术已经到来",
           "url": "https://www.cls.cn/detail/2193935",
           "source": "财联社热门",
           "ranks": [
-            12
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "19时11分"
         },
         {
-          "title": "国办：打造一批新领域新赛道应用场景，加强人工智能领域关键核心技术攻关和推广应用",
-          "url": "https://wallstreetcn.com/livenews/3001120",
+          "title": "福建：遴选人工智能优质企业 给予每个企业一次性最高300万元奖励",
+          "url": "https://wallstreetcn.com/livenews/3001166",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时13分"
-        },
-        {
-          "title": "中国台湾10月出口狂增近50% AI需求与电子新品拉货共同发酵",
-          "url": "https://wallstreetcn.com/livenews/3001112",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "19时11分"
         }
       ]
     },
@@ -99,7 +88,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "19时11分"
         }
       ]
     },
@@ -116,7 +105,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时13分"
+          "time_info": "19时11分"
         }
       ]
     }
