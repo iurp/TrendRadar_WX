@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-08T03:09:24.636411+08:00",
+  "generated_at": "2025-11-08T04:12:57.076502+08:00",
   "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
@@ -16,18 +16,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时09分"
+          "time_info": "04时12分"
         },
         {
           "title": "美国总统特朗普：我完全支持人工智能。",
           "url": "https://flash.jin10.com/detail/20251108022405006800",
           "source": "金十数据",
           "ranks": [
-            10
+            23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时09分"
+          "time_info": "04时12分"
         }
       ]
     },
@@ -44,7 +44,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时09分"
+          "time_info": "04时12分"
         }
       ]
     }
