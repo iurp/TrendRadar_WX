@@ -1,44 +1,22 @@
 {
-  "generated_at": "2025-11-07T22:12:06.260341+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2025-11-07T23:12:19.591107+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 3,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
       "titles": [
         {
-          "title": "甲骨文万亿市值幻梦一场：AI狂欢的背后，风险已成“房间里的大象”",
-          "url": "https://www.cls.cn/detail/2194008",
-          "source": "财联社热门",
+          "title": "美股明星科技股普跌，特斯拉(TSLA.O)、AMD(AMD.O)跌约3.5%，甲骨文(ORCL.N)、英伟达(NVDA.O)跌约2%，谷歌(GOOG.O)跌超1%。",
+          "url": "https://flash.jin10.com/detail/20251107223609043800",
+          "source": "金十数据",
           "ranks": [
-            6
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时11分 ~ 22时12分]"
-        },
-        {
-          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
-          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
-          "source": "澎湃新闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时11分 ~ 22时12分]"
-        },
-        {
-          "title": "AI正凶猛“加杠杆”",
-          "url": "https://wallstreetcn.com/articles/3758866",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时11分 ~ 22时12分]"
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     },
@@ -54,8 +32,25 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时11分 ~ 22时12分]"
+          "appearance_count": 1,
+          "time_info": "23时12分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "黄仁勋“炸鸡啤酒会面”背后：韩国欲跻身“AI三大强国”，但须借力美国",
+          "url": "https://m.thepaper.cn/newsDetail_forward_31909806",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "23时12分"
         }
       ]
     }
