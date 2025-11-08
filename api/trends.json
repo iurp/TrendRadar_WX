@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-08T21:17:57.794160+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2025-11-08T22:09:57.507975+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -16,18 +16,18 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "22时09分"
         },
         {
           "title": "美国科技股遇4月来“最惨一周”，“AI八巨头”单周市值损失8000亿美元",
           "url": "https://wallstreetcn.com/articles/3758961",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "22时09分"
         },
         {
           "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
@@ -38,46 +38,29 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "22时09分"
         },
         {
           "title": "用AI前瞻S15决赛",
           "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%89%8D%E7%9E%BBS15%E5%86%B3%E8%B5%9B",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "22时09分"
         },
         {
           "title": "美国俄勒冈州参议员卢·弗雷德里克时隔6年再次访华，Accelerate合伙人称在AI存在投资、合作机会",
           "url": "https://wallstreetcn.com/livenews/3001548",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时17分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "gemini 毒奶",
-          "url": "https://m.weibo.cn/search?containerid=100103type%3D1%26t%3D10%26q%3Dgemini+%E6%AF%92%E5%A5%B6&stream_entry_id=31&isnewpage=1&extparam=seat%3D1%26filter_type%3Drealtimehot%26c_type%3D31%26cate%3D5001%26pos%3D25%26band_rank%3D25%26lcate%3D5001%26stream_entry_id%3D31%26realpos%3D25%26q%3Dgemini%2520%25E6%25AF%2592%25E5%25A5%25B6%26flag%3D1%26dgr%3D0%26display_time%3D1762607163%26pre_seqid%3D176260716370102455296139&launchid=10000360-page_H5",
-          "source": "微博",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "22时09分"
         }
       ]
     },
@@ -94,7 +77,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时17分"
+          "time_info": "22时09分"
         }
       ]
     }
