@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-11-08T16:15:23.827820+08:00",
+  "generated_at": "2025-11-08T17:11:31.386570+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -16,68 +16,57 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时15分"
+          "time_info": "17时11分"
         },
         {
-          "title": "“六小龙”乌镇对话思考AI和未来",
-          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E5%85%AD%E5%B0%8F%E9%BE%99%E2%80%9D%E4%B9%8C%E9%95%87%E5%AF%B9%E8%AF%9D%E6%80%9D%E8%80%83AI%E5%92%8C%E6%9C%AA%E6%9D%A5",
-          "source": "百度热搜",
+          "title": "今年的乌镇AI含量拉满了",
+          "url": "https://www.douyin.com/hot/2297632",
+          "source": "抖音",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
-          "title": "世界互联网大会蓝皮书：人工智能向全域赋能发展",
-          "url": "https://wallstreetcn.com/livenews/3001525",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时15分"
+          "time_info": "17时11分"
         },
         {
           "title": "国办：加强人工智能领域关键核心技术攻关和推广应用，推动海陆空全空间无人体系应用和标准建设",
           "url": "https://wallstreetcn.com/articles/3758922",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时15分"
+          "time_info": "17时11分"
+        },
+        {
+          "title": "世界互联网大会蓝皮书：人工智能向全域赋能发展",
+          "url": "https://wallstreetcn.com/livenews/3001525",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时11分"
         }
       ]
     },
     {
       "keyword_group": "GPT-5 Claude 3.5 Claude Next Sora Runway Video AI OpenAI GPTs Midjourney Flux",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "Kimi K2 Thinking的运行成本比GPT-5低一个数量级",
-          "url": "https://flash.jin10.com/detail/20251108114537696800",
-          "source": "金十数据",
+          "title": "不止希望政府担保，10月底OpenAI致信特朗普政府，要求“扩大税收抵扣”以降低数据中心成本",
+          "url": "https://wallstreetcn.com/articles/3758970",
+          "source": "华尔街见闻",
           "ranks": [
-            28
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时15分"
-        },
-        {
-          "title": "Kimi K2 Thinking在多项推理测试中均超过GPT-5",
-          "url": "https://flash.jin10.com/detail/20251108113903967800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时15分"
+          "time_info": "17时11分"
         }
       ]
     }
