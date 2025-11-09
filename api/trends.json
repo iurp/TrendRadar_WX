@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T12:14:52.402514+08:00",
+  "generated_at": "2025-11-09T13:13:23.646358+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 9,
+      "match_count": 7,
       "titles": [
         {
           "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
@@ -16,18 +16,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "用AI前瞻S15决赛",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%89%8D%E7%9E%BBS15%E5%86%B3%E8%B5%9B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时13分"
         },
         {
           "title": "大空头2.0横空出世做空AI 这次可以跟么？",
@@ -38,7 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时13分"
         },
         {
           "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
@@ -49,7 +38,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时13分"
         },
         {
           "title": "澎湃AI晚新闻丨2025年11月8日",
@@ -60,51 +49,40 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时13分"
+        },
+        {
+          "title": "用AI前瞻S15决赛",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%89%8D%E7%9E%BBS15%E5%86%B3%E8%B5%9B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         },
         {
           "title": "截至今年9月浙江人工智能核心产业营业收入4944亿元，同比增长22%",
           "url": "https://flash.jin10.com/detail/20251109085033064800",
           "source": "金十数据",
           "ranks": [
-            21
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时13分"
         },
         {
           "title": "美国联邦航空管理局（FAA）：因人手不足，对Newark Airport（纽瓦克机场）发布航班暂停起降命令。",
           "url": "https://wallstreetcn.com/livenews/3001608",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            22
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "GAI在演唱会庆祝重庆铜梁龙冲超成功",
-          "url": "https://www.toutiao.com/trending/7570246466659893290/",
-          "source": "今日头条",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
-        },
-        {
-          "title": "AI一键格桑花儿开转场",
-          "url": "https://www.douyin.com/hot/2299288",
-          "source": "抖音",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时14分"
+          "time_info": "13时13分"
         }
       ]
     }
