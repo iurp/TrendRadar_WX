@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-09T15:10:51.555730+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-09T16:14:09.981420+08:00",
+  "total_titles_processed": 325,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
@@ -15,8 +15,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时14分]"
+        },
+        {
+          "title": "英伟达CEO希望台积电供应更多晶圆 以满足强劲的AI需求",
+          "url": "https://flash.jin10.com/detail/20251109154126817800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时10分"
+          "time_info": "16时14分"
         },
         {
           "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
@@ -26,30 +37,30 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时14分]"
         },
         {
           "title": "大空头2.0横空出世做空AI 这次可以跟么？",
           "url": "https://wallstreetcn.com/premium/articles/3758949?layout=wscn-layout",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时14分]"
         },
         {
           "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
           "url": "https://www.cls.cn/detail/2193939",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时14分]"
         },
         {
           "title": "澎湃AI晚新闻丨2025年11月8日",
@@ -59,19 +70,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时14分]"
         },
         {
-          "title": "用AI前瞻S15决赛",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8AI%E5%89%8D%E7%9E%BBS15%E5%86%B3%E8%B5%9B",
-          "source": "bilibili 热搜",
+          "title": "AI一键格桑花儿开转场",
+          "url": "https://www.douyin.com/hot/2299288",
+          "source": "抖音",
           "ranks": [
-            26
+            28
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时10分"
+          "appearance_count": 2,
+          "time_info": "[16时13分 ~ 16时14分]"
         }
       ]
     }
