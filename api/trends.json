@@ -1,88 +1,110 @@
 {
-  "generated_at": "2025-11-09T17:11:15.015173+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-09T18:12:54.519161+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
-          "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
-          "url": "https://www.zhihu.com/question/1970150431255684262",
-          "source": "知乎",
+          "title": "研究员：AI或取代绝大部分人类工作",
+          "url": "https://www.toutiao.com/trending/7570635868688354825/",
+          "source": "今日头条",
           "ranks": [
-            2
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "中信证券：AI叙事只是影响了行情斜率而不是趋势，调仓思路不用刻意回避AI叙事",
+          "url": "https://wallstreetcn.com/livenews/3001665",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
           "url": "https://wallstreetcn.com/articles/3758983",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
-          "title": "大空头2.0横空出世做空AI 这次可以跟么？",
-          "url": "https://wallstreetcn.com/premium/articles/3758949?layout=wscn-layout",
-          "source": "华尔街见闻",
+          "title": "保安和 AI 对话六个月，称 AI 发来签约协议让其信以为真，打印聊天记录要说法，AI 背后公司要担责吗？",
+          "url": "https://www.zhihu.com/question/1970150431255684262",
+          "source": "知乎",
           "ranks": [
-            9
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "就在下周！6G发展大会举办在即 将发布AI通智融合最新成果",
           "url": "https://www.cls.cn/detail/2193939",
           "source": "财联社热门",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "澎湃AI晚新闻丨2025年11月8日",
           "url": "https://m.thepaper.cn/newsDetail_forward_31925343",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
-        },
-        {
-          "title": "AI一键格桑花儿开转场",
-          "url": "https://www.douyin.com/hot/2299288",
-          "source": "抖音",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时10分 ~ 17时11分]"
+          "appearance_count": 1,
+          "time_info": "18时12分"
         },
         {
           "title": "英伟达CEO希望台积电供应更多晶圆 以满足强劲的AI需求",
           "url": "https://flash.jin10.com/detail/20251109154126817800",
           "source": "金十数据",
           "ranks": [
-            6
+            17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时11分"
+          "time_info": "18时12分"
+        },
+        {
+          "title": "GAI演唱会江湖流大合唱",
+          "url": "https://www.douyin.com/hot/2300262",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时12分"
+        },
+        {
+          "title": "GAI首场体育场演唱会现场",
+          "url": "https://search.bilibili.com/all?keyword=GAI%E9%A6%96%E5%9C%BA%E4%BD%93%E8%82%B2%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A%E7%8E%B0%E5%9C%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时12分"
         }
       ]
     },
@@ -97,9 +119,9 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "17时11分"
+          "time_info": "18时12分"
         }
       ]
     }
