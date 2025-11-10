@@ -1,33 +1,22 @@
 {
-  "generated_at": "2025-11-10T10:44:14.235169+08:00",
-  "total_titles_processed": 301,
+  "generated_at": "2025-11-10T11:46:40.040914+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 5,
+      "match_count": 4,
       "titles": [
         {
           "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
           "url": "https://www.cls.cn/detail/2195310",
           "source": "财联社热门",
           "ranks": [
-            6
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        },
-        {
-          "title": "AI引爆“电荒” 韩国电池三巨头转向储能 在美总产能计划翻倍",
-          "url": "https://www.cls.cn/detail/2195198",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
+          "appearance_count": 1,
+          "time_info": "11时46分"
         },
         {
           "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
@@ -37,30 +26,30 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
-        },
-        {
-          "title": "每天一个奇吧—novelai吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
-          "source": "贴吧",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
+          "appearance_count": 1,
+          "time_info": "11时46分"
         },
         {
           "title": "一口气看清美股AI泡沫",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时43分 ~ 10时44分]"
+          "appearance_count": 1,
+          "time_info": "11时46分"
+        },
+        {
+          "title": "每天一个奇吧—novelai吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时46分"
         }
       ]
     }
