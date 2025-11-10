@@ -1,66 +1,44 @@
 {
-  "generated_at": "2025-11-10T14:19:15.889688+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-10T15:14:18.906316+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "一口气看清美股AI泡沫",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
-        },
         {
           "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
           "url": "https://www.cls.cn/detail/2195310",
           "source": "财联社热门",
           "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
-        },
-        {
-          "title": "中信建投：Meta确认6000亿美元AI投资计划，中科曙光发布640卡超节点",
-          "url": "https://wallstreetcn.com/livenews/3001963",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "15时14分"
         },
         {
-          "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
-          "url": "https://wallstreetcn.com/livenews/3001961",
-          "source": "华尔街见闻-快讯",
+          "title": "一口气看清美股AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "15时14分"
         },
         {
-          "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
-          "url": "https://flash.jin10.com/detail/20251110140226573800",
-          "source": "金十数据",
+          "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
+          "url": "https://www.cls.cn/detail/2195390",
+          "source": "财联社热门",
           "ranks": [
-            4
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时19分"
+          "time_info": "15时14分"
         },
         {
           "title": "当机构约60%的持仓与AI相关",
@@ -70,42 +48,74 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
-        },
-        {
-          "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
-          "url": "https://www.cls.cn/detail/2195390",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
-        },
-        {
-          "title": "每天一个奇吧—novelai吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
-          "source": "贴吧",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
+          "appearance_count": 1,
+          "time_info": "15时14分"
         },
         {
           "title": "美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论",
           "url": "https://www.cls.cn/detail/2195609",
           "source": "财联社热门",
           "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "比AI更刺激！“量子神股”19倍涨幅背后：一场基于梦想的豪赌？",
+          "url": "https://www.cls.cn/detail/2195504",
+          "source": "财联社热门",
+          "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时18分 ~ 14时19分]"
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "每天一个奇吧—novelai吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
+          "source": "贴吧",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
+          "url": "https://flash.jin10.com/detail/20251110140226573800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "中信建投：Meta确认6000亿美元AI投资计划，中科曙光发布640卡超节点",
+          "url": "https://wallstreetcn.com/livenews/3001963",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时14分"
+        },
+        {
+          "title": "韩国顶级高校曝作弊丑闻：数百学生涉嫌用AI参加考试",
+          "url": "https://wallstreetcn.com/livenews/3001961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时14分"
         }
       ]
     }
