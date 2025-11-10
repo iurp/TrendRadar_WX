@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-10T08:54:23.503509+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2025-11-10T10:44:14.235169+08:00",
+  "total_titles_processed": 301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 7,
+      "match_count": 5,
       "titles": [
         {
           "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
@@ -15,74 +15,52 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "美国参议院民主党议员Kaine表示，他支持共和党提出的结束政府停摆的法案。",
-          "url": "https://flash.jin10.com/detail/20251110081812830800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "每天一个奇吧—novelai吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
         },
         {
           "title": "AI引爆“电荒” 韩国电池三巨头转向储能 在美总产能计划翻倍",
           "url": "https://www.cls.cn/detail/2195198",
           "source": "财联社热门",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
         },
         {
-          "title": "康养机器人、跌倒监测相机……当养老遇见AI ，如何撬动“老有所AI”的万亿级市场？",
-          "url": "https://www.cls.cn/detail/2195107",
-          "source": "财联社热门",
+          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
+          "url": "https://wallstreetcn.com/articles/3758983",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
         },
         {
-          "title": "中信建投：寻找业绩弹性，把握结构性行情，重点关注AI、新能源等方向",
-          "url": "https://wallstreetcn.com/livenews/3001788",
-          "source": "华尔街见闻-快讯",
+          "title": "每天一个奇吧—novelai吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
+          "source": "贴吧",
           "ranks": [
-            16
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
         },
         {
-          "title": "澳洲联储副主席豪瑟拒绝提供澳洲联储非加速通胀失业率（NAIRU）及中性利率预估。",
-          "url": "https://wallstreetcn.com/livenews/3001775",
-          "source": "华尔街见闻-快讯",
+          "title": "一口气看清美股AI泡沫",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E5%8F%A3%E6%B0%94%E7%9C%8B%E6%B8%85%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "bilibili 热搜",
           "ranks": [
-            26
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
+          "appearance_count": 2,
+          "time_info": "[10时43分 ~ 10时44分]"
         }
       ]
     }
