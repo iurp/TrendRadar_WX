@@ -1,12 +1,23 @@
 {
-  "generated_at": "2025-11-10T12:20:36.067281+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2025-11-10T13:13:37.284306+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "AI 人工智能 AI创业 AI创业者 超级个体 AI个体 AI主理人 一人公司 独立开发者 indie hacker 内容变现 知识付费 AI副业 自动化运营 AI营销 Agent",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "金十数据整理：每日人工智能动态汇总（2025-11-10）",
+          "url": "https://flash.jin10.com/detail/20251110120705247800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
         {
           "title": "打破AI“用电荒”？太空算力争夺赛开打 科技巨头加速布局",
           "url": "https://www.cls.cn/detail/2195310",
@@ -16,29 +27,7 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "日本央行审议委员中川顺子：我关注的风险包括美国经济前景，例如关税对经济和物价的影响可能大于预期，以及人工智能驱动的投资增长预期可能发生改变。",
-          "url": "https://flash.jin10.com/detail/20251110114848718800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "关于“AI泡沫”，“中选政治”和“推翻关税”，来自美银Hartnett的判断，他说“顶部是一个过程，而底部是一个瞬间”",
-          "url": "https://wallstreetcn.com/articles/3758983",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "time_info": "13时13分"
         },
         {
           "title": "一口气看清美股AI泡沫",
@@ -49,29 +38,51 @@
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "每天一个奇吧—novelai吧",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
-          "source": "贴吧",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时20分"
+          "time_info": "13时13分"
         },
         {
           "title": "太空成为AI算力的新战场 相关产业链有望迎来爆发",
           "url": "https://www.cls.cn/detail/2195390",
           "source": "财联社热门",
           "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "日本央行审议委员中川顺子：我关注的风险包括美国经济前景，例如关税对经济和物价的影响可能大于预期，以及人工智能驱动的投资增长预期可能发生改变。",
+          "url": "https://flash.jin10.com/detail/20251110114848718800",
+          "source": "金十数据",
+          "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时20分"
+          "time_info": "13时13分"
+        },
+        {
+          "title": "每天一个奇吧—novelai吧",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28346920&amp;topic_name=%E6%AF%8F%E5%A4%A9%E4%B8%80%E4%B8%AA%E5%A5%87%E5%90%A7%E2%80%94novelai%E5%90%A7",
+          "source": "贴吧",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
+        },
+        {
+          "title": "美联储下一次QE得买AI公司债？“华尔街最准分析师”又抛神论",
+          "url": "https://www.cls.cn/detail/2195609",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时13分"
         }
       ]
     }
